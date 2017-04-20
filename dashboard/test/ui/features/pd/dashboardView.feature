@@ -3,6 +3,7 @@
 
 Feature: Basic appearance for Facilitator Survey UI
 
+@no_circle
 Scenario: Facilitator View of dashboard is as expected
   Given I am a facilitator with started and completed courses
   And I am on "http://studio.code.org/pd/workshop_dashboard"
