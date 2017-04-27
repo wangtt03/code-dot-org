@@ -8,7 +8,7 @@ else
   bind "tcp://#{CDO.dashboard_host}:#{CDO.dashboard_port}"
 end
 workers CDO.dashboard_workers unless CDO.dashboard_workers.to_i < 2
-threads 8, 64
+threads 8, 16
 
 pidfile "#{File.expand_path(__FILE__)}.pid"
 preload_app!
