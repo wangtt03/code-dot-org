@@ -109,6 +109,7 @@ gem 'factory_girl_rails', group: [:development, :staging, :test, :adhoc]
 gem 'open_uri_redirections', require: false, group: [:development, :staging, :test]
 
 gem 'unicorn', '~> 5.1.0'
+gem 'puma'
 
 gem 'chronic', '~> 0.10.2'
 
