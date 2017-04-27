@@ -49,11 +49,11 @@ group :development do
   gem 'annotate'
   gem 'rack-mini-profiler'
   gem 'ruby-progressbar', require: false
-  gem 'thin'
   gem 'web-console'
 end
 
 group :development, :test do
+  gem 'thin'
   gem 'rack-cache'
   gem 'rerun', '~> 0.10.0'
   gem 'shotgun'
@@ -108,8 +108,8 @@ gem 'factory_girl_rails', group: [:development, :staging, :test, :adhoc]
 # For pegasus PDF generation.
 gem 'open_uri_redirections', require: false, group: [:development, :staging, :test]
 
-gem 'unicorn', '~> 5.1.0'
 gem 'puma'
+gem 'unicorn', '~> 5.1.0'
 
 gem 'chronic', '~> 0.10.2'
 
