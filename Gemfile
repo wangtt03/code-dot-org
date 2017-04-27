@@ -82,7 +82,7 @@ group :development, :test do
   gem 'chromedriver-helper', '~> 0.0.7'
   gem 'colorize'
   gem 'cucumber', '~> 2.0.2'
-  gem 'eyes_selenium', '3.2.2'
+  gem 'eyes_selenium', '~> 2.38.0'
   gem 'minitest', '~> 5.5'
   gem 'minitest-around'
   gem 'minitest-reporters'
@@ -189,7 +189,7 @@ gem 'marked-rails' # js-based md renderer used for levelbuilder md preview
 gem 'twilio-ruby' # SMS API for send-to-phone feature
 
 gem 'font-awesome-rails', '~> 4.6.3'
-gem 'sequel', '~> 4.10'
+gem 'sequel', '~> 4.30'
 gem 'user_agent_parser'
 
 # As of 2017-04-13, the recovery_window option for restores is available in the specified commit
