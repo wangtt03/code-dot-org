@@ -10,9 +10,10 @@ namespace :dashboard do
     puts 'Running setup_or_migrate'
     Rake::Task['db:setup_or_migrate'].execute
     puts 'Running seed:all'
-    task = Rake::Task['seed:all']
-    puts task
-    puts task.execute
+    next_task = Rake::Task['seed:all']
+    puts next_task
+    next_task.reenable
+    next_task.invoke
     puts 'Ran seed:all'
   end
 end
