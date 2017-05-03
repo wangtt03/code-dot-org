@@ -2,6 +2,7 @@ require "csv"
 
 namespace :seed do
   verbose false
+  puts 'in seed task'
 
   task videos: :environment do
     Video.setup
@@ -23,6 +24,7 @@ namespace :seed do
   end
 
   def update_scripts(opts = {})
+    puts 'updating scripts'
     # optionally, only process modified scripts to speed up seed time
     scripts_seeded_mtime = (opts[:incremental] && File.exist?(SEEDED)) ?
       File.mtime(SEEDED) : Time.at(0)
