@@ -42,7 +42,7 @@ namespace :install do
         if ENV['CI'] && ENV['CIRCLE_NODE_INDEX'] != '1'
           RakeUtils.rake_stream_output 'db:create db:test:prepare'
         else
-          RakeUtils.rake 'dashboard:setup_db'
+          RakeUtils.rake_stream_output 'dashboard:setup_db'
         end
       end
     end
