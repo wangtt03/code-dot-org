@@ -6,6 +6,8 @@ require File.expand_path('../config/application', __FILE__)
 Dashboard::Application.load_tasks
 
 namespace :dashboard do
-  task setup_db: ['db:setup_or_migrate', 'seed:all'] do
+  task :setup_db do
+    Rake::Task['db:setup_or_migrate'].execute
+    Rake::Task['seed:all'].execute
   end
 end
