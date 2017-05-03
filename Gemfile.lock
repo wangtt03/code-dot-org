@@ -420,7 +420,7 @@ GEM
     multi_xml (0.5.5)
     multipart-post (2.0.0)
     mustermann (1.0.0.beta2)
-    mysql2 (0.3.21)
+    mysql2 (0.4.5)
     naturally (2.1.0)
     net-http-persistent (2.9.4)
     net-scp (1.2.1)
@@ -771,7 +771,7 @@ DEPENDENCIES
   minitest-around
   minitest-reporters
   mocha
-  mysql2 (~> 0.3.13)
+  mysql2 (~> 0.4.5)
   naturally
   net-http-persistent
   net-scp

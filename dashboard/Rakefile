@@ -7,7 +7,10 @@ Dashboard::Application.load_tasks
 
 namespace :dashboard do
   task :setup_db do
+    puts 'Running setup_or_migrate'
     Rake::Task['db:setup_or_migrate'].execute
+    puts 'Running seed:all'
     Rake::Task['seed:all'].execute
+    puts 'Ran seed:all'
   end
 end
