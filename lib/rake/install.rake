@@ -42,8 +42,8 @@ namespace :install do
         if ENV['CI'] && ENV['CIRCLE_NODE_INDEX'] != '1'
           RakeUtils.rake_stream_output 'db:create db:test:prepare'
         else
-          RakeUtils.rake_stream_output 'dashboard:setup_or_migrate'
-          RakeUtils.rake_stream_output 'dashboard:seed:all'
+          RakeUtils.rake_stream_output 'db:setup_or_migrate'
+          RakeUtils.rake_stream_output 'seed:all'
         end
       end
     end
