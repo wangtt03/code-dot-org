@@ -5,15 +5,16 @@ import ProgressButton from '../progress/ProgressButton';
 const styles = {
   container: {
     height: 250,
-    width: 1000,
+    width: 960,
     borderStyle: 'solid',
     borderWidth: 1,
     borderColor: color.border_gray,
     borderRadius: 3,
     backgroundColor: color.white,
+    marginLeft: 25
   },
   tealBar: {
-    width: 1000,
+    width: 960,
     height: 72,
     backgroundColor: color.light_teal,
   },
