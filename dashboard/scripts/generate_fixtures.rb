@@ -55,11 +55,12 @@ scripts_map.each do |_script_id, name|
   script.script_levels.to_a[0, 10000].each do |sl|
     key = "script_level_#{sl.script_id}_#{sl.level_id}"
     @script_levels[key] = sl.attributes
+    @script_levels[key][:levels] = sl.level_ids.map {|id| "level_#{id}"}.join(', ')
 
     sl.callouts.each do |c|
       @callouts["callout_#{c.id}"] = c.attributes
     end
-    handle_level(sl.level)
+    sl.levels.each {|level| handle_level(level)}
   end
 end
 
