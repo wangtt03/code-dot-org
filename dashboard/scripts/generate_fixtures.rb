@@ -73,6 +73,7 @@ def yamlize(hsh)
     if v.key?("properties") && v['properties']
       v['properties'] = v['properties'].to_json
     end
+    v.delete('id')
   end
   return hsh.to_yaml[4..-1]
 end

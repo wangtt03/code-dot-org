@@ -1,5 +1,4 @@
 stage_21:
-  id: 21
   name: Hour of Code 2013
   absolute_position: 1
   script_id: 2
@@ -17,7 +16,6 @@ stage_21:
   lockable: 
   relative_position: 1
 stage_22:
-  id: 22
   name: The Maze
   absolute_position: 1
   script_id: 3
@@ -35,7 +33,6 @@ stage_22:
   lockable: 
   relative_position: 1
 stage_23:
-  id: 23
   name: Applab
   absolute_position: 2
   script_id: 3
@@ -53,7 +50,6 @@ stage_23:
   lockable: 
   relative_position: 2
 stage_24:
-  id: 24
   name: The Artist
   absolute_position: 3
   script_id: 3
@@ -71,7 +67,6 @@ stage_24:
   lockable: 
   relative_position: 3
 stage_25:
-  id: 25
   name: Play Lab
   absolute_position: 4
   script_id: 3
@@ -89,7 +84,6 @@ stage_25:
   lockable: 
   relative_position: 4
 stage_26:
-  id: 26
   name: Hoc2015 Blockly
   absolute_position: 5
   script_id: 3
@@ -107,7 +101,6 @@ stage_26:
   lockable: 
   relative_position: 5
 stage_27:
-  id: 27
   name: Bounce
   absolute_position: 1
   script_id: 4
@@ -125,7 +118,6 @@ stage_27:
   lockable: 
   relative_position: 1
 stage_28:
-  id: 28
   name: Studio
   absolute_position: 2
   script_id: 4
@@ -143,7 +135,6 @@ stage_28:
   lockable: 
   relative_position: 2
 stage_29:
-  id: 29
   name: Calc
   absolute_position: 3
   script_id: 4
@@ -161,7 +152,6 @@ stage_29:
   lockable: 
   relative_position: 3
 stage_30:
-  id: 30
   name: Eval
   absolute_position: 4
   script_id: 4
@@ -179,7 +169,6 @@ stage_30:
   lockable: 
   relative_position: 4
 stage_32:
-  id: 32
   name: Jigsaw
   absolute_position: 1
   script_id: 7
@@ -197,7 +186,6 @@ stage_32:
   lockable: 
   relative_position: 1
 stage_1261:
-  id: 1261
   name: Maze
   absolute_position: 1
   script_id: 162
@@ -215,7 +203,6 @@ stage_1261:
   lockable: 
   relative_position: 1
 stage_1391:
-  id: 1391
   name: Hour of Code 2015
   absolute_position: 1
   script_id: 188
@@ -233,7 +220,6 @@ stage_1391:
   lockable: 
   relative_position: 1
 stage_1253:
-  id: 1253
   name: Artist
   absolute_position: 1
   script_id: 150
@@ -251,7 +237,6 @@ stage_1253:
   lockable: 
   relative_position: 1
 stage_1294:
-  id: 1294
   name: Play Lab
   absolute_position: 1
   script_id: 172
@@ -269,7 +254,6 @@ stage_1294:
   lockable: 
   relative_position: 1
 stage_1263:
-  id: 1263
   name: Infinity
   absolute_position: 1
   script_id: 164
@@ -287,7 +271,6 @@ stage_1263:
   lockable: 
   relative_position: 1
 stage_452:
-  id: 452
   name: Artist
   absolute_position: 1
   script_id: 69
@@ -305,7 +288,6 @@ stage_452:
   lockable: 
   relative_position: 1
 stage_284:
-  id: 284
   name: 'Unplugged: Video Games and Coordinate Planes'
   absolute_position: 1
   script_id: 49
@@ -323,7 +305,6 @@ stage_284:
   lockable: 
   relative_position: 1
 stage_285:
-  id: 285
   name: 'Calc: Evaluation Blocks'
   absolute_position: 2
   script_id: 49
@@ -341,7 +322,6 @@ stage_285:
   lockable: 
   relative_position: 2
 stage_286:
-  id: 286
   name: 'Eval: Strings and Images'
   absolute_position: 3
   script_id: 49
@@ -359,7 +339,6 @@ stage_286:
   lockable: 
   relative_position: 3
 stage_287:
-  id: 287
   name: 'Unplugged: Contracts'
   absolute_position: 4
   script_id: 49
@@ -377,7 +356,6 @@ stage_287:
   lockable: 
   relative_position: 4
 stage_288:
-  id: 288
   name: 'Eval: Writing Contracts'
   absolute_position: 5
   script_id: 49
@@ -395,7 +373,6 @@ stage_288:
   lockable: 
   relative_position: 5
 stage_289:
-  id: 289
   name: 'Calc: Defining Variables'
   absolute_position: 6
   script_id: 49
@@ -413,7 +390,6 @@ stage_289:
   lockable: 
   relative_position: 6
 stage_290:
-  id: 290
   name: 'Play Lab: Defining Variables (Big Game)'
   absolute_position: 7
   script_id: 49
@@ -431,7 +407,6 @@ stage_290:
   lockable: 
   relative_position: 7
 stage_291:
-  id: 291
   name: 'Eval: Defining Functions'
   absolute_position: 8
   script_id: 49
@@ -449,7 +424,6 @@ stage_291:
   lockable: 
   relative_position: 8
 stage_292:
-  id: 292
   name: 'Unplugged: The Design Recipe'
   absolute_position: 9
   script_id: 49
@@ -467,7 +441,6 @@ stage_292:
   lockable: 
   relative_position: 9
 stage_293:
-  id: 293
   name: 'Play Lab: Defining Functions'
   absolute_position: 10
   script_id: 49
@@ -485,7 +458,6 @@ stage_293:
   lockable: 
   relative_position: 10
 stage_294:
-  id: 294
   name: 'Eval: Functions'
   absolute_position: 11
   script_id: 49
@@ -503,7 +475,6 @@ stage_294:
   lockable: 
   relative_position: 11
 stage_295:
-  id: 295
   name: 'Play Lab: Animation (Big Game)'
   absolute_position: 12
   script_id: 49
@@ -521,7 +492,6 @@ stage_295:
   lockable: 
   relative_position: 12
 stage_296:
-  id: 296
   name: 'Unplugged: Booleans'
   absolute_position: 13
   script_id: 49
@@ -539,7 +509,6 @@ stage_296:
   lockable: 
   relative_position: 13
 stage_297:
-  id: 297
   name: 'Eval: Boolean Operators'
   absolute_position: 14
   script_id: 49
@@ -557,7 +526,6 @@ stage_297:
   lockable: 
   relative_position: 14
 stage_298:
-  id: 298
   name: 'Play Lab: Booleans'
   absolute_position: 15
   script_id: 49
@@ -575,7 +543,6 @@ stage_298:
   lockable: 
   relative_position: 15
 stage_299:
-  id: 299
   name: 'Play Lab: Boolean (Big Game)'
   absolute_position: 16
   script_id: 49
@@ -593,7 +560,6 @@ stage_299:
   lockable: 
   relative_position: 16
 stage_300:
-  id: 300
   name: 'Unplugged: Conditionals and Piecewise Functions'
   absolute_position: 17
   script_id: 49
@@ -611,7 +577,6 @@ stage_300:
   lockable: 
   relative_position: 17
 stage_301:
-  id: 301
   name: 'Eval: Conditionals'
   absolute_position: 18
   script_id: 49
@@ -629,7 +594,6 @@ stage_301:
   lockable: 
   relative_position: 18
 stage_302:
-  id: 302
   name: 'Unplugged: Collision Detection and the Distance Formula'
   absolute_position: 19
   script_id: 49
@@ -647,7 +611,6 @@ stage_302:
   lockable: 
   relative_position: 19
 stage_303:
-  id: 303
   name: 'Play Lab: Collision Detection (Big Game)'
   absolute_position: 20
   script_id: 49
@@ -665,7 +628,6 @@ stage_303:
   lockable: 
   relative_position: 20
 stage_320:
-  id: 320
   name: Introduction to PD
   absolute_position: 1
   script_id: 53
@@ -683,7 +645,6 @@ stage_320:
   lockable: 
   relative_position: 1
 stage_321:
-  id: 321
   name: Course Overview
   absolute_position: 2
   script_id: 53
@@ -701,7 +662,6 @@ stage_321:
   lockable: 
   relative_position: 2
 stage_322:
-  id: 322
   name: Why Computer Science belongs in Algebra
   absolute_position: 3
   script_id: 53
@@ -719,7 +679,6 @@ stage_322:
   lockable: 
   relative_position: 3
 stage_323:
-  id: 323
   name: Evaluation Blocks
   absolute_position: 4
   script_id: 53
@@ -737,7 +696,6 @@ stage_323:
   lockable: 
   relative_position: 4
 stage_324:
-  id: 324
   name: Teacher Dashboard
   absolute_position: 5
   script_id: 53
@@ -755,7 +713,6 @@ stage_324:
   lockable: 
   relative_position: 5
 stage_325:
-  id: 325
   name: Preparing for in-person PD
   absolute_position: 6
   script_id: 53
@@ -773,7 +730,6 @@ stage_325:
   lockable: 
   relative_position: 6
 stage_31:
-  id: 31
   name: Flappy Code
   absolute_position: 1
   script_id: 6
@@ -791,7 +747,6 @@ stage_31:
   lockable: 
   relative_position: 1
 stage_1:
-  id: 1
   name: Introduction to Computer Science
   absolute_position: 1
   script_id: 1
@@ -809,7 +764,6 @@ stage_1:
   lockable: 
   relative_position: 1
 stage_2:
-  id: 2
   name: The Maze
   absolute_position: 2
   script_id: 1
@@ -827,7 +781,6 @@ stage_2:
   lockable: 
   relative_position: 2
 stage_3:
-  id: 3
   name: Computational Thinking
   absolute_position: 3
   script_id: 1
@@ -845,7 +798,6 @@ stage_3:
   lockable: 
   relative_position: 3
 stage_4:
-  id: 4
   name: Graph Paper Programming
   absolute_position: 4
   script_id: 1
@@ -863,7 +815,6 @@ stage_4:
   lockable: 
   relative_position: 4
 stage_5:
-  id: 5
   name: The Artist
   absolute_position: 5
   script_id: 1
@@ -881,7 +832,6 @@ stage_5:
   lockable: 
   relative_position: 5
 stage_6:
-  id: 6
   name: Algorithms
   absolute_position: 6
   script_id: 1
@@ -899,7 +849,6 @@ stage_6:
   lockable: 
   relative_position: 6
 stage_7:
-  id: 7
   name: The Artist 2
   absolute_position: 7
   script_id: 1
@@ -917,7 +866,6 @@ stage_7:
   lockable: 
   relative_position: 7
 stage_8:
-  id: 8
   name: Functions
   absolute_position: 8
   script_id: 1
@@ -935,7 +883,6 @@ stage_8:
   lockable: 
   relative_position: 8
 stage_9:
-  id: 9
   name: The Farmer
   absolute_position: 9
   script_id: 1
@@ -953,7 +900,6 @@ stage_9:
   lockable: 
   relative_position: 9
 stage_10:
-  id: 10
   name: Conditionals
   absolute_position: 10
   script_id: 1
@@ -971,7 +917,6 @@ stage_10:
   lockable: 
   relative_position: 10
 stage_11:
-  id: 11
   name: The Artist 3
   absolute_position: 11
   script_id: 1
@@ -989,7 +934,6 @@ stage_11:
   lockable: 
   relative_position: 11
 stage_12:
-  id: 12
   name: Song Writing
   absolute_position: 12
   script_id: 1
@@ -1007,7 +951,6 @@ stage_12:
   lockable: 
   relative_position: 12
 stage_13:
-  id: 13
   name: The Farmer 2
   absolute_position: 13
   script_id: 1
@@ -1025,7 +968,6 @@ stage_13:
   lockable: 
   relative_position: 13
 stage_14:
-  id: 14
   name: Abstraction
   absolute_position: 14
   script_id: 1
@@ -1043,7 +985,6 @@ stage_14:
   lockable: 
   relative_position: 14
 stage_15:
-  id: 15
   name: The Artist 4
   absolute_position: 15
   script_id: 1
@@ -1061,7 +1002,6 @@ stage_15:
   lockable: 
   relative_position: 15
 stage_16:
-  id: 16
   name: Relay Programming
   absolute_position: 16
   script_id: 1
@@ -1079,7 +1019,6 @@ stage_16:
   lockable: 
   relative_position: 16
 stage_17:
-  id: 17
   name: The Farmer 3
   absolute_position: 17
   script_id: 1
@@ -1097,7 +1036,6 @@ stage_17:
   lockable: 
   relative_position: 17
 stage_18:
-  id: 18
   name: The Internet
   absolute_position: 18
   script_id: 1
@@ -1115,7 +1053,6 @@ stage_18:
   lockable: 
   relative_position: 18
 stage_19:
-  id: 19
   name: The Artist 5
   absolute_position: 19
   script_id: 1
@@ -1133,7 +1070,6 @@ stage_19:
   lockable: 
   relative_position: 19
 stage_20:
-  id: 20
   name: Wrap-up
   absolute_position: 20
   script_id: 1
@@ -1151,7 +1087,6 @@ stage_20:
   lockable: 
   relative_position: 20
 stage_464:
-  id: 464
   name: Happy Maps
   absolute_position: 1
   script_id: 73
@@ -1169,7 +1104,6 @@ stage_464:
   lockable: 
   relative_position: 1
 stage_465:
-  id: 465
   name: Move it, Move it
   absolute_position: 2
   script_id: 73
@@ -1187,7 +1121,6 @@ stage_465:
   lockable: 
   relative_position: 2
 stage_466:
-  id: 466
   name: 'Jigsaw: Learn to drag and drop'
   absolute_position: 3
   script_id: 73
@@ -1205,7 +1138,6 @@ stage_466:
   lockable: 
   relative_position: 3
 stage_467:
-  id: 467
   name: 'Maze: Sequence'
   absolute_position: 4
   script_id: 73
@@ -1223,7 +1155,6 @@ stage_467:
   lockable: 
   relative_position: 4
 stage_468:
-  id: 468
   name: 'Maze: Debugging'
   absolute_position: 5
   script_id: 73
@@ -1241,7 +1172,6 @@ stage_468:
   lockable: 
   relative_position: 5
 stage_469:
-  id: 469
   name: 'Real-life Algorithms: Plant a Seed'
   absolute_position: 6
   script_id: 73
@@ -1259,7 +1189,6 @@ stage_469:
   lockable: 
   relative_position: 6
 stage_470:
-  id: 470
   name: 'Bee: Sequence'
   absolute_position: 7
   script_id: 73
@@ -1277,7 +1206,6 @@ stage_470:
   lockable: 
   relative_position: 7
 stage_471:
-  id: 471
   name: 'Artist: Sequence'
   absolute_position: 8
   script_id: 73
@@ -1295,7 +1223,6 @@ stage_471:
   lockable: 
   relative_position: 8
 stage_472:
-  id: 472
   name: Building a Foundation
   absolute_position: 9
   script_id: 73
@@ -1313,7 +1240,6 @@ stage_472:
   lockable: 
   relative_position: 9
 stage_473:
-  id: 473
   name: 'Artist: Shapes'
   absolute_position: 10
   script_id: 73
@@ -1331,7 +1257,6 @@ stage_473:
   lockable: 
   relative_position: 10
 stage_474:
-  id: 474
   name: Spelling Bee
   absolute_position: 11
   script_id: 73
@@ -1349,7 +1274,6 @@ stage_474:
   lockable: 
   relative_position: 11
 stage_475:
-  id: 475
   name: Getting Loopy
   absolute_position: 12
   script_id: 73
@@ -1367,7 +1291,6 @@ stage_475:
   lockable: 
   relative_position: 12
 stage_476:
-  id: 476
   name: 'Maze: Loops'
   absolute_position: 13
   script_id: 73
@@ -1385,7 +1308,6 @@ stage_476:
   lockable: 
   relative_position: 13
 stage_477:
-  id: 477
   name: 'Bee: Loops'
   absolute_position: 14
   script_id: 73
@@ -1403,7 +1325,6 @@ stage_477:
   lockable: 
   relative_position: 14
 stage_478:
-  id: 478
   name: The Big Event
   absolute_position: 15
   script_id: 73
@@ -1421,7 +1342,6 @@ stage_478:
   lockable: 
   relative_position: 15
 stage_479:
-  id: 479
   name: 'Studio: Create a Story'
   absolute_position: 16
   script_id: 73
@@ -1439,7 +1359,6 @@ stage_479:
   lockable: 
   relative_position: 16
 stage_480:
-  id: 480
   name: Going Places Safely
   absolute_position: 17
   script_id: 73
@@ -1457,7 +1376,6 @@ stage_480:
   lockable: 
   relative_position: 17
 stage_481:
-  id: 481
   name: 'Artist: Loops'
   absolute_position: 18
   script_id: 73
@@ -1475,7 +1393,6 @@ stage_481:
   lockable: 
   relative_position: 18
 stage_482:
-  id: 482
   name: Graph Paper Programming
   absolute_position: 1
   script_id: 74
@@ -1493,7 +1410,6 @@ stage_482:
   lockable: 
   relative_position: 1
 stage_483:
-  id: 483
   name: 'Real-life Algorithms: Paper Planes'
   absolute_position: 2
   script_id: 74
@@ -1511,7 +1427,6 @@ stage_483:
   lockable: 
   relative_position: 2
 stage_484:
-  id: 484
   name: 'Maze: Sequence'
   absolute_position: 3
   script_id: 74
@@ -1529,7 +1444,6 @@ stage_484:
   lockable: 
   relative_position: 3
 stage_485:
-  id: 485
   name: 'Artist: Sequence'
   absolute_position: 4
   script_id: 74
@@ -1547,7 +1461,6 @@ stage_485:
   lockable: 
   relative_position: 4
 stage_486:
-  id: 486
   name: Getting Loopy
   absolute_position: 5
   script_id: 74
@@ -1565,7 +1478,6 @@ stage_486:
   lockable: 
   relative_position: 5
 stage_487:
-  id: 487
   name: 'Maze: Loops'
   absolute_position: 6
   script_id: 74
@@ -1583,7 +1495,6 @@ stage_487:
   lockable: 
   relative_position: 6
 stage_488:
-  id: 488
   name: 'Artist: Loops'
   absolute_position: 7
   script_id: 74
@@ -1601,7 +1512,6 @@ stage_488:
   lockable: 
   relative_position: 7
 stage_489:
-  id: 489
   name: 'Bee: Loops'
   absolute_position: 8
   script_id: 74
@@ -1619,7 +1529,6 @@ stage_489:
   lockable: 
   relative_position: 8
 stage_490:
-  id: 490
   name: Relay programming
   absolute_position: 9
   script_id: 74
@@ -1637,7 +1546,6 @@ stage_490:
   lockable: 
   relative_position: 9
 stage_491:
-  id: 491
   name: 'Bee: Debugging'
   absolute_position: 10
   script_id: 74
@@ -1655,7 +1563,6 @@ stage_491:
   lockable: 
   relative_position: 10
 stage_492:
-  id: 492
   name: 'Artist: Debugging'
   absolute_position: 11
   script_id: 74
@@ -1673,7 +1580,6 @@ stage_492:
   lockable: 
   relative_position: 11
 stage_493:
-  id: 493
   name: Conditionals
   absolute_position: 12
   script_id: 74
@@ -1691,7 +1597,6 @@ stage_493:
   lockable: 
   relative_position: 12
 stage_494:
-  id: 494
   name: 'Bee: Conditionals'
   absolute_position: 13
   script_id: 74
@@ -1709,7 +1614,6 @@ stage_494:
   lockable: 
   relative_position: 13
 stage_495:
-  id: 495
   name: Binary Bracelets
   absolute_position: 14
   script_id: 74
@@ -1727,7 +1631,6 @@ stage_495:
   lockable: 
   relative_position: 14
 stage_496:
-  id: 496
   name: The Big Event
   absolute_position: 15
   script_id: 74
@@ -1745,7 +1648,6 @@ stage_496:
   lockable: 
   relative_position: 15
 stage_497:
-  id: 497
   name: Flappy
   absolute_position: 16
   script_id: 74
@@ -1763,7 +1665,6 @@ stage_497:
   lockable: 
   relative_position: 16
 stage_498:
-  id: 498
   name: 'Studio: Create a Story'
   absolute_position: 17
   script_id: 74
@@ -1781,7 +1682,6 @@ stage_498:
   lockable: 
   relative_position: 17
 stage_499:
-  id: 499
   name: Your Digital Footprint
   absolute_position: 18
   script_id: 74
@@ -1799,7 +1699,6 @@ stage_499:
   lockable: 
   relative_position: 18
 stage_500:
-  id: 500
   name: 'Artist: Nested Loops'
   absolute_position: 19
   script_id: 74
@@ -1817,7 +1716,6 @@ stage_500:
   lockable: 
   relative_position: 19
 stage_501:
-  id: 501
   name: Computational Thinking
   absolute_position: 1
   script_id: 75
@@ -1835,7 +1733,6 @@ stage_501:
   lockable: 
   relative_position: 1
 stage_502:
-  id: 502
   name: Maze
   absolute_position: 2
   script_id: 75
@@ -1853,7 +1750,6 @@ stage_502:
   lockable: 
   relative_position: 2
 stage_503:
-  id: 503
   name: Artist
   absolute_position: 3
   script_id: 75
@@ -1871,7 +1767,6 @@ stage_503:
   lockable: 
   relative_position: 3
 stage_504:
-  id: 504
   name: Functional Suncatchers
   absolute_position: 4
   script_id: 75
@@ -1889,7 +1784,6 @@ stage_504:
   lockable: 
   relative_position: 4
 stage_505:
-  id: 505
   name: 'Artist: Functions'
   absolute_position: 5
   script_id: 75
@@ -1907,7 +1801,6 @@ stage_505:
   lockable: 
   relative_position: 5
 stage_506:
-  id: 506
   name: 'Bee: Functions'
   absolute_position: 6
   script_id: 75
@@ -1925,7 +1818,6 @@ stage_506:
   lockable: 
   relative_position: 6
 stage_507:
-  id: 507
   name: 'Bee: Conditionals'
   absolute_position: 7
   script_id: 75
@@ -1943,7 +1835,6 @@ stage_507:
   lockable: 
   relative_position: 7
 stage_508:
-  id: 508
   name: 'Maze: Conditionals'
   absolute_position: 8
   script_id: 75
@@ -1961,7 +1852,6 @@ stage_508:
   lockable: 
   relative_position: 8
 stage_509:
-  id: 509
   name: Songwriting
   absolute_position: 9
   script_id: 75
@@ -1979,7 +1869,6 @@ stage_509:
   lockable: 
   relative_position: 9
 stage_510:
-  id: 510
   name: Dice Race
   absolute_position: 10
   script_id: 75
@@ -1997,7 +1886,6 @@ stage_510:
   lockable: 
   relative_position: 10
 stage_511:
-  id: 511
   name: 'Artist: Nested Loops'
   absolute_position: 11
   script_id: 75
@@ -2015,7 +1903,6 @@ stage_511:
   lockable: 
   relative_position: 11
 stage_512:
-  id: 512
   name: 'Farmer: While Loops'
   absolute_position: 12
   script_id: 75
@@ -2033,7 +1920,6 @@ stage_512:
   lockable: 
   relative_position: 12
 stage_513:
-  id: 513
   name: 'Bee: Nested Loops'
   absolute_position: 13
   script_id: 75
@@ -2051,7 +1937,6 @@ stage_513:
   lockable: 
   relative_position: 13
 stage_514:
-  id: 514
   name: 'Bee: Debugging'
   absolute_position: 14
   script_id: 75
@@ -2069,7 +1954,6 @@ stage_514:
   lockable: 
   relative_position: 14
 stage_515:
-  id: 515
   name: Bounce
   absolute_position: 15
   script_id: 75
@@ -2087,7 +1971,6 @@ stage_515:
   lockable: 
   relative_position: 15
 stage_516:
-  id: 516
   name: 'Studio: Create a Story'
   absolute_position: 16
   script_id: 75
@@ -2105,7 +1988,6 @@ stage_516:
   lockable: 
   relative_position: 16
 stage_517:
-  id: 517
   name: 'Studio: Create a Game'
   absolute_position: 17
   script_id: 75
@@ -2123,7 +2005,6 @@ stage_517:
   lockable: 
   relative_position: 17
 stage_518:
-  id: 518
   name: Internet
   absolute_position: 18
   script_id: 75
@@ -2141,7 +2022,6 @@ stage_518:
   lockable: 
   relative_position: 18
 stage_519:
-  id: 519
   name: Crowdsourcing
   absolute_position: 19
   script_id: 75
@@ -2159,7 +2039,6 @@ stage_519:
   lockable: 
   relative_position: 19
 stage_520:
-  id: 520
   name: Digital Citizenship
   absolute_position: 20
   script_id: 75
@@ -2177,7 +2056,6 @@ stage_520:
   lockable: 
   relative_position: 20
 stage_521:
-  id: 521
   name: 'Artist: Patterns'
   absolute_position: 21
   script_id: 75
@@ -2195,7 +2073,6 @@ stage_521:
   lockable: 
   relative_position: 21
 stage_522:
-  id: 522
   name: 'Unplugged: Tangrams'
   absolute_position: 1
   script_id: 76
@@ -2213,7 +2090,6 @@ stage_522:
   lockable: 
   relative_position: 1
 stage_523:
-  id: 523
   name: Maze and Bee
   absolute_position: 2
   script_id: 76
@@ -2231,7 +2107,6 @@ stage_523:
   lockable: 
   relative_position: 2
 stage_524:
-  id: 524
   name: Artist
   absolute_position: 3
   script_id: 76
@@ -2249,7 +2124,6 @@ stage_524:
   lockable: 
   relative_position: 3
 stage_525:
-  id: 525
   name: 'Unplugged: Envelope Variables'
   absolute_position: 4
   script_id: 76
@@ -2267,7 +2141,6 @@ stage_525:
   lockable: 
   relative_position: 4
 stage_526:
-  id: 526
   name: 'Unplugged: Madlibs'
   absolute_position: 5
   script_id: 76
@@ -2285,7 +2158,6 @@ stage_526:
   lockable: 
   relative_position: 5
 stage_527:
-  id: 527
   name: 'Artist: Variables'
   absolute_position: 6
   script_id: 76
@@ -2303,7 +2175,6 @@ stage_527:
   lockable: 
   relative_position: 6
 stage_528:
-  id: 528
   name: 'Play Lab: Variables'
   absolute_position: 7
   script_id: 76
@@ -2321,7 +2192,6 @@ stage_528:
   lockable: 
   relative_position: 7
 stage_529:
-  id: 529
   name: 'Unplugged: For Loop Fun'
   absolute_position: 8
   script_id: 76
@@ -2339,7 +2209,6 @@ stage_529:
   lockable: 
   relative_position: 8
 stage_530:
-  id: 530
   name: 'Bee: For Loops'
   absolute_position: 9
   script_id: 76
@@ -2357,7 +2226,6 @@ stage_530:
   lockable: 
   relative_position: 9
 stage_531:
-  id: 531
   name: 'Artist: For Loops'
   absolute_position: 10
   script_id: 76
@@ -2375,7 +2243,6 @@ stage_531:
   lockable: 
   relative_position: 10
 stage_532:
-  id: 532
   name: 'Play Lab: For Loops'
   absolute_position: 11
   script_id: 76
@@ -2393,7 +2260,6 @@ stage_532:
   lockable: 
   relative_position: 11
 stage_533:
-  id: 533
   name: 'Artist: Functions'
   absolute_position: 12
   script_id: 76
@@ -2411,7 +2277,6 @@ stage_533:
   lockable: 
   relative_position: 12
 stage_534:
-  id: 534
   name: 'Unplugged: Songwriting with Parameters'
   absolute_position: 13
   script_id: 76
@@ -2429,7 +2294,6 @@ stage_534:
   lockable: 
   relative_position: 13
 stage_535:
-  id: 535
   name: 'Artist: Functions with Parameters'
   absolute_position: 14
   script_id: 76
@@ -2447,7 +2311,6 @@ stage_535:
   lockable: 
   relative_position: 14
 stage_536:
-  id: 536
   name: 'Play Lab: Functions with Parameters'
   absolute_position: 15
   script_id: 76
@@ -2465,7 +2328,6 @@ stage_536:
   lockable: 
   relative_position: 15
 stage_537:
-  id: 537
   name: 'Bee: Functions with Parameters'
   absolute_position: 16
   script_id: 76
@@ -2483,7 +2345,6 @@ stage_537:
   lockable: 
   relative_position: 16
 stage_538:
-  id: 538
   name: 'Unplugged: Binary'
   absolute_position: 17
   script_id: 76
@@ -2501,7 +2362,6 @@ stage_538:
   lockable: 
   relative_position: 17
 stage_539:
-  id: 539
   name: Artist Binary
   absolute_position: 18
   script_id: 76
@@ -2519,7 +2379,6 @@ stage_539:
   lockable: 
   relative_position: 18
 stage_540:
-  id: 540
   name: Super Challenge - Variables
   absolute_position: 19
   script_id: 76
@@ -2537,7 +2396,6 @@ stage_540:
   lockable: 
   relative_position: 19
 stage_541:
-  id: 541
   name: Super Challenge - For Loops
   absolute_position: 20
   script_id: 76
@@ -2555,7 +2413,6 @@ stage_541:
   lockable: 
   relative_position: 20
 stage_542:
-  id: 542
   name: Super Challenge - Functions and Parameters
   absolute_position: 21
   script_id: 76
@@ -2573,7 +2430,6 @@ stage_542:
   lockable: 
   relative_position: 21
 stage_543:
-  id: 543
   name: Extreme Challenge - Comprehensive
   absolute_position: 22
   script_id: 76
@@ -2591,7 +2447,6 @@ stage_543:
   lockable: 
   relative_position: 22
 stage_1058:
-  id: 1058
   name: Personal Innovations
   absolute_position: 1
   script_id: 128
@@ -2609,7 +2464,6 @@ stage_1058:
   lockable: 
   relative_position: 1
 stage_1059:
-  id: 1059
   name: Sending Binary Messages
   absolute_position: 2
   script_id: 128
@@ -2627,7 +2481,6 @@ stage_1059:
   lockable: 
   relative_position: 2
 stage_1060:
-  id: 1060
   name: Sending Complex Messages
   absolute_position: 3
   script_id: 128
@@ -2645,7 +2498,6 @@ stage_1060:
   lockable: 
   relative_position: 3
 stage_1061:
-  id: 1061
   name: Sending Binary Messages with the Internet Simulator
   absolute_position: 4
   script_id: 128
@@ -2663,7 +2515,6 @@ stage_1061:
   lockable: 
   relative_position: 4
 stage_1062:
-  id: 1062
   name: Sending Bits in the Real World
   absolute_position: 5
   script_id: 128
@@ -2681,7 +2532,6 @@ stage_1062:
   lockable: 
   relative_position: 5
 stage_1063:
-  id: 1063
   name: Number Systems
   absolute_position: 6
   script_id: 128
@@ -2699,7 +2549,6 @@ stage_1063:
   lockable: 
   relative_position: 6
 stage_1064:
-  id: 1064
   name: Binary Numbers
   absolute_position: 7
   script_id: 128
@@ -2717,7 +2566,6 @@ stage_1064:
   lockable: 
   relative_position: 7
 stage_1065:
-  id: 1065
   name: Sending Numbers
   absolute_position: 8
   script_id: 128
@@ -2735,7 +2583,6 @@ stage_1065:
   lockable: 
   relative_position: 8
 stage_1066:
-  id: 1066
   name: Encoding Numbers in the Real World
   absolute_position: 9
   script_id: 128
@@ -2753,7 +2600,6 @@ stage_1066:
   lockable: 
   relative_position: 9
 stage_1067:
-  id: 1067
   name: Encoding and Sending Text
   absolute_position: 10
   script_id: 128
@@ -2771,7 +2617,6 @@ stage_1067:
   lockable: 
   relative_position: 10
 stage_1068:
-  id: 1068
   name: Sending Formatted Text
   absolute_position: 11
   script_id: 128
@@ -2789,7 +2634,6 @@ stage_1068:
   lockable: 
   relative_position: 11
 stage_1069:
-  id: 1069
   name: Bytes and File Sizes
   absolute_position: 12
   script_id: 128
@@ -2807,7 +2651,6 @@ stage_1069:
   lockable: 
   relative_position: 12
 stage_1070:
-  id: 1070
   name: Text Compression
   absolute_position: 13
   script_id: 128
@@ -2825,7 +2668,6 @@ stage_1070:
   lockable: 
   relative_position: 13
 stage_1071:
-  id: 1071
   name: Encoding B&W Images
   absolute_position: 14
   script_id: 128
@@ -2843,7 +2685,6 @@ stage_1071:
   lockable: 
   relative_position: 14
 stage_1072:
-  id: 1072
   name: Encoding Color Images
   absolute_position: 15
   script_id: 128
@@ -2861,7 +2702,6 @@ stage_1072:
   lockable: 
   relative_position: 15
 stage_1073:
-  id: 1073
   name: Lossy Compression and File Formats
   absolute_position: 16
   script_id: 128
@@ -2879,7 +2719,6 @@ stage_1073:
   lockable: 
   relative_position: 16
 stage_1074:
-  id: 1074
   name: Encode a Complex Thing
   absolute_position: 17
   script_id: 128
@@ -2897,7 +2736,6 @@ stage_1074:
   lockable: 
   relative_position: 17
 stage_1075:
-  id: 1075
   name: The Internet
   absolute_position: 1
   script_id: 129
@@ -2915,7 +2753,6 @@ stage_1075:
   lockable: 
   relative_position: 1
 stage_1076:
-  id: 1076
   name: The Need for Addressing
   absolute_position: 2
   script_id: 129
@@ -2933,7 +2770,6 @@ stage_1076:
   lockable: 
   relative_position: 2
 stage_1077:
-  id: 1077
   name: Invent an Addressing Protocol
   absolute_position: 3
   script_id: 129
@@ -2951,7 +2787,6 @@ stage_1077:
   lockable: 
   relative_position: 3
 stage_1078:
-  id: 1078
   name: Routers and Redundancy
   absolute_position: 4
   script_id: 129
@@ -2969,7 +2804,6 @@ stage_1078:
   lockable: 
   relative_position: 4
 stage_1079:
-  id: 1079
   name: Packets and Making a Reliable Internet
   absolute_position: 5
   script_id: 129
@@ -2987,7 +2821,6 @@ stage_1079:
   lockable: 
   relative_position: 5
 stage_1080:
-  id: 1080
   name: Algorithms Detour - Minimum Spanning Tree
   absolute_position: 6
   script_id: 129
@@ -3005,7 +2838,6 @@ stage_1080:
   lockable: 
   relative_position: 6
 stage_1081:
-  id: 1081
   name: Algorithms Detour - Shortest Path
   absolute_position: 7
   script_id: 129
@@ -3023,7 +2855,6 @@ stage_1081:
   lockable: 
   relative_position: 7
 stage_1082:
-  id: 1082
   name: Algorithms Detour - How Routers Learn
   absolute_position: 8
   script_id: 129
@@ -3041,7 +2872,6 @@ stage_1082:
   lockable: 
   relative_position: 8
 stage_1083:
-  id: 1083
   name: The Need for DNS
   absolute_position: 9
   script_id: 129
@@ -3059,7 +2889,6 @@ stage_1083:
   lockable: 
   relative_position: 9
 stage_1084:
-  id: 1084
   name: DNS in the Real World
   absolute_position: 10
   script_id: 129
@@ -3077,7 +2906,6 @@ stage_1084:
   lockable: 
   relative_position: 10
 stage_1085:
-  id: 1085
   name: HTTP and Abstraction
   absolute_position: 11
   script_id: 129
@@ -3095,7 +2923,6 @@ stage_1085:
   lockable: 
   relative_position: 11
 stage_1086:
-  id: 1086
   name: Practice PT - The Internet and Society
   absolute_position: 12
   script_id: 129
@@ -3113,7 +2940,6 @@ stage_1086:
   lockable: 
   relative_position: 12
 stage_1087:
-  id: 1087
   name: Tell Me a Secret - Encrypting Text
   absolute_position: 13
   script_id: 129
@@ -3131,7 +2957,6 @@ stage_1087:
   lockable: 
   relative_position: 13
 stage_1088:
-  id: 1088
   name: Cracking the Code
   absolute_position: 14
   script_id: 129
@@ -3149,7 +2974,6 @@ stage_1088:
   lockable: 
   relative_position: 14
 stage_1089:
-  id: 1089
   name: Encryption Algorithms
   absolute_position: 15
   script_id: 129
@@ -3167,7 +2991,6 @@ stage_1089:
   lockable: 
   relative_position: 15
 stage_1090:
-  id: 1090
   name: Algorithms Detour - Hard Problems TSP
   absolute_position: 16
   script_id: 129
@@ -3185,7 +3008,6 @@ stage_1090:
   lockable: 
   relative_position: 16
 stage_1091:
-  id: 1091
   name: One Way Functions - Ice Cream Vans
   absolute_position: 17
   script_id: 129
@@ -3203,7 +3025,6 @@ stage_1091:
   lockable: 
   relative_position: 17
 stage_1092:
-  id: 1092
   name: Alice and Bob and Asymmetric Keys
   absolute_position: 18
   script_id: 129
@@ -3221,7 +3042,6 @@ stage_1092:
   lockable: 
   relative_position: 18
 stage_1093:
-  id: 1093
   name: Public Key Crypto
   absolute_position: 19
   script_id: 129
@@ -3239,7 +3059,6 @@ stage_1093:
   lockable: 
   relative_position: 19
 stage_1094:
-  id: 1094
   name: Practice PT - Cybersecurity Innovations
   absolute_position: 20
   script_id: 129
@@ -3257,7 +3076,6 @@ stage_1094:
   lockable: 
   relative_position: 20
 stage_1095:
-  id: 1095
   name: The Need For Programming Languages
   absolute_position: 1
   script_id: 130
@@ -3275,7 +3093,6 @@ stage_1095:
   lockable: 
   relative_position: 1
 stage_1096:
-  id: 1096
   name: Using Simple Commands
   absolute_position: 2
   script_id: 130
@@ -3293,7 +3110,6 @@ stage_1096:
   lockable: 
   relative_position: 2
 stage_1097:
-  id: 1097
   name: Creating Functions
   absolute_position: 3
   script_id: 130
@@ -3311,7 +3127,6 @@ stage_1097:
   lockable: 
   relative_position: 3
 stage_1098:
-  id: 1098
   name: Functions and Top-Down Design
   absolute_position: 4
   script_id: 130
@@ -3329,7 +3144,6 @@ stage_1098:
   lockable: 
   relative_position: 4
 stage_1099:
-  id: 1099
   name: APIs and Function Parameters
   absolute_position: 5
   script_id: 130
@@ -3347,7 +3161,6 @@ stage_1099:
   lockable: 
   relative_position: 5
 stage_1100:
-  id: 1100
   name: Creating functions with Parameters
   absolute_position: 6
   script_id: 130
@@ -3365,7 +3178,6 @@ stage_1100:
   lockable: 
   relative_position: 6
 stage_1101:
-  id: 1101
   name: Looping and Random Numbers
   absolute_position: 7
   script_id: 130
@@ -3383,7 +3195,6 @@ stage_1101:
   lockable: 
   relative_position: 7
 stage_1102:
-  id: 1102
   name: Practice PT - Design a Digital Scene
   absolute_position: 8
   script_id: 130
@@ -3401,7 +3212,6 @@ stage_1102:
   lockable: 
   relative_position: 8
 stage_1103:
-  id: 1103
   name: Events Unplugged
   absolute_position: 9
   script_id: 130
@@ -3419,7 +3229,6 @@ stage_1103:
   lockable: 
   relative_position: 9
 stage_1104:
-  id: 1104
   name: Event-Driven Programming and Debugging
   absolute_position: 10
   script_id: 130
@@ -3437,7 +3246,6 @@ stage_1104:
   lockable: 
   relative_position: 10
 stage_1105:
-  id: 1105
   name: Beyond Buttons Toward Apps
   absolute_position: 11
   script_id: 130
@@ -3455,7 +3263,6 @@ stage_1105:
   lockable: 
   relative_position: 11
 stage_1106:
-  id: 1106
   name: Introducing Design Mode
   absolute_position: 12
   script_id: 130
@@ -3473,7 +3280,6 @@ stage_1106:
   lockable: 
   relative_position: 12
 stage_1107:
-  id: 1107
   name: Multi-screen Apps
   absolute_position: 13
   script_id: 130
@@ -3491,7 +3297,6 @@ stage_1107:
   lockable: 
   relative_position: 13
 stage_1108:
-  id: 1108
   name: Controlling Memory with Variables
   absolute_position: 14
   script_id: 130
@@ -3509,7 +3314,6 @@ stage_1108:
   lockable: 
   relative_position: 14
 stage_1109:
-  id: 1109
   name: Using Variables in Apps
   absolute_position: 15
   script_id: 130
@@ -3527,7 +3331,6 @@ stage_1109:
   lockable: 
   relative_position: 15
 stage_1110:
-  id: 1110
   name: User Input and Strings
   absolute_position: 16
   script_id: 130
@@ -3545,7 +3348,6 @@ stage_1110:
   lockable: 
   relative_position: 16
 stage_1111:
-  id: 1111
   name: Introduction to Digital Assistants
   absolute_position: 17
   script_id: 130
@@ -3563,7 +3365,6 @@ stage_1111:
   lockable: 
   relative_position: 17
 stage_1112:
-  id: 1112
   name: Understanding Program Flow and Logic
   absolute_position: 18
   script_id: 130
@@ -3581,7 +3382,6 @@ stage_1112:
   lockable: 
   relative_position: 18
 stage_1113:
-  id: 1113
   name: Introduction to Conditional Logic
   absolute_position: 19
   script_id: 130
@@ -3599,7 +3399,6 @@ stage_1113:
   lockable: 
   relative_position: 19
 stage_1114:
-  id: 1114
   name: Compound Conditional Logic
   absolute_position: 20
   script_id: 130
@@ -3617,7 +3416,6 @@ stage_1114:
   lockable: 
   relative_position: 20
 stage_1115:
-  id: 1115
   name: Digital Assistant Project
   absolute_position: 21
   script_id: 130
@@ -3635,7 +3433,6 @@ stage_1115:
   lockable: 
   relative_position: 21
 stage_1116:
-  id: 1116
   name: While Loops
   absolute_position: 22
   script_id: 130
@@ -3653,7 +3450,6 @@ stage_1116:
   lockable: 
   relative_position: 22
 stage_1117:
-  id: 1117
   name: Loops and Simulations
   absolute_position: 23
   script_id: 130
@@ -3671,7 +3467,6 @@ stage_1117:
   lockable: 
   relative_position: 23
 stage_1118:
-  id: 1118
   name: Introduction to Arrays
   absolute_position: 24
   script_id: 130
@@ -3689,7 +3484,6 @@ stage_1118:
   lockable: 
   relative_position: 24
 stage_1119:
-  id: 1119
   name: Image Scroller with Key Events
   absolute_position: 25
   script_id: 130
@@ -3707,7 +3501,6 @@ stage_1119:
   lockable: 
   relative_position: 25
 stage_1120:
-  id: 1120
   name: Processing Arrays
   absolute_position: 26
   script_id: 130
@@ -3725,7 +3518,6 @@ stage_1120:
   lockable: 
   relative_position: 26
 stage_1121:
-  id: 1121
   name: Functions with Return Values
   absolute_position: 27
   script_id: 130
@@ -3743,7 +3535,6 @@ stage_1121:
   lockable: 
   relative_position: 27
 stage_1122:
-  id: 1122
   name: Canvas and Arrays in Apps
   absolute_position: 28
   script_id: 130
@@ -3761,7 +3552,6 @@ stage_1122:
   lockable: 
   relative_position: 28
 stage_1123:
-  id: 1123
   name: 'Practice PT: Create'
   absolute_position: 29
   script_id: 130
@@ -3779,7 +3569,6 @@ stage_1123:
   lockable: 
   relative_position: 29
 stage_162:
-  id: 162
   name: Introduction to PD
   absolute_position: 1
   script_id: 28
@@ -3797,7 +3586,6 @@ stage_162:
   lockable: 
   relative_position: 1
 stage_163:
-  id: 163
   name: What is ECS?
   absolute_position: 2
   script_id: 28
@@ -3815,7 +3603,6 @@ stage_163:
   lockable: 
   relative_position: 2
 stage_164:
-  id: 164
   name: Impact of Computer Science
   absolute_position: 3
   script_id: 28
@@ -3833,7 +3620,6 @@ stage_164:
   lockable: 
   relative_position: 3
 stage_165:
-  id: 165
   name: Growth Mindset
   absolute_position: 4
   script_id: 28
@@ -3851,7 +3637,6 @@ stage_165:
   lockable: 
   relative_position: 4
 stage_166:
-  id: 166
   name: Teaching Strategies
   absolute_position: 5
   script_id: 28
@@ -3869,7 +3654,6 @@ stage_166:
   lockable: 
   relative_position: 5
 stage_167:
-  id: 167
   name: Preparing for in-person PD
   absolute_position: 6
   script_id: 28
@@ -3887,7 +3671,6 @@ stage_167:
   lockable: 
   relative_position: 6
 stage_150:
-  id: 150
   name: Introduction to PD
   absolute_position: 1
   script_id: 26
@@ -3905,7 +3688,6 @@ stage_150:
   lockable: 
   relative_position: 1
 stage_151:
-  id: 151
   name: What is ECS?
   absolute_position: 2
   script_id: 26
@@ -3923,7 +3705,6 @@ stage_151:
   lockable: 
   relative_position: 2
 stage_152:
-  id: 152
   name: Impact of Computer Science
   absolute_position: 3
   script_id: 26
@@ -3941,7 +3722,6 @@ stage_152:
   lockable: 
   relative_position: 3
 stage_153:
-  id: 153
   name: Growth Mindset
   absolute_position: 4
   script_id: 26
@@ -3959,7 +3739,6 @@ stage_153:
   lockable: 
   relative_position: 4
 stage_154:
-  id: 154
   name: Teaching Strategies
   absolute_position: 5
   script_id: 26
@@ -3977,7 +3756,6 @@ stage_154:
   lockable: 
   relative_position: 5
 stage_155:
-  id: 155
   name: Preparing for in-person PD
   absolute_position: 6
   script_id: 26
@@ -3995,7 +3773,6 @@ stage_155:
   lockable: 
   relative_position: 6
 stage_411:
-  id: 411
   name: Jigsaw
   absolute_position: 1
   script_id: 66
@@ -4013,7 +3790,6 @@ stage_411:
   lockable: 
   relative_position: 1
 stage_412:
-  id: 412
   name: Maze
   absolute_position: 2
   script_id: 66
@@ -4031,7 +3807,6 @@ stage_412:
   lockable: 
   relative_position: 2
 stage_413:
-  id: 413
   name: Artist
   absolute_position: 3
   script_id: 66
@@ -4049,7 +3824,6 @@ stage_413:
   lockable: 
   relative_position: 3
 stage_414:
-  id: 414
   name: Bee
   absolute_position: 4
   script_id: 66
@@ -4067,7 +3841,6 @@ stage_414:
   lockable: 
   relative_position: 4
 stage_415:
-  id: 415
   name: PlayLab
   absolute_position: 5
   script_id: 66
@@ -4085,7 +3858,6 @@ stage_415:
   lockable: 
   relative_position: 5
 stage_416:
-  id: 416
   name: Farmer
   absolute_position: 6
   script_id: 66
@@ -4103,7 +3875,6 @@ stage_416:
   lockable: 
   relative_position: 6
 stage_417:
-  id: 417
   name: Flappy
   absolute_position: 7
   script_id: 66
@@ -4121,7 +3892,6 @@ stage_417:
   lockable: 
   relative_position: 7
 stage_418:
-  id: 418
   name: Bounce
   absolute_position: 8
   script_id: 66
@@ -4139,7 +3909,6 @@ stage_418:
   lockable: 
   relative_position: 8
 stage_419:
-  id: 419
   name: Multi
   absolute_position: 9
   script_id: 66
@@ -4157,7 +3926,6 @@ stage_419:
   lockable: 
   relative_position: 9
 stage_420:
-  id: 420
   name: Multi2
   absolute_position: 10
   script_id: 66
@@ -4175,7 +3943,6 @@ stage_420:
   lockable: 
   relative_position: 10
 stage_421:
-  id: 421
   name: Match
   absolute_position: 11
   script_id: 66
@@ -4193,7 +3960,6 @@ stage_421:
   lockable: 
   relative_position: 11
 stage_422:
-  id: 422
   name: TextMatch
   absolute_position: 12
   script_id: 66
@@ -4211,7 +3977,6 @@ stage_422:
   lockable: 
   relative_position: 12
 stage_423:
-  id: 423
   name: CSinA
   absolute_position: 13
   script_id: 66
@@ -4229,7 +3994,6 @@ stage_423:
   lockable: 
   relative_position: 13
 stage_424:
-  id: 424
   name: Netsim
   absolute_position: 14
   script_id: 66
@@ -4247,7 +4011,6 @@ stage_424:
   lockable: 
   relative_position: 14
 stage_425:
-  id: 425
   name: Odometer
   absolute_position: 15
   script_id: 66
@@ -4265,7 +4028,6 @@ stage_425:
   lockable: 
   relative_position: 15
 stage_426:
-  id: 426
   name: Text Compression
   absolute_position: 16
   script_id: 66
@@ -4283,7 +4045,6 @@ stage_426:
   lockable: 
   relative_position: 16
 stage_427:
-  id: 427
   name: Pixelation
   absolute_position: 17
   script_id: 66
@@ -4301,7 +4062,6 @@ stage_427:
   lockable: 
   relative_position: 17
 stage_428:
-  id: 428
   name: AppLab
   absolute_position: 18
   script_id: 66
@@ -4319,7 +4079,6 @@ stage_428:
   lockable: 
   relative_position: 18
 stage_429:
-  id: 429
   name: Gamelab
   absolute_position: 19
   script_id: 66
@@ -4337,7 +4096,6 @@ stage_429:
   lockable: 
   relative_position: 19
 stage_430:
-  id: 430
   name: Online PD
   absolute_position: 20
   script_id: 66
@@ -4355,7 +4113,6 @@ stage_430:
   lockable: 
   relative_position: 20
 stage_431:
-  id: 431
   name: Markdown Details
   absolute_position: 21
   script_id: 66
@@ -4373,7 +4130,6 @@ stage_431:
   lockable: 
   relative_position: 21
 stage_432:
-  id: 432
   name: Studio
   absolute_position: 22
   script_id: 66
@@ -4391,7 +4147,6 @@ stage_432:
   lockable: 
   relative_position: 22
 stage_433:
-  id: 433
   name: Multi page assessment
   absolute_position: 23
   script_id: 66
@@ -4409,7 +4164,6 @@ stage_433:
   lockable: 
   relative_position: 23
 stage_434:
-  id: 434
   name: Star wars
   absolute_position: 24
   script_id: 66
@@ -4427,7 +4181,6 @@ stage_434:
   lockable: 
   relative_position: 24
 stage_435:
-  id: 435
   name: Minecraft
   absolute_position: 25
   script_id: 66
@@ -4445,7 +4198,6 @@ stage_435:
   lockable: 
   relative_position: 25
 stage_436:
-  id: 436
   name: Rich long assessment
   absolute_position: 26
   script_id: 66
@@ -4463,7 +4215,6 @@ stage_436:
   lockable: 
   relative_position: 26
 stage_437:
-  id: 437
   name: Free Response
   absolute_position: 27
   script_id: 66
@@ -4481,7 +4232,6 @@ stage_437:
   lockable: 
   relative_position: 27
 stage_438:
-  id: 438
   name: Sample PLC Assessment
   absolute_position: 28
   script_id: 66
@@ -4499,7 +4249,6 @@ stage_438:
   lockable: 
   relative_position: 28
 stage_439:
-  id: 439
   name: Swapped Levels
   absolute_position: 29
   script_id: 66
@@ -4517,7 +4266,6 @@ stage_439:
   lockable: 
   relative_position: 29
 stage_440:
-  id: 440
   name: Anonymous student survey
   absolute_position: 30
   script_id: 66
@@ -4535,7 +4283,6 @@ stage_440:
   lockable: 
   relative_position: 30
 stage_441:
-  id: 441
   name: Anonymous student survey 2
   absolute_position: 31
   script_id: 66
@@ -4553,7 +4300,6 @@ stage_441:
   lockable: true
   relative_position: 1
 stage_442:
-  id: 442
   name: Public Key Cryptography
   absolute_position: 32
   script_id: 66
@@ -4571,7 +4317,6 @@ stage_442:
   lockable: 
   relative_position: 31
 stage_443:
-  id: 443
   name: Web Lab
   absolute_position: 33
   script_id: 66
@@ -4589,7 +4334,6 @@ stage_443:
   lockable: 
   relative_position: 32
 stage_444:
-  id: 444
   name: Single page assessment
   absolute_position: 34
   script_id: 66
@@ -4607,7 +4351,6 @@ stage_444:
   lockable: 
   relative_position: 33
 stage_445:
-  id: 445
   name: Standalone video
   absolute_position: 35
   script_id: 66
@@ -4625,7 +4368,6 @@ stage_445:
   lockable: 
   relative_position: 34
 stage_446:
-  id: 446
   name: Curriculum Reference
   absolute_position: 36
   script_id: 66
