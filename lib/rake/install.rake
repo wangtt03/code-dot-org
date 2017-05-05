@@ -45,6 +45,8 @@ namespace :install do
           #sh 'mysql < db/seeds.sql'
           RakeUtils.rake_stream_output 'db:setup_or_migrate'
           RakeUtils.rake_stream_output 'db:fixtures:load'
+          RakeUtils.rake_stream_output 'seed:secret_pictures'
+          RakeUtils.rake_stream_output 'seed:secret_words'
         else
           RakeUtils.rake_stream_output 'db:setup_or_migrate'
           RakeUtils.rake_stream_output 'seed:all'
