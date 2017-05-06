@@ -42,11 +42,7 @@ namespace :install do
         if ENV['CI'] && ENV['CIRCLE_NODE_INDEX'] != '1'
           RakeUtils.rake_stream_output 'db:create db:test:prepare'
         elsif ENV['CI'] && ENV['CIRCLE_NODE_INDEX'] == '1'
-          #sh 'mysql < db/seeds.sql'
-          RakeUtils.rake_stream_output 'db:setup_or_migrate'
-          RakeUtils.rake_stream_output 'db:fixtures:load'
-          RakeUtils.rake_stream_output 'seed:secret_pictures'
-          RakeUtils.rake_stream_output 'seed:secret_words'
+          sh 'mysql < db/seeds.sql'
         else
           RakeUtils.rake_stream_output 'db:setup_or_migrate'
           RakeUtils.rake_stream_output 'seed:all'
