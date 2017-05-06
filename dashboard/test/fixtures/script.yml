@@ -1,4 +1,5 @@
 Hour of Code:
+  id: 2
   name: Hour of Code
   created_at: 2017-05-04 01:58:10.000000000 Z
   updated_at: 2017-05-04 01:58:10.000000000 Z
@@ -8,6 +9,7 @@ Hour of Code:
   login_required: false
   properties: "{}"
 edit-code:
+  id: 3
   name: edit-code
   created_at: 2017-05-04 01:58:11.000000000 Z
   updated_at: 2017-05-04 01:58:11.000000000 Z
@@ -17,6 +19,7 @@ edit-code:
   login_required: false
   properties: "{}"
 events:
+  id: 4
   name: events
   created_at: 2017-05-04 01:58:13.000000000 Z
   updated_at: 2017-05-04 01:58:13.000000000 Z
@@ -26,6 +29,7 @@ events:
   login_required: false
   properties: "{}"
 jigsaw:
+  id: 7
   name: jigsaw
   created_at: 2017-05-04 01:58:15.000000000 Z
   updated_at: 2017-05-04 01:58:15.000000000 Z
@@ -35,6 +39,7 @@ jigsaw:
   login_required: false
   properties: "{}"
 hourofcode:
+  id: 162
   name: hourofcode
   created_at: 2017-05-04 02:03:05.000000000 Z
   updated_at: 2017-05-04 02:03:05.000000000 Z
@@ -44,6 +49,7 @@ hourofcode:
   login_required: false
   properties: "{}"
 starwars:
+  id: 188
   name: starwars
   created_at: 2017-05-04 02:03:27.000000000 Z
   updated_at: 2017-05-04 02:03:27.000000000 Z
@@ -53,6 +59,7 @@ starwars:
   login_required: false
   properties: "{}"
 frozen:
+  id: 150
   name: frozen
   created_at: 2017-05-04 02:03:01.000000000 Z
   updated_at: 2017-05-04 02:03:01.000000000 Z
@@ -62,6 +69,7 @@ frozen:
   login_required: false
   properties: "{}"
 playlab:
+  id: 172
   name: playlab
   created_at: 2017-05-04 02:03:11.000000000 Z
   updated_at: 2017-05-04 02:03:11.000000000 Z
@@ -71,6 +79,7 @@ playlab:
   login_required: false
   properties: "{}"
 infinity:
+  id: 164
   name: infinity
   created_at: 2017-05-04 02:03:06.000000000 Z
   updated_at: 2017-05-04 02:03:06.000000000 Z
@@ -80,6 +89,7 @@ infinity:
   login_required: false
   properties: "{}"
 artist:
+  id: 69
   name: artist
   created_at: 2017-05-04 01:59:48.000000000 Z
   updated_at: 2017-05-04 01:59:48.000000000 Z
@@ -89,6 +99,7 @@ artist:
   login_required: false
   properties: "{}"
 algebra:
+  id: 49
   name: algebra
   created_at: 2017-05-04 01:59:13.000000000 Z
   updated_at: 2017-05-04 01:59:13.000000000 Z
@@ -98,6 +109,7 @@ algebra:
   login_required: true
   properties: "{}"
 algebraPD:
+  id: 53
   name: algebraPD
   created_at: 2017-05-04 01:59:23.000000000 Z
   updated_at: 2017-05-04 01:59:23.000000000 Z
@@ -107,6 +119,7 @@ algebraPD:
   login_required: true
   properties: '{"professional_learning_course":"CS in Algebra Legacy"}'
 flappy:
+  id: 6
   name: flappy
   created_at: 2017-05-04 01:58:14.000000000 Z
   updated_at: 2017-05-04 01:58:14.000000000 Z
@@ -116,6 +129,7 @@ flappy:
   login_required: false
   properties: "{}"
 20-hour:
+  id: 1
   name: 20-hour
   created_at: 2017-05-04 01:58:00.000000000 Z
   updated_at: 2017-05-04 01:58:00.000000000 Z
@@ -125,6 +139,7 @@ flappy:
   login_required: false
   properties: "{}"
 course1:
+  id: 73
   name: course1
   created_at: 2017-05-04 01:59:50.000000000 Z
   updated_at: 2017-05-04 01:59:50.000000000 Z
@@ -134,6 +149,7 @@ course1:
   login_required: false
   properties: "{}"
 course2:
+  id: 74
   name: course2
   created_at: 2017-05-04 01:59:55.000000000 Z
   updated_at: 2017-05-04 01:59:55.000000000 Z
@@ -143,6 +159,7 @@ course2:
   login_required: false
   properties: "{}"
 course3:
+  id: 75
   name: course3
   created_at: 2017-05-04 02:00:03.000000000 Z
   updated_at: 2017-05-04 02:00:03.000000000 Z
@@ -152,6 +169,7 @@ course3:
   login_required: false
   properties: "{}"
 course4:
+  id: 76
   name: course4
   created_at: 2017-05-04 02:00:09.000000000 Z
   updated_at: 2017-05-04 02:00:09.000000000 Z
@@ -161,6 +179,7 @@ course4:
   login_required: false
   properties: "{}"
 cspunit1:
+  id: 128
   name: cspunit1
   created_at: 2017-05-04 02:02:16.000000000 Z
   updated_at: 2017-05-04 02:02:16.000000000 Z
@@ -170,6 +189,7 @@ cspunit1:
   login_required: true
   properties: "{}"
 cspunit2:
+  id: 129
   name: cspunit2
   created_at: 2017-05-04 02:02:18.000000000 Z
   updated_at: 2017-05-04 02:02:18.000000000 Z
@@ -179,6 +199,7 @@ cspunit2:
   login_required: true
   properties: "{}"
 cspunit3:
+  id: 130
   name: cspunit3
   created_at: 2017-05-04 02:02:21.000000000 Z
   updated_at: 2017-05-04 02:02:21.000000000 Z
@@ -188,6 +209,7 @@ cspunit3:
   login_required: true
   properties: "{}"
 ECSPD:
+  id: 28
   name: ECSPD
   created_at: 2017-05-04 01:58:45.000000000 Z
   updated_at: 2017-05-04 01:58:45.000000000 Z
@@ -197,6 +219,7 @@ ECSPD:
   login_required: true
   properties: '{"professional_learning_course":"ECS Support Legacy"}'
 ECSPD-NexTech:
+  id: 26
   name: ECSPD-NexTech
   created_at: 2017-05-04 01:58:42.000000000 Z
   updated_at: 2017-05-04 01:58:42.000000000 Z
@@ -206,6 +229,7 @@ ECSPD-NexTech:
   login_required: true
   properties: '{"professional_learning_course":"ECS Support Legacy"}'
 allthethings:
+  id: 66
   name: allthethings
   created_at: 2017-05-04 01:59:42.000000000 Z
   updated_at: 2017-05-04 01:59:42.000000000 Z
