@@ -74,6 +74,9 @@ def yamlize(hsh)
       v['properties'] = v['properties'].to_json
     end
     v.delete('id')
+    v.each do |inner_key, inner_value|
+      v[inner_key] = inner_value.utc if inner_value.is_a?(ActiveSupport::TimeWithZone)
+    end
   end
   return hsh.to_yaml[4..-1]
 end

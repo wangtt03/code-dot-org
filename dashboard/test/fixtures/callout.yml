@@ -1,16 +1,8 @@
 callout_2:
   element_id: "[block-id='1']"
   localization_key: drag_blocks
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &1 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *1
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &2 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *2
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 110
   qtip_config: '{"position": {"my": "top left", "at": "bottom right", "adjust": {"x":
     22, "y":60}}, "style": { "classes": "no-tip" }}'
@@ -19,16 +11,8 @@ callout_2:
 callout_4:
   element_id: "#runButton"
   localization_key: run
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &3 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *3
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &4 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *4
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 110
   qtip_config: 
   'on': 
@@ -36,16 +20,8 @@ callout_4:
 callout_6:
   element_id: "[data-key='loop_times']"
   localization_key: watch_again
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &5 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *5
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &6 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *6
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 115
   qtip_config: '{"position": {"my": "bottom left", "at": "top right"}}'
   'on': 
@@ -53,16 +29,8 @@ callout_6:
 callout_8:
   element_id: ".blocklyUndeletable"
   localization_key: gray_block_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &7 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *7
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &8 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *8
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 118
   qtip_config: '{"position": {"my": "top middle", "at": "bottom middle"}}'
   'on': 
@@ -70,16 +38,8 @@ callout_8:
 callout_10:
   element_id: "#show-code-header"
   localization_key: show_code_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &9 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *9
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &10 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *10
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 123
   qtip_config: '{"position": {"my": "center right", "at": "center left"}}'
   'on': 
@@ -87,16 +47,8 @@ callout_10:
 callout_12:
   element_id: "#prompt"
   localization_key: instructions_repeat_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &11 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *11
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &12 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *12
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 124
   qtip_config: '{"position": {"my": "bottom left", "at": "top center"}}'
   'on': 
@@ -104,16 +56,8 @@ callout_12:
 callout_14:
   element_id: "[block-id='1']"
   localization_key: jigsaw_click
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &13 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *13
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &14 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *14
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 177
   qtip_config: '{"position": {"my": "top left", "at": "center right"}}'
   'on': 
@@ -121,16 +65,8 @@ callout_14:
 callout_15:
   element_id: "[block-id='1']"
   localization_key: drag_blocks
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &15 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *15
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &16 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *16
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 7799
   qtip_config: '{"position": {"my": "top left", "at": "bottom right", "adjust": {"x":
     22, "y":60}}, "style": { "classes": "no-tip" }}'
@@ -139,16 +75,8 @@ callout_15:
 callout_16:
   element_id: "#runButton"
   localization_key: run
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &17 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *17
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &18 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *18
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7799
   qtip_config: 
   'on': 
@@ -156,16 +84,8 @@ callout_16:
 callout_17:
   element_id: "[data-key='loop_times']"
   localization_key: watch_again
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &19 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *19
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &20 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *20
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7804
   qtip_config: '{"position": {"my": "bottom left", "at": "top right"}}'
   'on': 
@@ -173,16 +93,8 @@ callout_17:
 callout_18:
   element_id: ".blocklyUndeletable"
   localization_key: gray_block_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &21 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *21
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &22 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *22
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7807
   qtip_config: '{"position": {"my": "top middle", "at": "bottom middle"}}'
   'on': 
@@ -190,16 +102,8 @@ callout_18:
 callout_19:
   element_id: "#show-code-header"
   localization_key: show_code_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &23 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *23
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &24 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *24
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7812
   qtip_config: '{"position": {"my": "center right", "at": "center left"}}'
   'on': 
@@ -207,16 +111,8 @@ callout_19:
 callout_20:
   element_id: "#prompt"
   localization_key: instructions_repeat_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &25 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *25
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &26 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *26
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7813
   qtip_config: '{"position": {"my": "bottom left", "at": "top center"}}'
   'on': 
@@ -224,16 +120,8 @@ callout_20:
 callout_21:
   element_id: "[block-id='2']"
   localization_key: playlab_drag_say
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &27 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *27
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &28 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *28
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7936
   qtip_config: '{"position": {"my": "top left", "at": "bottom left", "adjust": {"x":
     22, "y":4}} }'
@@ -242,16 +130,8 @@ callout_21:
 callout_22:
   element_id: "[block-id='1']"
   localization_key: playlab_use_twice
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &29 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *29
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &30 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *30
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7937
   qtip_config: '{"position": {"my": "top left", "at": "bottom left", "adjust": {"x":
     62, "y":0}} }'
@@ -260,16 +140,8 @@ callout_22:
 callout_23:
   element_id: "[block-id='2']"
   localization_key: playlab_move_girl
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &31 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *31
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &32 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *32
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7938
   qtip_config: '{"position": {"my": "top left", "at": "bottom left", "adjust": {"x":
     22, "y":4}} }'
@@ -278,16 +150,8 @@ callout_23:
 callout_24:
   element_id: "[block-id='7']"
   localization_key: playlab_play_sound
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &33 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *33
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &34 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *34
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7939
   qtip_config: '{"position": {"my": "top left", "at": "bottom left", "adjust": {"x":
     22, "y":4}} }'
@@ -296,16 +160,8 @@ callout_24:
 callout_25:
   element_id: "#rightButton"
   localization_key: playlab_arrow_keys
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &35 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *35
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &36 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *36
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7941
   qtip_config: '{"position": {"my": "bottom left", "at": "top middle", "adjust": {"x":
     0, "y":4}} }'
@@ -314,16 +170,8 @@ callout_25:
 callout_26:
   element_id: "[block-id='5']"
   localization_key: playlab_add_move
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &37 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *37
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &38 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *38
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7942
   qtip_config: '{"position": {"my": "top left", "at": "top left", "adjust": {"x":
     60, "y":40}} }'
@@ -332,16 +180,8 @@ callout_26:
 callout_27:
   element_id: "[block-id='3']"
   localization_key: playlab_add_score
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &39 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *39
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &40 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *40
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7943
   qtip_config: '{"position": {"my": "top left", "at": "bottom left", "adjust": {"x":
     22, "y":4}} }'
@@ -350,16 +190,8 @@ callout_27:
 callout_28:
   element_id: "[block-id='7']"
   localization_key: playlab_add_blocks
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &41 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *41
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &42 2017-05-05 00:10:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *42
+  created_at: 2017-05-05 00:10:03.000000000 Z
+  updated_at: 2017-05-05 00:10:03.000000000 Z
   script_level_id: 7944
   qtip_config: '{"position": {"my": "top left", "at": "bottom left", "adjust": {"x":
     22, "y":4}} }'
@@ -368,16 +200,8 @@ callout_28:
 callout_1:
   element_id: "[block-id='1']"
   localization_key: drag_blocks
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &43 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *43
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &44 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *44
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 2
   qtip_config: '{"position": {"my": "top left", "at": "bottom right", "adjust": {"x":
     22, "y":60}}, "style": { "classes": "no-tip" }}'
@@ -386,16 +210,8 @@ callout_1:
 callout_3:
   element_id: "#runButton"
   localization_key: run
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &45 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *45
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &46 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *46
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 2
   qtip_config: 
   'on': 
@@ -403,16 +219,8 @@ callout_3:
 callout_5:
   element_id: "[data-key='loop_times']"
   localization_key: watch_again
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &47 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *47
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &48 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *48
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 7
   qtip_config: '{"position": {"my": "bottom left", "at": "top right"}}'
   'on': 
@@ -420,16 +228,8 @@ callout_5:
 callout_7:
   element_id: ".blocklyUndeletable"
   localization_key: gray_block_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &49 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *49
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &50 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *50
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 10
   qtip_config: '{"position": {"my": "top middle", "at": "bottom middle"}}'
   'on': 
@@ -437,16 +237,8 @@ callout_7:
 callout_9:
   element_id: "#show-code-header"
   localization_key: show_code_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &51 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *51
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &52 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *52
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 15
   qtip_config: '{"position": {"my": "center right", "at": "center left"}}'
   'on': 
@@ -454,16 +246,8 @@ callout_9:
 callout_11:
   element_id: "#prompt"
   localization_key: instructions_repeat_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &53 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *53
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &54 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *54
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 16
   qtip_config: '{"position": {"my": "bottom left", "at": "top center"}}'
   'on': 
@@ -471,16 +255,8 @@ callout_11:
 callout_13:
   element_id: ".blocklyTreeRoot"
   localization_key: category_explanation
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &55 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *55
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &56 2017-05-05 00:10:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *56
+  created_at: 2017-05-05 00:10:02.000000000 Z
+  updated_at: 2017-05-05 00:10:02.000000000 Z
   script_level_id: 59
   qtip_config: '{"position": {"my": "center left", "at": "center right"}}'
   'on': 

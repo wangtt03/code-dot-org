@@ -2,16 +2,8 @@ stage_21:
   name: Hour of Code 2013
   absolute_position: 1
   script_id: 2
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &1 2017-05-04 01:58:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *1
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &2 2017-05-04 01:58:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *2
+  created_at: 2017-05-04 01:58:10.000000000 Z
+  updated_at: 2017-05-04 01:58:10.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -19,16 +11,8 @@ stage_22:
   name: The Maze
   absolute_position: 1
   script_id: 3
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &3 2017-05-04 01:58:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *3
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &4 2017-05-04 01:58:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *4
+  created_at: 2017-05-04 01:58:11.000000000 Z
+  updated_at: 2017-05-04 01:58:11.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -36,16 +20,8 @@ stage_23:
   name: Applab
   absolute_position: 2
   script_id: 3
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &5 2017-05-04 01:58:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *5
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &6 2017-05-04 01:58:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *6
+  created_at: 2017-05-04 01:58:11.000000000 Z
+  updated_at: 2017-05-04 01:58:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -53,16 +29,8 @@ stage_24:
   name: The Artist
   absolute_position: 3
   script_id: 3
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &7 2017-05-04 01:58:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *7
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &8 2017-05-04 01:58:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *8
+  created_at: 2017-05-04 01:58:12.000000000 Z
+  updated_at: 2017-05-04 01:58:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -70,16 +38,8 @@ stage_25:
   name: Play Lab
   absolute_position: 4
   script_id: 3
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &9 2017-05-04 01:58:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *9
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &10 2017-05-04 01:58:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *10
+  created_at: 2017-05-04 01:58:12.000000000 Z
+  updated_at: 2017-05-04 01:58:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -87,16 +47,8 @@ stage_26:
   name: Hoc2015 Blockly
   absolute_position: 5
   script_id: 3
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &11 2017-05-04 01:58:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *11
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &12 2017-05-04 01:58:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *12
+  created_at: 2017-05-04 01:58:12.000000000 Z
+  updated_at: 2017-05-04 01:58:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -104,16 +56,8 @@ stage_27:
   name: Bounce
   absolute_position: 1
   script_id: 4
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &13 2017-05-04 01:58:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *13
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &14 2017-05-04 01:58:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *14
+  created_at: 2017-05-04 01:58:13.000000000 Z
+  updated_at: 2017-05-04 01:58:13.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -121,16 +65,8 @@ stage_28:
   name: Studio
   absolute_position: 2
   script_id: 4
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &15 2017-05-04 01:58:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *15
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &16 2017-05-04 01:58:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *16
+  created_at: 2017-05-04 01:58:14.000000000 Z
+  updated_at: 2017-05-04 01:58:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -138,16 +74,8 @@ stage_29:
   name: Calc
   absolute_position: 3
   script_id: 4
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &17 2017-05-04 01:58:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *17
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &18 2017-05-04 01:58:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *18
+  created_at: 2017-05-04 01:58:14.000000000 Z
+  updated_at: 2017-05-04 01:58:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -155,16 +83,8 @@ stage_30:
   name: Eval
   absolute_position: 4
   script_id: 4
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &19 2017-05-04 01:58:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *19
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &20 2017-05-04 01:58:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *20
+  created_at: 2017-05-04 01:58:14.000000000 Z
+  updated_at: 2017-05-04 01:58:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -172,16 +92,8 @@ stage_32:
   name: Jigsaw
   absolute_position: 1
   script_id: 7
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &21 2017-05-04 01:58:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *21
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &22 2017-05-04 01:58:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *22
+  created_at: 2017-05-04 01:58:15.000000000 Z
+  updated_at: 2017-05-04 01:58:15.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -189,16 +101,8 @@ stage_1261:
   name: Maze
   absolute_position: 1
   script_id: 162
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &23 2017-05-04 02:03:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *23
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &24 2017-05-04 02:03:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *24
+  created_at: 2017-05-04 02:03:05.000000000 Z
+  updated_at: 2017-05-04 02:03:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -206,16 +110,8 @@ stage_1391:
   name: Hour of Code 2015
   absolute_position: 1
   script_id: 188
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &25 2017-05-04 02:03:27.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *25
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &26 2017-05-04 02:03:27.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *26
+  created_at: 2017-05-04 02:03:27.000000000 Z
+  updated_at: 2017-05-04 02:03:27.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -223,16 +119,8 @@ stage_1253:
   name: Artist
   absolute_position: 1
   script_id: 150
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &27 2017-05-04 02:03:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *27
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &28 2017-05-04 02:03:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *28
+  created_at: 2017-05-04 02:03:02.000000000 Z
+  updated_at: 2017-05-04 02:03:02.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -240,16 +128,8 @@ stage_1294:
   name: Play Lab
   absolute_position: 1
   script_id: 172
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &29 2017-05-04 02:03:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *29
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &30 2017-05-04 02:03:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *30
+  created_at: 2017-05-04 02:03:11.000000000 Z
+  updated_at: 2017-05-04 02:03:11.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -257,16 +137,8 @@ stage_1263:
   name: Infinity
   absolute_position: 1
   script_id: 164
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &31 2017-05-04 02:03:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *31
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &32 2017-05-04 02:03:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *32
+  created_at: 2017-05-04 02:03:06.000000000 Z
+  updated_at: 2017-05-04 02:03:06.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -274,16 +146,8 @@ stage_452:
   name: Artist
   absolute_position: 1
   script_id: 69
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &33 2017-05-04 01:59:48.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *33
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &34 2017-05-04 01:59:48.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *34
+  created_at: 2017-05-04 01:59:48.000000000 Z
+  updated_at: 2017-05-04 01:59:48.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -291,16 +155,8 @@ stage_284:
   name: 'Unplugged: Video Games and Coordinate Planes'
   absolute_position: 1
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &35 2017-05-04 01:59:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *35
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &36 2017-05-04 01:59:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *36
+  created_at: 2017-05-04 01:59:13.000000000 Z
+  updated_at: 2017-05-04 01:59:13.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -308,16 +164,8 @@ stage_285:
   name: 'Calc: Evaluation Blocks'
   absolute_position: 2
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &37 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *37
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &38 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *38
+  created_at: 2017-05-04 01:59:14.000000000 Z
+  updated_at: 2017-05-04 01:59:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -325,16 +173,8 @@ stage_286:
   name: 'Eval: Strings and Images'
   absolute_position: 3
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &39 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *39
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &40 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *40
+  created_at: 2017-05-04 01:59:14.000000000 Z
+  updated_at: 2017-05-04 01:59:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -342,16 +182,8 @@ stage_287:
   name: 'Unplugged: Contracts'
   absolute_position: 4
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &41 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *41
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &42 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *42
+  created_at: 2017-05-04 01:59:14.000000000 Z
+  updated_at: 2017-05-04 01:59:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -359,16 +191,8 @@ stage_288:
   name: 'Eval: Writing Contracts'
   absolute_position: 5
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &43 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *43
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &44 2017-05-04 01:59:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *44
+  created_at: 2017-05-04 01:59:14.000000000 Z
+  updated_at: 2017-05-04 01:59:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -376,16 +200,8 @@ stage_289:
   name: 'Calc: Defining Variables'
   absolute_position: 6
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &45 2017-05-04 01:59:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *45
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &46 2017-05-04 01:59:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *46
+  created_at: 2017-05-04 01:59:15.000000000 Z
+  updated_at: 2017-05-04 01:59:15.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -393,16 +209,8 @@ stage_290:
   name: 'Play Lab: Defining Variables (Big Game)'
   absolute_position: 7
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &47 2017-05-04 01:59:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *47
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &48 2017-05-04 01:59:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *48
+  created_at: 2017-05-04 01:59:15.000000000 Z
+  updated_at: 2017-05-04 01:59:15.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -410,16 +218,8 @@ stage_291:
   name: 'Eval: Defining Functions'
   absolute_position: 8
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &49 2017-05-04 01:59:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *49
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &50 2017-05-04 01:59:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *50
+  created_at: 2017-05-04 01:59:15.000000000 Z
+  updated_at: 2017-05-04 01:59:15.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -427,16 +227,8 @@ stage_292:
   name: 'Unplugged: The Design Recipe'
   absolute_position: 9
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &51 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *51
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &52 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *52
+  created_at: 2017-05-04 01:59:16.000000000 Z
+  updated_at: 2017-05-04 01:59:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -444,16 +236,8 @@ stage_293:
   name: 'Play Lab: Defining Functions'
   absolute_position: 10
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &53 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *53
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &54 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *54
+  created_at: 2017-05-04 01:59:16.000000000 Z
+  updated_at: 2017-05-04 01:59:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -461,16 +245,8 @@ stage_294:
   name: 'Eval: Functions'
   absolute_position: 11
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &55 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *55
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &56 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *56
+  created_at: 2017-05-04 01:59:16.000000000 Z
+  updated_at: 2017-05-04 01:59:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -478,16 +254,8 @@ stage_295:
   name: 'Play Lab: Animation (Big Game)'
   absolute_position: 12
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &57 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *57
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &58 2017-05-04 01:59:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *58
+  created_at: 2017-05-04 01:59:16.000000000 Z
+  updated_at: 2017-05-04 01:59:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -495,16 +263,8 @@ stage_296:
   name: 'Unplugged: Booleans'
   absolute_position: 13
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &59 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *59
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &60 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *60
+  created_at: 2017-05-04 01:59:17.000000000 Z
+  updated_at: 2017-05-04 01:59:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -512,16 +272,8 @@ stage_297:
   name: 'Eval: Boolean Operators'
   absolute_position: 14
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &61 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *61
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &62 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *62
+  created_at: 2017-05-04 01:59:17.000000000 Z
+  updated_at: 2017-05-04 01:59:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -529,16 +281,8 @@ stage_298:
   name: 'Play Lab: Booleans'
   absolute_position: 15
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &63 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *63
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &64 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *64
+  created_at: 2017-05-04 01:59:17.000000000 Z
+  updated_at: 2017-05-04 01:59:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -546,16 +290,8 @@ stage_299:
   name: 'Play Lab: Boolean (Big Game)'
   absolute_position: 16
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &65 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *65
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &66 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *66
+  created_at: 2017-05-04 01:59:17.000000000 Z
+  updated_at: 2017-05-04 01:59:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -563,16 +299,8 @@ stage_300:
   name: 'Unplugged: Conditionals and Piecewise Functions'
   absolute_position: 17
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &67 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *67
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &68 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *68
+  created_at: 2017-05-04 01:59:17.000000000 Z
+  updated_at: 2017-05-04 01:59:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -580,16 +308,8 @@ stage_301:
   name: 'Eval: Conditionals'
   absolute_position: 18
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &69 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *69
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &70 2017-05-04 01:59:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *70
+  created_at: 2017-05-04 01:59:17.000000000 Z
+  updated_at: 2017-05-04 01:59:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -597,16 +317,8 @@ stage_302:
   name: 'Unplugged: Collision Detection and the Distance Formula'
   absolute_position: 19
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &71 2017-05-04 01:59:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *71
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &72 2017-05-04 01:59:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *72
+  created_at: 2017-05-04 01:59:18.000000000 Z
+  updated_at: 2017-05-04 01:59:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -614,16 +326,8 @@ stage_303:
   name: 'Play Lab: Collision Detection (Big Game)'
   absolute_position: 20
   script_id: 49
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &73 2017-05-04 01:59:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *73
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &74 2017-05-04 01:59:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *74
+  created_at: 2017-05-04 01:59:18.000000000 Z
+  updated_at: 2017-05-04 01:59:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 20
@@ -631,16 +335,8 @@ stage_320:
   name: Introduction to PD
   absolute_position: 1
   script_id: 53
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &75 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *75
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &76 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *76
+  created_at: 2017-05-04 01:59:23.000000000 Z
+  updated_at: 2017-05-04 01:59:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -648,16 +344,8 @@ stage_321:
   name: Course Overview
   absolute_position: 2
   script_id: 53
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &77 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *77
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &78 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *78
+  created_at: 2017-05-04 01:59:23.000000000 Z
+  updated_at: 2017-05-04 01:59:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -665,16 +353,8 @@ stage_322:
   name: Why Computer Science belongs in Algebra
   absolute_position: 3
   script_id: 53
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &79 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *79
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &80 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *80
+  created_at: 2017-05-04 01:59:23.000000000 Z
+  updated_at: 2017-05-04 01:59:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -682,16 +362,8 @@ stage_323:
   name: Evaluation Blocks
   absolute_position: 4
   script_id: 53
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &81 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *81
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &82 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *82
+  created_at: 2017-05-04 01:59:23.000000000 Z
+  updated_at: 2017-05-04 01:59:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -699,16 +371,8 @@ stage_324:
   name: Teacher Dashboard
   absolute_position: 5
   script_id: 53
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &83 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *83
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &84 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *84
+  created_at: 2017-05-04 01:59:23.000000000 Z
+  updated_at: 2017-05-04 01:59:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -716,16 +380,8 @@ stage_325:
   name: Preparing for in-person PD
   absolute_position: 6
   script_id: 53
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &85 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *85
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &86 2017-05-04 01:59:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *86
+  created_at: 2017-05-04 01:59:23.000000000 Z
+  updated_at: 2017-05-04 01:59:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -733,16 +389,8 @@ stage_31:
   name: Flappy Code
   absolute_position: 1
   script_id: 6
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &87 2017-05-04 01:58:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *87
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &88 2017-05-04 01:58:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *88
+  created_at: 2017-05-04 01:58:15.000000000 Z
+  updated_at: 2017-05-04 01:58:15.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -750,16 +398,8 @@ stage_1:
   name: Introduction to Computer Science
   absolute_position: 1
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &89 2017-05-04 01:58:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *89
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &90 2017-05-04 01:58:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *90
+  created_at: 2017-05-04 01:58:00.000000000 Z
+  updated_at: 2017-05-04 01:58:00.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -767,16 +407,8 @@ stage_2:
   name: The Maze
   absolute_position: 2
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &91 2017-05-04 01:58:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *91
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &92 2017-05-04 01:58:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *92
+  created_at: 2017-05-04 01:58:00.000000000 Z
+  updated_at: 2017-05-04 01:58:00.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -784,16 +416,8 @@ stage_3:
   name: Computational Thinking
   absolute_position: 3
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &93 2017-05-04 01:58:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *93
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &94 2017-05-04 01:58:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *94
+  created_at: 2017-05-04 01:58:02.000000000 Z
+  updated_at: 2017-05-04 01:58:02.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -801,16 +425,8 @@ stage_4:
   name: Graph Paper Programming
   absolute_position: 4
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &95 2017-05-04 01:58:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *95
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &96 2017-05-04 01:58:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *96
+  created_at: 2017-05-04 01:58:02.000000000 Z
+  updated_at: 2017-05-04 01:58:02.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -818,16 +434,8 @@ stage_5:
   name: The Artist
   absolute_position: 5
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &97 2017-05-04 01:58:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *97
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &98 2017-05-04 01:58:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *98
+  created_at: 2017-05-04 01:58:02.000000000 Z
+  updated_at: 2017-05-04 01:58:02.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -835,16 +443,8 @@ stage_6:
   name: Algorithms
   absolute_position: 6
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &99 2017-05-04 01:58:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *99
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &100 2017-05-04 01:58:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *100
+  created_at: 2017-05-04 01:58:03.000000000 Z
+  updated_at: 2017-05-04 01:58:03.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -852,16 +452,8 @@ stage_7:
   name: The Artist 2
   absolute_position: 7
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &101 2017-05-04 01:58:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *101
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &102 2017-05-04 01:58:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *102
+  created_at: 2017-05-04 01:58:03.000000000 Z
+  updated_at: 2017-05-04 01:58:03.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -869,16 +461,8 @@ stage_8:
   name: Functions
   absolute_position: 8
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &103 2017-05-04 01:58:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *103
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &104 2017-05-04 01:58:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *104
+  created_at: 2017-05-04 01:58:04.000000000 Z
+  updated_at: 2017-05-04 01:58:04.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -886,16 +470,8 @@ stage_9:
   name: The Farmer
   absolute_position: 9
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &105 2017-05-04 01:58:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *105
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &106 2017-05-04 01:58:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *106
+  created_at: 2017-05-04 01:58:04.000000000 Z
+  updated_at: 2017-05-04 01:58:04.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -903,16 +479,8 @@ stage_10:
   name: Conditionals
   absolute_position: 10
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &107 2017-05-04 01:58:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *107
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &108 2017-05-04 01:58:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *108
+  created_at: 2017-05-04 01:58:05.000000000 Z
+  updated_at: 2017-05-04 01:58:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -920,16 +488,8 @@ stage_11:
   name: The Artist 3
   absolute_position: 11
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &109 2017-05-04 01:58:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *109
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &110 2017-05-04 01:58:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *110
+  created_at: 2017-05-04 01:58:05.000000000 Z
+  updated_at: 2017-05-04 01:58:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -937,16 +497,8 @@ stage_12:
   name: Song Writing
   absolute_position: 12
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &111 2017-05-04 01:58:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *111
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &112 2017-05-04 01:58:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *112
+  created_at: 2017-05-04 01:58:06.000000000 Z
+  updated_at: 2017-05-04 01:58:06.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -954,16 +506,8 @@ stage_13:
   name: The Farmer 2
   absolute_position: 13
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &113 2017-05-04 01:58:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *113
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &114 2017-05-04 01:58:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *114
+  created_at: 2017-05-04 01:58:06.000000000 Z
+  updated_at: 2017-05-04 01:58:06.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -971,16 +515,8 @@ stage_14:
   name: Abstraction
   absolute_position: 14
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &115 2017-05-04 01:58:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *115
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &116 2017-05-04 01:58:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *116
+  created_at: 2017-05-04 01:58:07.000000000 Z
+  updated_at: 2017-05-04 01:58:07.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -988,16 +524,8 @@ stage_15:
   name: The Artist 4
   absolute_position: 15
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &117 2017-05-04 01:58:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *117
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &118 2017-05-04 01:58:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *118
+  created_at: 2017-05-04 01:58:07.000000000 Z
+  updated_at: 2017-05-04 01:58:07.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -1005,16 +533,8 @@ stage_16:
   name: Relay Programming
   absolute_position: 16
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &119 2017-05-04 01:58:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *119
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &120 2017-05-04 01:58:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *120
+  created_at: 2017-05-04 01:58:08.000000000 Z
+  updated_at: 2017-05-04 01:58:08.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -1022,16 +542,8 @@ stage_17:
   name: The Farmer 3
   absolute_position: 17
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &121 2017-05-04 01:58:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *121
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &122 2017-05-04 01:58:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *122
+  created_at: 2017-05-04 01:58:08.000000000 Z
+  updated_at: 2017-05-04 01:58:08.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -1039,16 +551,8 @@ stage_18:
   name: The Internet
   absolute_position: 18
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &123 2017-05-04 01:58:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *123
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &124 2017-05-04 01:58:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *124
+  created_at: 2017-05-04 01:58:09.000000000 Z
+  updated_at: 2017-05-04 01:58:09.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -1056,16 +560,8 @@ stage_19:
   name: The Artist 5
   absolute_position: 19
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &125 2017-05-04 01:58:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *125
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &126 2017-05-04 01:58:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *126
+  created_at: 2017-05-04 01:58:09.000000000 Z
+  updated_at: 2017-05-04 01:58:09.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -1073,16 +569,8 @@ stage_20:
   name: Wrap-up
   absolute_position: 20
   script_id: 1
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &127 2017-05-04 01:58:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *127
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &128 2017-05-04 01:58:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *128
+  created_at: 2017-05-04 01:58:10.000000000 Z
+  updated_at: 2017-05-04 01:58:10.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 20
@@ -1090,16 +578,8 @@ stage_464:
   name: Happy Maps
   absolute_position: 1
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &129 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *129
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &130 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *130
+  created_at: 2017-05-04 01:59:50.000000000 Z
+  updated_at: 2017-05-04 01:59:50.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -1107,16 +587,8 @@ stage_465:
   name: Move it, Move it
   absolute_position: 2
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &131 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *131
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &132 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *132
+  created_at: 2017-05-04 01:59:50.000000000 Z
+  updated_at: 2017-05-04 01:59:50.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -1124,16 +596,8 @@ stage_466:
   name: 'Jigsaw: Learn to drag and drop'
   absolute_position: 3
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &133 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *133
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &134 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *134
+  created_at: 2017-05-04 01:59:50.000000000 Z
+  updated_at: 2017-05-04 01:59:50.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -1141,16 +605,8 @@ stage_467:
   name: 'Maze: Sequence'
   absolute_position: 4
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &135 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *135
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &136 2017-05-04 01:59:50.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *136
+  created_at: 2017-05-04 01:59:50.000000000 Z
+  updated_at: 2017-05-04 01:59:50.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -1158,16 +614,8 @@ stage_468:
   name: 'Maze: Debugging'
   absolute_position: 5
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &137 2017-05-04 01:59:51.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *137
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &138 2017-05-04 01:59:51.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *138
+  created_at: 2017-05-04 01:59:51.000000000 Z
+  updated_at: 2017-05-04 01:59:51.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -1175,16 +623,8 @@ stage_469:
   name: 'Real-life Algorithms: Plant a Seed'
   absolute_position: 6
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &139 2017-05-04 01:59:51.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *139
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &140 2017-05-04 01:59:51.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *140
+  created_at: 2017-05-04 01:59:51.000000000 Z
+  updated_at: 2017-05-04 01:59:51.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -1192,16 +632,8 @@ stage_470:
   name: 'Bee: Sequence'
   absolute_position: 7
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &141 2017-05-04 01:59:51.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *141
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &142 2017-05-04 01:59:51.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *142
+  created_at: 2017-05-04 01:59:51.000000000 Z
+  updated_at: 2017-05-04 01:59:51.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -1209,16 +641,8 @@ stage_471:
   name: 'Artist: Sequence'
   absolute_position: 8
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &143 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *143
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &144 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *144
+  created_at: 2017-05-04 01:59:52.000000000 Z
+  updated_at: 2017-05-04 01:59:52.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -1226,16 +650,8 @@ stage_472:
   name: Building a Foundation
   absolute_position: 9
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &145 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *145
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &146 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *146
+  created_at: 2017-05-04 01:59:52.000000000 Z
+  updated_at: 2017-05-04 01:59:52.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -1243,16 +659,8 @@ stage_473:
   name: 'Artist: Shapes'
   absolute_position: 10
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &147 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *147
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &148 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *148
+  created_at: 2017-05-04 01:59:52.000000000 Z
+  updated_at: 2017-05-04 01:59:52.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -1260,16 +668,8 @@ stage_474:
   name: Spelling Bee
   absolute_position: 11
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &149 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *149
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &150 2017-05-04 01:59:52.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *150
+  created_at: 2017-05-04 01:59:52.000000000 Z
+  updated_at: 2017-05-04 01:59:52.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -1277,16 +677,8 @@ stage_475:
   name: Getting Loopy
   absolute_position: 12
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &151 2017-05-04 01:59:53.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *151
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &152 2017-05-04 01:59:53.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *152
+  created_at: 2017-05-04 01:59:53.000000000 Z
+  updated_at: 2017-05-04 01:59:53.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -1294,16 +686,8 @@ stage_476:
   name: 'Maze: Loops'
   absolute_position: 13
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &153 2017-05-04 01:59:53.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *153
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &154 2017-05-04 01:59:53.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *154
+  created_at: 2017-05-04 01:59:53.000000000 Z
+  updated_at: 2017-05-04 01:59:53.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -1311,16 +695,8 @@ stage_477:
   name: 'Bee: Loops'
   absolute_position: 14
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &155 2017-05-04 01:59:54.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *155
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &156 2017-05-04 01:59:54.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *156
+  created_at: 2017-05-04 01:59:54.000000000 Z
+  updated_at: 2017-05-04 01:59:54.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -1328,16 +704,8 @@ stage_478:
   name: The Big Event
   absolute_position: 15
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &157 2017-05-04 01:59:54.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *157
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &158 2017-05-04 01:59:54.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *158
+  created_at: 2017-05-04 01:59:54.000000000 Z
+  updated_at: 2017-05-04 01:59:54.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -1345,16 +713,8 @@ stage_479:
   name: 'Studio: Create a Story'
   absolute_position: 16
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &159 2017-05-04 01:59:54.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *159
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &160 2017-05-04 01:59:54.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *160
+  created_at: 2017-05-04 01:59:54.000000000 Z
+  updated_at: 2017-05-04 01:59:54.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -1362,16 +722,8 @@ stage_480:
   name: Going Places Safely
   absolute_position: 17
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &161 2017-05-04 01:59:54.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *161
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &162 2017-05-04 01:59:55.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *162
+  created_at: 2017-05-04 01:59:54.000000000 Z
+  updated_at: 2017-05-04 01:59:55.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -1379,16 +731,8 @@ stage_481:
   name: 'Artist: Loops'
   absolute_position: 18
   script_id: 73
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &163 2017-05-04 01:59:55.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *163
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &164 2017-05-04 01:59:55.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *164
+  created_at: 2017-05-04 01:59:55.000000000 Z
+  updated_at: 2017-05-04 01:59:55.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -1396,16 +740,8 @@ stage_482:
   name: Graph Paper Programming
   absolute_position: 1
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &165 2017-05-04 01:59:55.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *165
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &166 2017-05-04 01:59:55.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *166
+  created_at: 2017-05-04 01:59:55.000000000 Z
+  updated_at: 2017-05-04 01:59:55.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -1413,16 +749,8 @@ stage_483:
   name: 'Real-life Algorithms: Paper Planes'
   absolute_position: 2
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &167 2017-05-04 01:59:55.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *167
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &168 2017-05-04 01:59:55.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *168
+  created_at: 2017-05-04 01:59:55.000000000 Z
+  updated_at: 2017-05-04 01:59:55.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -1430,16 +758,8 @@ stage_484:
   name: 'Maze: Sequence'
   absolute_position: 3
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &169 2017-05-04 01:59:56.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *169
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &170 2017-05-04 01:59:56.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *170
+  created_at: 2017-05-04 01:59:56.000000000 Z
+  updated_at: 2017-05-04 01:59:56.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -1447,16 +767,8 @@ stage_485:
   name: 'Artist: Sequence'
   absolute_position: 4
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &171 2017-05-04 01:59:56.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *171
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &172 2017-05-04 01:59:56.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *172
+  created_at: 2017-05-04 01:59:56.000000000 Z
+  updated_at: 2017-05-04 01:59:56.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -1464,16 +776,8 @@ stage_486:
   name: Getting Loopy
   absolute_position: 5
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &173 2017-05-04 01:59:57.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *173
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &174 2017-05-04 01:59:57.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *174
+  created_at: 2017-05-04 01:59:57.000000000 Z
+  updated_at: 2017-05-04 01:59:57.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -1481,16 +785,8 @@ stage_487:
   name: 'Maze: Loops'
   absolute_position: 6
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &175 2017-05-04 01:59:57.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *175
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &176 2017-05-04 01:59:57.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *176
+  created_at: 2017-05-04 01:59:57.000000000 Z
+  updated_at: 2017-05-04 01:59:57.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -1498,16 +794,8 @@ stage_488:
   name: 'Artist: Loops'
   absolute_position: 7
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &177 2017-05-04 01:59:58.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *177
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &178 2017-05-04 01:59:58.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *178
+  created_at: 2017-05-04 01:59:58.000000000 Z
+  updated_at: 2017-05-04 01:59:58.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -1515,16 +803,8 @@ stage_489:
   name: 'Bee: Loops'
   absolute_position: 8
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &179 2017-05-04 01:59:58.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *179
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &180 2017-05-04 01:59:58.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *180
+  created_at: 2017-05-04 01:59:58.000000000 Z
+  updated_at: 2017-05-04 01:59:58.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -1532,16 +812,8 @@ stage_490:
   name: Relay programming
   absolute_position: 9
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &181 2017-05-04 01:59:59.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *181
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &182 2017-05-04 01:59:59.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *182
+  created_at: 2017-05-04 01:59:59.000000000 Z
+  updated_at: 2017-05-04 01:59:59.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -1549,16 +821,8 @@ stage_491:
   name: 'Bee: Debugging'
   absolute_position: 10
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &183 2017-05-04 01:59:59.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *183
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &184 2017-05-04 01:59:59.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *184
+  created_at: 2017-05-04 01:59:59.000000000 Z
+  updated_at: 2017-05-04 01:59:59.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -1566,16 +830,8 @@ stage_492:
   name: 'Artist: Debugging'
   absolute_position: 11
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &185 2017-05-04 01:59:59.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *185
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &186 2017-05-04 01:59:59.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *186
+  created_at: 2017-05-04 01:59:59.000000000 Z
+  updated_at: 2017-05-04 01:59:59.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -1583,16 +839,8 @@ stage_493:
   name: Conditionals
   absolute_position: 12
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &187 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *187
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &188 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *188
+  created_at: 2017-05-04 02:00:00.000000000 Z
+  updated_at: 2017-05-04 02:00:00.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -1600,16 +848,8 @@ stage_494:
   name: 'Bee: Conditionals'
   absolute_position: 13
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &189 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *189
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &190 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *190
+  created_at: 2017-05-04 02:00:00.000000000 Z
+  updated_at: 2017-05-04 02:00:00.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -1617,16 +857,8 @@ stage_495:
   name: Binary Bracelets
   absolute_position: 14
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &191 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *191
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &192 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *192
+  created_at: 2017-05-04 02:00:00.000000000 Z
+  updated_at: 2017-05-04 02:00:00.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -1634,16 +866,8 @@ stage_496:
   name: The Big Event
   absolute_position: 15
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &193 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *193
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &194 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *194
+  created_at: 2017-05-04 02:00:00.000000000 Z
+  updated_at: 2017-05-04 02:00:00.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -1651,16 +875,8 @@ stage_497:
   name: Flappy
   absolute_position: 16
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &195 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *195
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &196 2017-05-04 02:00:00.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *196
+  created_at: 2017-05-04 02:00:00.000000000 Z
+  updated_at: 2017-05-04 02:00:00.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -1668,16 +884,8 @@ stage_498:
   name: 'Studio: Create a Story'
   absolute_position: 17
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &197 2017-05-04 02:00:01.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *197
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &198 2017-05-04 02:00:01.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *198
+  created_at: 2017-05-04 02:00:01.000000000 Z
+  updated_at: 2017-05-04 02:00:01.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -1685,16 +893,8 @@ stage_499:
   name: Your Digital Footprint
   absolute_position: 18
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &199 2017-05-04 02:00:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *199
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &200 2017-05-04 02:00:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *200
+  created_at: 2017-05-04 02:00:02.000000000 Z
+  updated_at: 2017-05-04 02:00:02.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -1702,16 +902,8 @@ stage_500:
   name: 'Artist: Nested Loops'
   absolute_position: 19
   script_id: 74
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &201 2017-05-04 02:00:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *201
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &202 2017-05-04 02:00:02.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *202
+  created_at: 2017-05-04 02:00:02.000000000 Z
+  updated_at: 2017-05-04 02:00:02.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -1719,16 +911,8 @@ stage_501:
   name: Computational Thinking
   absolute_position: 1
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &203 2017-05-04 02:00:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *203
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &204 2017-05-04 02:00:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *204
+  created_at: 2017-05-04 02:00:03.000000000 Z
+  updated_at: 2017-05-04 02:00:03.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -1736,16 +920,8 @@ stage_502:
   name: Maze
   absolute_position: 2
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &205 2017-05-04 02:00:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *205
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &206 2017-05-04 02:00:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *206
+  created_at: 2017-05-04 02:00:03.000000000 Z
+  updated_at: 2017-05-04 02:00:03.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -1753,16 +929,8 @@ stage_503:
   name: Artist
   absolute_position: 3
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &207 2017-05-04 02:00:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *207
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &208 2017-05-04 02:00:03.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *208
+  created_at: 2017-05-04 02:00:03.000000000 Z
+  updated_at: 2017-05-04 02:00:03.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -1770,16 +938,8 @@ stage_504:
   name: Functional Suncatchers
   absolute_position: 4
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &209 2017-05-04 02:00:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *209
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &210 2017-05-04 02:00:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *210
+  created_at: 2017-05-04 02:00:04.000000000 Z
+  updated_at: 2017-05-04 02:00:04.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -1787,16 +947,8 @@ stage_505:
   name: 'Artist: Functions'
   absolute_position: 5
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &211 2017-05-04 02:00:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *211
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &212 2017-05-04 02:00:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *212
+  created_at: 2017-05-04 02:00:04.000000000 Z
+  updated_at: 2017-05-04 02:00:04.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -1804,16 +956,8 @@ stage_506:
   name: 'Bee: Functions'
   absolute_position: 6
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &213 2017-05-04 02:00:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *213
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &214 2017-05-04 02:00:04.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *214
+  created_at: 2017-05-04 02:00:04.000000000 Z
+  updated_at: 2017-05-04 02:00:04.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -1821,16 +965,8 @@ stage_507:
   name: 'Bee: Conditionals'
   absolute_position: 7
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &215 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *215
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &216 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *216
+  created_at: 2017-05-04 02:00:05.000000000 Z
+  updated_at: 2017-05-04 02:00:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -1838,16 +974,8 @@ stage_508:
   name: 'Maze: Conditionals'
   absolute_position: 8
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &217 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *217
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &218 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *218
+  created_at: 2017-05-04 02:00:05.000000000 Z
+  updated_at: 2017-05-04 02:00:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -1855,16 +983,8 @@ stage_509:
   name: Songwriting
   absolute_position: 9
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &219 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *219
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &220 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *220
+  created_at: 2017-05-04 02:00:05.000000000 Z
+  updated_at: 2017-05-04 02:00:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -1872,16 +992,8 @@ stage_510:
   name: Dice Race
   absolute_position: 10
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &221 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *221
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &222 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *222
+  created_at: 2017-05-04 02:00:05.000000000 Z
+  updated_at: 2017-05-04 02:00:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -1889,16 +1001,8 @@ stage_511:
   name: 'Artist: Nested Loops'
   absolute_position: 11
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &223 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *223
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &224 2017-05-04 02:00:05.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *224
+  created_at: 2017-05-04 02:00:05.000000000 Z
+  updated_at: 2017-05-04 02:00:05.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -1906,16 +1010,8 @@ stage_512:
   name: 'Farmer: While Loops'
   absolute_position: 12
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &225 2017-05-04 02:00:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *225
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &226 2017-05-04 02:00:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *226
+  created_at: 2017-05-04 02:00:06.000000000 Z
+  updated_at: 2017-05-04 02:00:06.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -1923,16 +1019,8 @@ stage_513:
   name: 'Bee: Nested Loops'
   absolute_position: 13
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &227 2017-05-04 02:00:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *227
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &228 2017-05-04 02:00:06.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *228
+  created_at: 2017-05-04 02:00:06.000000000 Z
+  updated_at: 2017-05-04 02:00:06.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -1940,16 +1028,8 @@ stage_514:
   name: 'Bee: Debugging'
   absolute_position: 14
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &229 2017-05-04 02:00:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *229
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &230 2017-05-04 02:00:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *230
+  created_at: 2017-05-04 02:00:07.000000000 Z
+  updated_at: 2017-05-04 02:00:07.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -1957,16 +1037,8 @@ stage_515:
   name: Bounce
   absolute_position: 15
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &231 2017-05-04 02:00:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *231
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &232 2017-05-04 02:00:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *232
+  created_at: 2017-05-04 02:00:07.000000000 Z
+  updated_at: 2017-05-04 02:00:07.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -1974,16 +1046,8 @@ stage_516:
   name: 'Studio: Create a Story'
   absolute_position: 16
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &233 2017-05-04 02:00:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *233
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &234 2017-05-04 02:00:07.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *234
+  created_at: 2017-05-04 02:00:07.000000000 Z
+  updated_at: 2017-05-04 02:00:07.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -1991,16 +1055,8 @@ stage_517:
   name: 'Studio: Create a Game'
   absolute_position: 17
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &235 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *235
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &236 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *236
+  created_at: 2017-05-04 02:00:08.000000000 Z
+  updated_at: 2017-05-04 02:00:08.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -2008,16 +1064,8 @@ stage_518:
   name: Internet
   absolute_position: 18
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &237 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *237
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &238 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *238
+  created_at: 2017-05-04 02:00:08.000000000 Z
+  updated_at: 2017-05-04 02:00:08.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -2025,16 +1073,8 @@ stage_519:
   name: Crowdsourcing
   absolute_position: 19
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &239 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *239
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &240 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *240
+  created_at: 2017-05-04 02:00:08.000000000 Z
+  updated_at: 2017-05-04 02:00:08.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -2042,16 +1082,8 @@ stage_520:
   name: Digital Citizenship
   absolute_position: 20
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &241 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *241
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &242 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *242
+  created_at: 2017-05-04 02:00:08.000000000 Z
+  updated_at: 2017-05-04 02:00:08.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 20
@@ -2059,16 +1091,8 @@ stage_521:
   name: 'Artist: Patterns'
   absolute_position: 21
   script_id: 75
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &243 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *243
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &244 2017-05-04 02:00:08.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *244
+  created_at: 2017-05-04 02:00:08.000000000 Z
+  updated_at: 2017-05-04 02:00:08.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 21
@@ -2076,16 +1100,8 @@ stage_522:
   name: 'Unplugged: Tangrams'
   absolute_position: 1
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &245 2017-05-04 02:00:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *245
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &246 2017-05-04 02:00:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *246
+  created_at: 2017-05-04 02:00:09.000000000 Z
+  updated_at: 2017-05-04 02:00:09.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -2093,16 +1109,8 @@ stage_523:
   name: Maze and Bee
   absolute_position: 2
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &247 2017-05-04 02:00:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *247
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &248 2017-05-04 02:00:09.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *248
+  created_at: 2017-05-04 02:00:09.000000000 Z
+  updated_at: 2017-05-04 02:00:09.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -2110,16 +1118,8 @@ stage_524:
   name: Artist
   absolute_position: 3
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &249 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *249
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &250 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *250
+  created_at: 2017-05-04 02:00:10.000000000 Z
+  updated_at: 2017-05-04 02:00:10.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -2127,16 +1127,8 @@ stage_525:
   name: 'Unplugged: Envelope Variables'
   absolute_position: 4
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &251 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *251
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &252 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *252
+  created_at: 2017-05-04 02:00:10.000000000 Z
+  updated_at: 2017-05-04 02:00:10.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -2144,16 +1136,8 @@ stage_526:
   name: 'Unplugged: Madlibs'
   absolute_position: 5
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &253 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *253
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &254 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *254
+  created_at: 2017-05-04 02:00:10.000000000 Z
+  updated_at: 2017-05-04 02:00:10.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -2161,16 +1145,8 @@ stage_527:
   name: 'Artist: Variables'
   absolute_position: 6
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &255 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *255
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &256 2017-05-04 02:00:10.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *256
+  created_at: 2017-05-04 02:00:10.000000000 Z
+  updated_at: 2017-05-04 02:00:10.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -2178,16 +1154,8 @@ stage_528:
   name: 'Play Lab: Variables'
   absolute_position: 7
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &257 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *257
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &258 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *258
+  created_at: 2017-05-04 02:00:11.000000000 Z
+  updated_at: 2017-05-04 02:00:11.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -2195,16 +1163,8 @@ stage_529:
   name: 'Unplugged: For Loop Fun'
   absolute_position: 8
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &259 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *259
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &260 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *260
+  created_at: 2017-05-04 02:00:11.000000000 Z
+  updated_at: 2017-05-04 02:00:11.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -2212,16 +1172,8 @@ stage_530:
   name: 'Bee: For Loops'
   absolute_position: 9
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &261 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *261
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &262 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *262
+  created_at: 2017-05-04 02:00:11.000000000 Z
+  updated_at: 2017-05-04 02:00:11.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -2229,16 +1181,8 @@ stage_531:
   name: 'Artist: For Loops'
   absolute_position: 10
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &263 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *263
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &264 2017-05-04 02:00:11.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *264
+  created_at: 2017-05-04 02:00:11.000000000 Z
+  updated_at: 2017-05-04 02:00:11.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -2246,16 +1190,8 @@ stage_532:
   name: 'Play Lab: For Loops'
   absolute_position: 11
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &265 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *265
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &266 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *266
+  created_at: 2017-05-04 02:00:12.000000000 Z
+  updated_at: 2017-05-04 02:00:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -2263,16 +1199,8 @@ stage_533:
   name: 'Artist: Functions'
   absolute_position: 12
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &267 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *267
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &268 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *268
+  created_at: 2017-05-04 02:00:12.000000000 Z
+  updated_at: 2017-05-04 02:00:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -2280,16 +1208,8 @@ stage_534:
   name: 'Unplugged: Songwriting with Parameters'
   absolute_position: 13
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &269 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *269
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &270 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *270
+  created_at: 2017-05-04 02:00:12.000000000 Z
+  updated_at: 2017-05-04 02:00:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -2297,16 +1217,8 @@ stage_535:
   name: 'Artist: Functions with Parameters'
   absolute_position: 14
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &271 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *271
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &272 2017-05-04 02:00:12.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *272
+  created_at: 2017-05-04 02:00:12.000000000 Z
+  updated_at: 2017-05-04 02:00:12.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -2314,16 +1226,8 @@ stage_536:
   name: 'Play Lab: Functions with Parameters'
   absolute_position: 15
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &273 2017-05-04 02:00:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *273
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &274 2017-05-04 02:00:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *274
+  created_at: 2017-05-04 02:00:13.000000000 Z
+  updated_at: 2017-05-04 02:00:13.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -2331,16 +1235,8 @@ stage_537:
   name: 'Bee: Functions with Parameters'
   absolute_position: 16
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &275 2017-05-04 02:00:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *275
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &276 2017-05-04 02:00:13.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *276
+  created_at: 2017-05-04 02:00:13.000000000 Z
+  updated_at: 2017-05-04 02:00:13.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -2348,16 +1244,8 @@ stage_538:
   name: 'Unplugged: Binary'
   absolute_position: 17
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &277 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *277
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &278 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *278
+  created_at: 2017-05-04 02:00:14.000000000 Z
+  updated_at: 2017-05-04 02:00:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -2365,16 +1253,8 @@ stage_539:
   name: Artist Binary
   absolute_position: 18
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &279 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *279
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &280 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *280
+  created_at: 2017-05-04 02:00:14.000000000 Z
+  updated_at: 2017-05-04 02:00:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -2382,16 +1262,8 @@ stage_540:
   name: Super Challenge - Variables
   absolute_position: 19
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &281 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *281
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &282 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *282
+  created_at: 2017-05-04 02:00:14.000000000 Z
+  updated_at: 2017-05-04 02:00:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -2399,16 +1271,8 @@ stage_541:
   name: Super Challenge - For Loops
   absolute_position: 20
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &283 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *283
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &284 2017-05-04 02:00:14.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *284
+  created_at: 2017-05-04 02:00:14.000000000 Z
+  updated_at: 2017-05-04 02:00:14.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 20
@@ -2416,16 +1280,8 @@ stage_542:
   name: Super Challenge - Functions and Parameters
   absolute_position: 21
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &285 2017-05-04 02:00:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *285
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &286 2017-05-04 02:00:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *286
+  created_at: 2017-05-04 02:00:15.000000000 Z
+  updated_at: 2017-05-04 02:00:15.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 21
@@ -2433,16 +1289,8 @@ stage_543:
   name: Extreme Challenge - Comprehensive
   absolute_position: 22
   script_id: 76
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &287 2017-05-04 02:00:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *287
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &288 2017-05-04 02:00:15.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *288
+  created_at: 2017-05-04 02:00:15.000000000 Z
+  updated_at: 2017-05-04 02:00:15.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 22
@@ -2450,16 +1298,8 @@ stage_1058:
   name: Personal Innovations
   absolute_position: 1
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &289 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *289
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &290 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *290
+  created_at: 2017-05-04 02:02:16.000000000 Z
+  updated_at: 2017-05-04 02:02:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -2467,16 +1307,8 @@ stage_1059:
   name: Sending Binary Messages
   absolute_position: 2
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &291 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *291
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &292 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *292
+  created_at: 2017-05-04 02:02:16.000000000 Z
+  updated_at: 2017-05-04 02:02:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -2484,16 +1316,8 @@ stage_1060:
   name: Sending Complex Messages
   absolute_position: 3
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &293 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *293
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &294 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *294
+  created_at: 2017-05-04 02:02:16.000000000 Z
+  updated_at: 2017-05-04 02:02:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -2501,16 +1325,8 @@ stage_1061:
   name: Sending Binary Messages with the Internet Simulator
   absolute_position: 4
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &295 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *295
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &296 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *296
+  created_at: 2017-05-04 02:02:16.000000000 Z
+  updated_at: 2017-05-04 02:02:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -2518,16 +1334,8 @@ stage_1062:
   name: Sending Bits in the Real World
   absolute_position: 5
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &297 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *297
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &298 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *298
+  created_at: 2017-05-04 02:02:16.000000000 Z
+  updated_at: 2017-05-04 02:02:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -2535,16 +1343,8 @@ stage_1063:
   name: Number Systems
   absolute_position: 6
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &299 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *299
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &300 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *300
+  created_at: 2017-05-04 02:02:16.000000000 Z
+  updated_at: 2017-05-04 02:02:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -2552,16 +1352,8 @@ stage_1064:
   name: Binary Numbers
   absolute_position: 7
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &301 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *301
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &302 2017-05-04 02:02:16.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *302
+  created_at: 2017-05-04 02:02:16.000000000 Z
+  updated_at: 2017-05-04 02:02:16.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -2569,16 +1361,8 @@ stage_1065:
   name: Sending Numbers
   absolute_position: 8
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &303 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *303
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &304 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *304
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -2586,16 +1370,8 @@ stage_1066:
   name: Encoding Numbers in the Real World
   absolute_position: 9
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &305 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *305
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &306 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *306
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -2603,16 +1379,8 @@ stage_1067:
   name: Encoding and Sending Text
   absolute_position: 10
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &307 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *307
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &308 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *308
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -2620,16 +1388,8 @@ stage_1068:
   name: Sending Formatted Text
   absolute_position: 11
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &309 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *309
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &310 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *310
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -2637,16 +1397,8 @@ stage_1069:
   name: Bytes and File Sizes
   absolute_position: 12
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &311 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *311
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &312 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *312
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -2654,16 +1406,8 @@ stage_1070:
   name: Text Compression
   absolute_position: 13
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &313 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *313
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &314 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *314
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -2671,16 +1415,8 @@ stage_1071:
   name: Encoding B&W Images
   absolute_position: 14
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &315 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *315
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &316 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *316
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -2688,16 +1424,8 @@ stage_1072:
   name: Encoding Color Images
   absolute_position: 15
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &317 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *317
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &318 2017-05-04 02:02:17.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *318
+  created_at: 2017-05-04 02:02:17.000000000 Z
+  updated_at: 2017-05-04 02:02:17.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -2705,16 +1433,8 @@ stage_1073:
   name: Lossy Compression and File Formats
   absolute_position: 16
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &319 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *319
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &320 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *320
+  created_at: 2017-05-04 02:02:18.000000000 Z
+  updated_at: 2017-05-04 02:02:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -2722,16 +1442,8 @@ stage_1074:
   name: Encode a Complex Thing
   absolute_position: 17
   script_id: 128
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &321 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *321
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &322 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *322
+  created_at: 2017-05-04 02:02:18.000000000 Z
+  updated_at: 2017-05-04 02:02:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -2739,16 +1451,8 @@ stage_1075:
   name: The Internet
   absolute_position: 1
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &323 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *323
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &324 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *324
+  created_at: 2017-05-04 02:02:18.000000000 Z
+  updated_at: 2017-05-04 02:02:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -2756,16 +1460,8 @@ stage_1076:
   name: The Need for Addressing
   absolute_position: 2
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &325 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *325
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &326 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *326
+  created_at: 2017-05-04 02:02:18.000000000 Z
+  updated_at: 2017-05-04 02:02:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -2773,16 +1469,8 @@ stage_1077:
   name: Invent an Addressing Protocol
   absolute_position: 3
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &327 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *327
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &328 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *328
+  created_at: 2017-05-04 02:02:18.000000000 Z
+  updated_at: 2017-05-04 02:02:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -2790,16 +1478,8 @@ stage_1078:
   name: Routers and Redundancy
   absolute_position: 4
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &329 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *329
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &330 2017-05-04 02:02:18.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *330
+  created_at: 2017-05-04 02:02:18.000000000 Z
+  updated_at: 2017-05-04 02:02:18.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -2807,16 +1487,8 @@ stage_1079:
   name: Packets and Making a Reliable Internet
   absolute_position: 5
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &331 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *331
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &332 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *332
+  created_at: 2017-05-04 02:02:19.000000000 Z
+  updated_at: 2017-05-04 02:02:19.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -2824,16 +1496,8 @@ stage_1080:
   name: Algorithms Detour - Minimum Spanning Tree
   absolute_position: 6
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &333 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *333
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &334 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *334
+  created_at: 2017-05-04 02:02:19.000000000 Z
+  updated_at: 2017-05-04 02:02:19.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -2841,16 +1505,8 @@ stage_1081:
   name: Algorithms Detour - Shortest Path
   absolute_position: 7
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &335 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *335
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &336 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *336
+  created_at: 2017-05-04 02:02:19.000000000 Z
+  updated_at: 2017-05-04 02:02:19.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -2858,16 +1514,8 @@ stage_1082:
   name: Algorithms Detour - How Routers Learn
   absolute_position: 8
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &337 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *337
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &338 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *338
+  created_at: 2017-05-04 02:02:19.000000000 Z
+  updated_at: 2017-05-04 02:02:19.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -2875,16 +1523,8 @@ stage_1083:
   name: The Need for DNS
   absolute_position: 9
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &339 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *339
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &340 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *340
+  created_at: 2017-05-04 02:02:19.000000000 Z
+  updated_at: 2017-05-04 02:02:19.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -2892,16 +1532,8 @@ stage_1084:
   name: DNS in the Real World
   absolute_position: 10
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &341 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *341
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &342 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *342
+  created_at: 2017-05-04 02:02:19.000000000 Z
+  updated_at: 2017-05-04 02:02:19.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -2909,16 +1541,8 @@ stage_1085:
   name: HTTP and Abstraction
   absolute_position: 11
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &343 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *343
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &344 2017-05-04 02:02:19.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *344
+  created_at: 2017-05-04 02:02:19.000000000 Z
+  updated_at: 2017-05-04 02:02:19.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -2926,16 +1550,8 @@ stage_1086:
   name: Practice PT - The Internet and Society
   absolute_position: 12
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &345 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *345
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &346 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *346
+  created_at: 2017-05-04 02:02:20.000000000 Z
+  updated_at: 2017-05-04 02:02:20.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -2943,16 +1559,8 @@ stage_1087:
   name: Tell Me a Secret - Encrypting Text
   absolute_position: 13
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &347 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *347
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &348 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *348
+  created_at: 2017-05-04 02:02:20.000000000 Z
+  updated_at: 2017-05-04 02:02:20.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -2960,16 +1568,8 @@ stage_1088:
   name: Cracking the Code
   absolute_position: 14
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &349 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *349
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &350 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *350
+  created_at: 2017-05-04 02:02:20.000000000 Z
+  updated_at: 2017-05-04 02:02:20.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -2977,16 +1577,8 @@ stage_1089:
   name: Encryption Algorithms
   absolute_position: 15
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &351 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *351
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &352 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *352
+  created_at: 2017-05-04 02:02:20.000000000 Z
+  updated_at: 2017-05-04 02:02:20.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -2994,16 +1586,8 @@ stage_1090:
   name: Algorithms Detour - Hard Problems TSP
   absolute_position: 16
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &353 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *353
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &354 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *354
+  created_at: 2017-05-04 02:02:20.000000000 Z
+  updated_at: 2017-05-04 02:02:20.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -3011,16 +1595,8 @@ stage_1091:
   name: One Way Functions - Ice Cream Vans
   absolute_position: 17
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &355 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *355
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &356 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *356
+  created_at: 2017-05-04 02:02:20.000000000 Z
+  updated_at: 2017-05-04 02:02:20.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -3028,16 +1604,8 @@ stage_1092:
   name: Alice and Bob and Asymmetric Keys
   absolute_position: 18
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &357 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *357
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &358 2017-05-04 02:02:20.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *358
+  created_at: 2017-05-04 02:02:20.000000000 Z
+  updated_at: 2017-05-04 02:02:20.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -3045,16 +1613,8 @@ stage_1093:
   name: Public Key Crypto
   absolute_position: 19
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &359 2017-05-04 02:02:21.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *359
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &360 2017-05-04 02:02:21.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *360
+  created_at: 2017-05-04 02:02:21.000000000 Z
+  updated_at: 2017-05-04 02:02:21.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -3062,16 +1622,8 @@ stage_1094:
   name: Practice PT - Cybersecurity Innovations
   absolute_position: 20
   script_id: 129
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &361 2017-05-04 02:02:21.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *361
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &362 2017-05-04 02:02:21.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *362
+  created_at: 2017-05-04 02:02:21.000000000 Z
+  updated_at: 2017-05-04 02:02:21.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 20
@@ -3079,16 +1631,8 @@ stage_1095:
   name: The Need For Programming Languages
   absolute_position: 1
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &363 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *363
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &364 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *364
+  created_at: 2017-05-04 02:02:22.000000000 Z
+  updated_at: 2017-05-04 02:02:22.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -3096,16 +1640,8 @@ stage_1096:
   name: Using Simple Commands
   absolute_position: 2
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &365 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *365
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &366 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *366
+  created_at: 2017-05-04 02:02:22.000000000 Z
+  updated_at: 2017-05-04 02:02:22.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -3113,16 +1649,8 @@ stage_1097:
   name: Creating Functions
   absolute_position: 3
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &367 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *367
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &368 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *368
+  created_at: 2017-05-04 02:02:22.000000000 Z
+  updated_at: 2017-05-04 02:02:22.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -3130,16 +1658,8 @@ stage_1098:
   name: Functions and Top-Down Design
   absolute_position: 4
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &369 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *369
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &370 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *370
+  created_at: 2017-05-04 02:02:22.000000000 Z
+  updated_at: 2017-05-04 02:02:22.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -3147,16 +1667,8 @@ stage_1099:
   name: APIs and Function Parameters
   absolute_position: 5
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &371 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *371
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &372 2017-05-04 02:02:22.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *372
+  created_at: 2017-05-04 02:02:22.000000000 Z
+  updated_at: 2017-05-04 02:02:22.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -3164,16 +1676,8 @@ stage_1100:
   name: Creating functions with Parameters
   absolute_position: 6
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &373 2017-05-04 02:02:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *373
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &374 2017-05-04 02:02:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *374
+  created_at: 2017-05-04 02:02:23.000000000 Z
+  updated_at: 2017-05-04 02:02:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -3181,16 +1685,8 @@ stage_1101:
   name: Looping and Random Numbers
   absolute_position: 7
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &375 2017-05-04 02:02:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *375
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &376 2017-05-04 02:02:23.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *376
+  created_at: 2017-05-04 02:02:23.000000000 Z
+  updated_at: 2017-05-04 02:02:23.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -3198,16 +1694,8 @@ stage_1102:
   name: Practice PT - Design a Digital Scene
   absolute_position: 8
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &377 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *377
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &378 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *378
+  created_at: 2017-05-04 02:02:24.000000000 Z
+  updated_at: 2017-05-04 02:02:24.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -3215,16 +1703,8 @@ stage_1103:
   name: Events Unplugged
   absolute_position: 9
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &379 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *379
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &380 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *380
+  created_at: 2017-05-04 02:02:24.000000000 Z
+  updated_at: 2017-05-04 02:02:24.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -3232,16 +1712,8 @@ stage_1104:
   name: Event-Driven Programming and Debugging
   absolute_position: 10
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &381 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *381
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &382 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *382
+  created_at: 2017-05-04 02:02:24.000000000 Z
+  updated_at: 2017-05-04 02:02:24.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -3249,16 +1721,8 @@ stage_1105:
   name: Beyond Buttons Toward Apps
   absolute_position: 11
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &383 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *383
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &384 2017-05-04 02:02:24.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *384
+  created_at: 2017-05-04 02:02:24.000000000 Z
+  updated_at: 2017-05-04 02:02:24.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -3266,16 +1730,8 @@ stage_1106:
   name: Introducing Design Mode
   absolute_position: 12
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &385 2017-05-04 02:02:25.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *385
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &386 2017-05-04 02:02:25.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *386
+  created_at: 2017-05-04 02:02:25.000000000 Z
+  updated_at: 2017-05-04 02:02:25.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -3283,16 +1739,8 @@ stage_1107:
   name: Multi-screen Apps
   absolute_position: 13
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &387 2017-05-04 02:02:25.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *387
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &388 2017-05-04 02:02:25.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *388
+  created_at: 2017-05-04 02:02:25.000000000 Z
+  updated_at: 2017-05-04 02:02:25.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -3300,16 +1748,8 @@ stage_1108:
   name: Controlling Memory with Variables
   absolute_position: 14
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &389 2017-05-04 02:02:25.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *389
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &390 2017-05-04 02:02:25.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *390
+  created_at: 2017-05-04 02:02:25.000000000 Z
+  updated_at: 2017-05-04 02:02:25.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -3317,16 +1757,8 @@ stage_1109:
   name: Using Variables in Apps
   absolute_position: 15
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &391 2017-05-04 02:02:26.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *391
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &392 2017-05-04 02:02:26.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *392
+  created_at: 2017-05-04 02:02:26.000000000 Z
+  updated_at: 2017-05-04 02:02:26.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -3334,16 +1766,8 @@ stage_1110:
   name: User Input and Strings
   absolute_position: 16
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &393 2017-05-04 02:02:27.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *393
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &394 2017-05-04 02:02:27.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *394
+  created_at: 2017-05-04 02:02:27.000000000 Z
+  updated_at: 2017-05-04 02:02:27.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -3351,16 +1775,8 @@ stage_1111:
   name: Introduction to Digital Assistants
   absolute_position: 17
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &395 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *395
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &396 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *396
+  created_at: 2017-05-04 02:02:29.000000000 Z
+  updated_at: 2017-05-04 02:02:29.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -3368,16 +1784,8 @@ stage_1112:
   name: Understanding Program Flow and Logic
   absolute_position: 18
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &397 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *397
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &398 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *398
+  created_at: 2017-05-04 02:02:29.000000000 Z
+  updated_at: 2017-05-04 02:02:29.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -3385,16 +1793,8 @@ stage_1113:
   name: Introduction to Conditional Logic
   absolute_position: 19
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &399 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *399
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &400 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *400
+  created_at: 2017-05-04 02:02:29.000000000 Z
+  updated_at: 2017-05-04 02:02:29.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -3402,16 +1802,8 @@ stage_1114:
   name: Compound Conditional Logic
   absolute_position: 20
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &401 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *401
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &402 2017-05-04 02:02:29.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *402
+  created_at: 2017-05-04 02:02:29.000000000 Z
+  updated_at: 2017-05-04 02:02:29.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 20
@@ -3419,16 +1811,8 @@ stage_1115:
   name: Digital Assistant Project
   absolute_position: 21
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &403 2017-05-04 02:02:30.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *403
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &404 2017-05-04 02:02:30.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *404
+  created_at: 2017-05-04 02:02:30.000000000 Z
+  updated_at: 2017-05-04 02:02:30.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 21
@@ -3436,16 +1820,8 @@ stage_1116:
   name: While Loops
   absolute_position: 22
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &405 2017-05-04 02:02:30.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *405
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &406 2017-05-04 02:02:30.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *406
+  created_at: 2017-05-04 02:02:30.000000000 Z
+  updated_at: 2017-05-04 02:02:30.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 22
@@ -3453,16 +1829,8 @@ stage_1117:
   name: Loops and Simulations
   absolute_position: 23
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &407 2017-05-04 02:02:30.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *407
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &408 2017-05-04 02:02:30.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *408
+  created_at: 2017-05-04 02:02:30.000000000 Z
+  updated_at: 2017-05-04 02:02:30.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 23
@@ -3470,16 +1838,8 @@ stage_1118:
   name: Introduction to Arrays
   absolute_position: 24
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &409 2017-05-04 02:02:31.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *409
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &410 2017-05-04 02:02:31.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *410
+  created_at: 2017-05-04 02:02:31.000000000 Z
+  updated_at: 2017-05-04 02:02:31.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 24
@@ -3487,16 +1847,8 @@ stage_1119:
   name: Image Scroller with Key Events
   absolute_position: 25
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &411 2017-05-04 02:02:32.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *411
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &412 2017-05-04 02:02:32.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *412
+  created_at: 2017-05-04 02:02:32.000000000 Z
+  updated_at: 2017-05-04 02:02:32.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 25
@@ -3504,16 +1856,8 @@ stage_1120:
   name: Processing Arrays
   absolute_position: 26
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &413 2017-05-04 02:02:32.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *413
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &414 2017-05-04 02:02:32.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *414
+  created_at: 2017-05-04 02:02:32.000000000 Z
+  updated_at: 2017-05-04 02:02:32.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 26
@@ -3521,16 +1865,8 @@ stage_1121:
   name: Functions with Return Values
   absolute_position: 27
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &415 2017-05-04 02:02:33.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *415
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &416 2017-05-04 02:02:33.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *416
+  created_at: 2017-05-04 02:02:33.000000000 Z
+  updated_at: 2017-05-04 02:02:33.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 27
@@ -3538,16 +1874,8 @@ stage_1122:
   name: Canvas and Arrays in Apps
   absolute_position: 28
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &417 2017-05-04 02:02:33.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *417
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &418 2017-05-04 02:02:33.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *418
+  created_at: 2017-05-04 02:02:33.000000000 Z
+  updated_at: 2017-05-04 02:02:33.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 28
@@ -3555,16 +1883,8 @@ stage_1123:
   name: 'Practice PT: Create'
   absolute_position: 29
   script_id: 130
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &419 2017-05-04 02:02:34.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *419
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &420 2017-05-04 02:02:34.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *420
+  created_at: 2017-05-04 02:02:34.000000000 Z
+  updated_at: 2017-05-04 02:02:34.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 29
@@ -3572,16 +1892,8 @@ stage_162:
   name: Introduction to PD
   absolute_position: 1
   script_id: 28
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &421 2017-05-04 01:58:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *421
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &422 2017-05-04 01:58:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *422
+  created_at: 2017-05-04 01:58:45.000000000 Z
+  updated_at: 2017-05-04 01:58:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -3589,16 +1901,8 @@ stage_163:
   name: What is ECS?
   absolute_position: 2
   script_id: 28
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &423 2017-05-04 01:58:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *423
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &424 2017-05-04 01:58:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *424
+  created_at: 2017-05-04 01:58:45.000000000 Z
+  updated_at: 2017-05-04 01:58:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -3606,16 +1910,8 @@ stage_164:
   name: Impact of Computer Science
   absolute_position: 3
   script_id: 28
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &425 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *425
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &426 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *426
+  created_at: 2017-05-04 01:58:46.000000000 Z
+  updated_at: 2017-05-04 01:58:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -3623,16 +1919,8 @@ stage_165:
   name: Growth Mindset
   absolute_position: 4
   script_id: 28
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &427 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *427
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &428 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *428
+  created_at: 2017-05-04 01:58:46.000000000 Z
+  updated_at: 2017-05-04 01:58:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -3640,16 +1928,8 @@ stage_166:
   name: Teaching Strategies
   absolute_position: 5
   script_id: 28
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &429 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *429
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &430 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *430
+  created_at: 2017-05-04 01:58:46.000000000 Z
+  updated_at: 2017-05-04 01:58:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -3657,16 +1937,8 @@ stage_167:
   name: Preparing for in-person PD
   absolute_position: 6
   script_id: 28
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &431 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *431
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &432 2017-05-04 01:58:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *432
+  created_at: 2017-05-04 01:58:46.000000000 Z
+  updated_at: 2017-05-04 01:58:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -3674,16 +1946,8 @@ stage_150:
   name: Introduction to PD
   absolute_position: 1
   script_id: 26
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &433 2017-05-04 01:58:42.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *433
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &434 2017-05-04 01:58:42.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *434
+  created_at: 2017-05-04 01:58:42.000000000 Z
+  updated_at: 2017-05-04 01:58:42.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -3691,16 +1955,8 @@ stage_151:
   name: What is ECS?
   absolute_position: 2
   script_id: 26
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &435 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *435
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &436 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *436
+  created_at: 2017-05-04 01:58:43.000000000 Z
+  updated_at: 2017-05-04 01:58:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -3708,16 +1964,8 @@ stage_152:
   name: Impact of Computer Science
   absolute_position: 3
   script_id: 26
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &437 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *437
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &438 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *438
+  created_at: 2017-05-04 01:58:43.000000000 Z
+  updated_at: 2017-05-04 01:58:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -3725,16 +1973,8 @@ stage_153:
   name: Growth Mindset
   absolute_position: 4
   script_id: 26
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &439 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *439
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &440 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *440
+  created_at: 2017-05-04 01:58:43.000000000 Z
+  updated_at: 2017-05-04 01:58:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -3742,16 +1982,8 @@ stage_154:
   name: Teaching Strategies
   absolute_position: 5
   script_id: 26
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &441 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *441
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &442 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *442
+  created_at: 2017-05-04 01:58:43.000000000 Z
+  updated_at: 2017-05-04 01:58:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -3759,16 +1991,8 @@ stage_155:
   name: Preparing for in-person PD
   absolute_position: 6
   script_id: 26
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &443 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *443
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &444 2017-05-04 01:58:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *444
+  created_at: 2017-05-04 01:58:43.000000000 Z
+  updated_at: 2017-05-04 01:58:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -3776,16 +2000,8 @@ stage_411:
   name: Jigsaw
   absolute_position: 1
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &445 2017-05-04 01:59:42.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *445
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &446 2017-05-04 01:59:42.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *446
+  created_at: 2017-05-04 01:59:42.000000000 Z
+  updated_at: 2017-05-04 01:59:42.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 1
@@ -3793,16 +2009,8 @@ stage_412:
   name: Maze
   absolute_position: 2
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &447 2017-05-04 01:59:42.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *447
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &448 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *448
+  created_at: 2017-05-04 01:59:42.000000000 Z
+  updated_at: 2017-05-04 01:59:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 2
@@ -3810,16 +2018,8 @@ stage_413:
   name: Artist
   absolute_position: 3
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &449 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *449
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &450 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *450
+  created_at: 2017-05-04 01:59:43.000000000 Z
+  updated_at: 2017-05-04 01:59:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 3
@@ -3827,16 +2027,8 @@ stage_414:
   name: Bee
   absolute_position: 4
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &451 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *451
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &452 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *452
+  created_at: 2017-05-04 01:59:43.000000000 Z
+  updated_at: 2017-05-04 01:59:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 4
@@ -3844,16 +2036,8 @@ stage_415:
   name: PlayLab
   absolute_position: 5
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &453 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *453
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &454 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *454
+  created_at: 2017-05-04 01:59:43.000000000 Z
+  updated_at: 2017-05-04 01:59:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 5
@@ -3861,16 +2045,8 @@ stage_416:
   name: Farmer
   absolute_position: 6
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &455 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *455
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &456 2017-05-04 01:59:43.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *456
+  created_at: 2017-05-04 01:59:43.000000000 Z
+  updated_at: 2017-05-04 01:59:43.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 6
@@ -3878,16 +2054,8 @@ stage_417:
   name: Flappy
   absolute_position: 7
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &457 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *457
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &458 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *458
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 7
@@ -3895,16 +2063,8 @@ stage_418:
   name: Bounce
   absolute_position: 8
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &459 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *459
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &460 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *460
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 8
@@ -3912,16 +2072,8 @@ stage_419:
   name: Multi
   absolute_position: 9
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &461 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *461
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &462 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *462
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 9
@@ -3929,16 +2081,8 @@ stage_420:
   name: Multi2
   absolute_position: 10
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &463 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *463
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &464 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *464
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 10
@@ -3946,16 +2090,8 @@ stage_421:
   name: Match
   absolute_position: 11
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &465 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *465
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &466 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *466
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 11
@@ -3963,16 +2099,8 @@ stage_422:
   name: TextMatch
   absolute_position: 12
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &467 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *467
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &468 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *468
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 12
@@ -3980,16 +2108,8 @@ stage_423:
   name: CSinA
   absolute_position: 13
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &469 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *469
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &470 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *470
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 13
@@ -3997,16 +2117,8 @@ stage_424:
   name: Netsim
   absolute_position: 14
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &471 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *471
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &472 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *472
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 14
@@ -4014,16 +2126,8 @@ stage_425:
   name: Odometer
   absolute_position: 15
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &473 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *473
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &474 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *474
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 15
@@ -4031,16 +2135,8 @@ stage_426:
   name: Text Compression
   absolute_position: 16
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &475 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *475
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &476 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *476
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 16
@@ -4048,16 +2144,8 @@ stage_427:
   name: Pixelation
   absolute_position: 17
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &477 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *477
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &478 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *478
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 17
@@ -4065,16 +2153,8 @@ stage_428:
   name: AppLab
   absolute_position: 18
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &479 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *479
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &480 2017-05-04 01:59:44.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *480
+  created_at: 2017-05-04 01:59:44.000000000 Z
+  updated_at: 2017-05-04 01:59:44.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 18
@@ -4082,16 +2162,8 @@ stage_429:
   name: Gamelab
   absolute_position: 19
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &481 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *481
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &482 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *482
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 19
@@ -4099,16 +2171,8 @@ stage_430:
   name: Online PD
   absolute_position: 20
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &483 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *483
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &484 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *484
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 20
@@ -4116,16 +2180,8 @@ stage_431:
   name: Markdown Details
   absolute_position: 21
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &485 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *485
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &486 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *486
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 21
@@ -4133,16 +2189,8 @@ stage_432:
   name: Studio
   absolute_position: 22
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &487 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *487
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &488 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *488
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 22
@@ -4150,16 +2198,8 @@ stage_433:
   name: Multi page assessment
   absolute_position: 23
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &489 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *489
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &490 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *490
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 23
@@ -4167,16 +2207,8 @@ stage_434:
   name: Star wars
   absolute_position: 24
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &491 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *491
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &492 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *492
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 24
@@ -4184,16 +2216,8 @@ stage_435:
   name: Minecraft
   absolute_position: 25
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &493 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *493
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &494 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *494
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 25
@@ -4201,16 +2225,8 @@ stage_436:
   name: Rich long assessment
   absolute_position: 26
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &495 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *495
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &496 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *496
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 26
@@ -4218,16 +2234,8 @@ stage_437:
   name: Free Response
   absolute_position: 27
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &497 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *497
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &498 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *498
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 27
@@ -4235,16 +2243,8 @@ stage_438:
   name: Sample PLC Assessment
   absolute_position: 28
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &499 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *499
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &500 2017-05-04 01:59:45.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *500
+  created_at: 2017-05-04 01:59:45.000000000 Z
+  updated_at: 2017-05-04 01:59:45.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 28
@@ -4252,16 +2252,8 @@ stage_439:
   name: Swapped Levels
   absolute_position: 29
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &501 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *501
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &502 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *502
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 29
@@ -4269,16 +2261,8 @@ stage_440:
   name: Anonymous student survey
   absolute_position: 30
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &503 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *503
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &504 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *504
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 30
@@ -4286,16 +2270,8 @@ stage_441:
   name: Anonymous student survey 2
   absolute_position: 31
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &505 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *505
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &506 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *506
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: true
   relative_position: 1
@@ -4303,16 +2279,8 @@ stage_442:
   name: Public Key Cryptography
   absolute_position: 32
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &507 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *507
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &508 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *508
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 31
@@ -4320,16 +2288,8 @@ stage_443:
   name: Web Lab
   absolute_position: 33
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &509 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *509
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &510 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *510
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 32
@@ -4337,16 +2297,8 @@ stage_444:
   name: Single page assessment
   absolute_position: 34
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &511 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *511
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &512 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *512
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 33
@@ -4354,16 +2306,8 @@ stage_445:
   name: Standalone video
   absolute_position: 35
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &513 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *513
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &514 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *514
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 34
@@ -4371,16 +2315,8 @@ stage_446:
   name: Curriculum Reference
   absolute_position: 36
   script_id: 66
-  created_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &515 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *515
-  updated_at: !ruby/object:ActiveSupport::TimeWithZone
-    utc: &516 2017-05-04 01:59:46.000000000 Z
-    zone: !ruby/object:ActiveSupport::TimeZone
-      name: Etc/UTC
-    time: *516
+  created_at: 2017-05-04 01:59:46.000000000 Z
+  updated_at: 2017-05-04 01:59:46.000000000 Z
   flex_category: 
   lockable: 
   relative_position: 35
