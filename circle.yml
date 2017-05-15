@@ -101,7 +101,7 @@ dependencies:
     - bundle exec rake circle:check_for_unexpected_apps_changes
 database:
   override:
-    - 'echo "Skipping database phase (already ran)."'
+    - 'case $CIRCLE_NODE_INDEX in 0) echo "Skipping database phase (already ran)." ;; *) cd dashboard; bundle exec rake db:migrate seed:incremental ;; esac'
 test:
   override:
     - bundle exec rake lint:javascript
