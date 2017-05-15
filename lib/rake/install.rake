@@ -43,6 +43,7 @@ namespace :install do
           RakeUtils.rake_stream_output 'db:create db:test:prepare'
         elsif ENV['CI'] && ENV['CIRCLE_NODE_INDEX'] == '1'
           sh 'mysql < db/seeds.sql'
+          RakeUtils.rake_stream_output 'seed:incremental'
         else
           RakeUtils.rake_stream_output 'db:setup_or_migrate'
           RakeUtils.rake_stream_output 'seed:all'
