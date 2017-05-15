@@ -6,6 +6,7 @@ class Api::V1::Pd::WorkshopsControllerTest < ::ActionController::TestCase
   self.use_transactional_test_case = true
   setup_all do
     @admin = create(:admin)
+    @workshop_admin = create(:workshop_admin)
     @organizer = create(:workshop_organizer)
     @facilitator = create(:facilitator)
 
@@ -13,7 +14,6 @@ class Api::V1::Pd::WorkshopsControllerTest < ::ActionController::TestCase
       :pd_workshop,
       organizer: @organizer,
       facilitators: [@facilitator],
-      workshop_type: Pd::Workshop::TYPE_PUBLIC,
       on_map: true,
       funded: true
     )
@@ -178,10 +178,13 @@ class Api::V1::Pd::WorkshopsControllerTest < ::ActionController::TestCase
   # Action: Show
 
   test 'admins can view workshops' do
-    sign_in @admin
-    get :show, params: {id: @workshop.id}
-    assert_response :success
-    assert_equal @workshop.id, JSON.parse(@response.body)['id']
+    [@admin, @workshop_admin].each do |admin|
+      sign_in admin
+      get :show, params: {id: @workshop.id}
+      assert_response :success
+      assert_equal @workshop.id, JSON.parse(@response.body)['id']
+      sign_out admin
+    end
   end
 
   test 'workshop organizers can view their workshops' do
@@ -346,21 +349,16 @@ class Api::V1::Pd::WorkshopsControllerTest < ::ActionController::TestCase
   test 'updating with new workshop_type will re-set on_map and funded' do
     sign_in @organizer
     assert_equal Pd::Workshop::TYPE_PUBLIC, @workshop.workshop_type
+    assert_equal true, @workshop.on_map
+
     params = workshop_params
     params[:workshop_type] = Pd::Workshop::TYPE_PRIVATE
-    Pd::Workshop.any_instance.expects(:set_on_map_and_funded_from_workshop_type).once
     put :update, params: {id: @workshop.id, pd_workshop: params}
     assert_response :success
-  end
 
-  test 'updating with the same workshop_type will not re-set on_map and funded' do
-    sign_in @organizer
-    assert_equal Pd::Workshop::TYPE_PUBLIC, @workshop.reload.workshop_type
-    params = workshop_params
-    params[:workshop_type] = @workshop.reload.workshop_type
-    Pd::Workshop.any_instance.expects(:set_on_map_and_funded_from_workshop_type).never
-    put :update, params: {id: @workshop.id, pd_workshop: params}
-    assert_response :success
+    @workshop.reload
+    assert_equal Pd::Workshop::TYPE_PRIVATE, @workshop.workshop_type
+    assert_equal false, @workshop.on_map
   end
 
   test 'updating with notify true sends detail change notification emails' do

@@ -16,6 +16,7 @@
 #  md5                      :string(255)
 #  published                :boolean          default(FALSE), not null
 #  notes                    :text(65535)
+#  audit_log                :text(65535)
 #
 # Indexes
 #
@@ -33,6 +34,7 @@ class Weblab < Level
     hide_share_and_remix
     is_project_level
     encrypted_examples
+    submittable
   )
 
   def self.create_from_level_builder(params, level_params)
