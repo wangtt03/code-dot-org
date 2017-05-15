@@ -55,12 +55,11 @@ scripts_map.each do |_script_id, name|
   script.script_levels.to_a[0, 10000].each do |sl|
     key = "script_level_#{sl.script_id}_#{sl.level_id}"
     @script_levels[key] = sl.attributes
-    @script_levels[key]['levels'] = sl.level_ids.map {|id| "level_#{id}"}.join(', ')
 
     sl.callouts.each do |c|
       @callouts["callout_#{c.id}"] = c.attributes
     end
-    sl.levels.each {|level| handle_level(level)}
+    handle_level(sl.level)
   end
 end
 
@@ -68,14 +67,10 @@ ProjectsController::STANDALONE_PROJECTS.each do |_k, v|
   handle_level(Level.find_by_name(v['name']))
 end
 
-def yamlize(hsh, drop_ids=false)
+def yamlize(hsh)
   hsh.each do |_k, v|
-    if v.key?("properties") && v['properties']
+    if v.key? "properties"
       v['properties'] = v['properties'].to_json
-    end
-    v.delete('id') if drop_ids
-    v.each do |inner_key, inner_value|
-      v[inner_key] = inner_value.utc if inner_value.is_a?(ActiveSupport::TimeWithZone)
     end
   end
   return hsh.to_yaml[4..-1]
@@ -84,7 +79,7 @@ end
 prefix = "../test/fixtures/"
 
 File.new("#{prefix}script.yml", 'w').write(yamlize(@scripts))
-File.new("#{prefix}level.yml", 'w').write(yamlize(@levels, true))
+File.new("#{prefix}level.yml", 'w').write(yamlize(@levels))
 File.new("#{prefix}script_level.yml", 'w').write(yamlize(@script_levels))
 File.new("#{prefix}stage.yml", 'w').write(yamlize(@stages))
 File.new("#{prefix}level_source.yml", 'w').write(yamlize(@level_sources))
