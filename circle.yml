@@ -89,6 +89,7 @@ dependencies:
         environment:
           RAKE_VERBOSE: true
         timeout: 840
+    - 'case $CIRCLE_NODE_INDEX in 0) echo "Skipping database phase (already ran)." ;; *) cd dashboard; bundle exec rake db:migrate seed:incremental ;; esac'
     # Run rake build (twice in case of intermittent test failures within rake build)
     # See notes above rake install for timeout, ts, and mispipe reasoning
     - for i in 1 2; do mispipe "bundle exec rake build" "ts '[%Y-%m-%d %H:%M:%S]'" && break; done:
@@ -101,7 +102,7 @@ dependencies:
     - bundle exec rake circle:check_for_unexpected_apps_changes
 database:
   override:
-    - 'case $CIRCLE_NODE_INDEX in 0) echo "Skipping database phase (already ran)." ;; *) cd dashboard; bundle exec rake db:migrate seed:incremental ;; esac'
+    - 'echo "Skipping database phase (already ran)'
 test:
   override:
     - bundle exec rake lint:javascript
