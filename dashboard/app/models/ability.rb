@@ -11,10 +11,6 @@ class Ability
     cannot :read, [
       Script, # see override below
       ScriptLevel, # see override below
-      PrizeProvider,
-      Prize,
-      TeacherPrize,
-      TeacherBonusPrize,
       :reports,
       User,
       UserPermission,
@@ -35,6 +31,7 @@ class Ability
       Plc::CourseUnit,
       # PD models
       Pd::Workshop,
+      Pd::Session,
       Pd::Enrollment,
       Pd::DistrictPaymentTerm,
       :pd_teacher_attendance_report,
@@ -61,6 +58,8 @@ class Ability
       can :read, SectionHiddenStage
       can :create, Pd::TeacherApplication, user_id: user.id
       can :create, Pd::RegionalPartnerProgramRegistration, user_id: user.id
+      can :read, Pd::Session
+      can :manage, Pd::Enrollment, user_id: user.id
 
       if user.teacher?
         can :read, Section, user_id: user.id
@@ -72,7 +71,6 @@ class Ability
           !user.students.where(id: user_level.user_id).empty?
         end
         can :read, Plc::UserCourseEnrollment, user_id: user.id
-        can :manage, Pd::Enrollment, user_id: user.id
         can :view_level_solutions, Script do |script|
           !script.professional_learning_course?
         end
@@ -121,6 +119,16 @@ class Ability
         can :read, :pd_workshop_summary_report
         can :read, :pd_teacher_attendance_report
       end
+
+      if user.permission?(UserPermission::WORKSHOP_ADMIN)
+        can :manage, Pd::Workshop
+        can :manage, Pd::WorkshopMaterialOrder
+        can :manage, Pd::CourseFacilitator
+        can :manage, :workshop_organizer_survey_report
+        can :manage, :pd_workshop_summary_report
+        can :manage, :pd_teacher_attendance_report
+        can :manage, Pd::TeacherApplication
+      end
     end
 
     # Override Script and ScriptLevel.
@@ -155,6 +163,7 @@ class Ability
       can :manage, [
         Game,
         Level,
+        Course,
         Script,
         ScriptLevel
       ]
@@ -177,6 +186,7 @@ class Ability
         Activity,
         Game,
         Level,
+        Course,
         Script,
         ScriptLevel,
         UserLevel,

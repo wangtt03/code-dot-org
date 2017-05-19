@@ -105,6 +105,7 @@ class Pd::WorkshopTest < ActiveSupport::TestCase
     assert returned_section
     @workshop.reload
     assert_equal 'In Progress', @workshop.state
+    assert @workshop.sessions.first.code.present?
     assert @workshop.section
     assert_equal returned_section, @workshop.section
     assert @workshop.section.workshop_section?
@@ -113,6 +114,7 @@ class Pd::WorkshopTest < ActiveSupport::TestCase
     @workshop.end!
     @workshop.reload
     assert_equal 'Ended', @workshop.state
+    assert @workshop.sessions.first.code.nil?
   end
 
   test 'start is idempotent' do
@@ -526,6 +528,24 @@ class Pd::WorkshopTest < ActiveSupport::TestCase
   test 'workshop_dashboard_url' do
     expected_url = "http://#{CDO.dashboard_hostname}/pd/workshop_dashboard/workshops/#{@workshop.id}"
     assert_equal expected_url, @workshop.workshop_dashboard_url
+  end
+
+  test 'unattended_enrollments' do
+    session = create :pd_session, workshop: @workshop
+    @workshop.sessions << session
+
+    # 2 enrollments with attendance
+    2.times do
+      enrollment = create :pd_enrollment, workshop: @workshop
+      create :pd_attendance, session: session, enrollment: enrollment
+    end
+
+    # 2 enrollments without attendance
+    enrollments = 2.times.map do
+      create :pd_enrollment, workshop: @workshop
+    end
+
+    assert_equal enrollments.map(&:id).sort, @workshop.unattended_enrollments.all.map(&:id).sort
   end
 
   private

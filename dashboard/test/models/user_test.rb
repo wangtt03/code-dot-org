@@ -789,6 +789,18 @@ class UserTest < ActiveSupport::TestCase
     assert ActionMailer::Base.deliveries.empty?
   end
 
+  test 'provides helpful error on bad email address' do
+    # Though validation now exists to prevent grossly malformed emails, such was not always the
+    # case. Consequently, we must bypass validation to create the state of such an account.
+    user = create :user
+    user.email = 'bounce@xyz'
+    user.save(validate: false)
+
+    error_user = User.send_reset_password_instructions(email: 'bounce@xyz')
+
+    assert error_user.errors[:base]
+  end
+
   test 'send reset password for student' do
     email = 'email@email.xx'
     student = create :student, password: 'oldone', email: email
@@ -1471,6 +1483,20 @@ class UserTest < ActiveSupport::TestCase
 
     assert user.permission?(UserPermission::FACILITATOR)
     refute user.permission?(UserPermission::LEVELBUILDER)
+  end
+
+  test 'revoke_all_permissions revokes admin status' do
+    admin_user = create :admin
+    admin_user.revoke_all_permissions
+    assert_nil admin_user.reload.admin
+  end
+
+  test 'revoke_all_permissions revokes user permissions' do
+    teacher = create :teacher
+    teacher.permission = UserPermission::FACILITATOR
+    teacher.permission = UserPermission::LEVELBUILDER
+    teacher.revoke_all_permissions
+    assert_equal [], teacher.reload.permissions
   end
 
   test 'should_see_inline_answer? returns true in levelbuilder' do

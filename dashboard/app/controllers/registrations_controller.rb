@@ -2,6 +2,7 @@ class RegistrationsController < Devise::RegistrationsController
   respond_to :json
 
   def new
+    session[:user_return_to] ||= params[:user_return_to]
     @already_hoc_registered = params[:already_hoc_registered]
     super
   end
@@ -86,6 +87,19 @@ class RegistrationsController < Devise::RegistrationsController
       :school,
       :full_address,
       :terms_of_service_version,
+      school_info_attributes: [
+        :country,
+        :school_type,
+        :state, :school_state,
+        :zip, :school_zip,
+        :school_district_id,
+        :school_district_other,
+        :school_district_name,
+        :school_id,
+        :school_other,
+        :school_name,
+        :full_address
+      ],
       races: []
     )
   end

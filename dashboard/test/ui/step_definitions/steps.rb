@@ -615,6 +615,15 @@ Then /^element "([^"]*)" has attribute "((?:[^"\\]|\\.)*)" equal to "((?:[^"\\]|
   element_has_attribute(selector, attribute, replace_hostname(expected_text))
 end
 
+Then /^element "([^"]*)" is (not )?read-?only$/ do |selector, negation|
+  readonly = @browser.execute_script("return $(\"#{selector}\").attr(\"readonly\");")
+  if negation.nil?
+    expect(readonly).to eq('readonly')
+  else
+    expect(readonly.nil?).to eq(true)
+  end
+end
+
 # The second regex encodes that ids should not contain spaces or quotes.
 # While this is stricter than HTML5, it is looser than HTML4.
 Then /^element "([^"]*)" has id "([^ "']+)"$/ do |selector, id|
@@ -828,8 +837,8 @@ end
 def enroll_in_plc_course(user_email)
   require_rails_env
   user = User.find_by_email_or_hashed_email(user_email)
-  course = Plc::Course.find_by(name: 'All The PLC Things')
-  enrollment = Plc::UserCourseEnrollment.create(user: user, plc_course: course)
+  course = Course.find_by(name: 'All The PLC Things')
+  enrollment = Plc::UserCourseEnrollment.create(user: user, plc_course: course.plc_course)
   enrollment.plc_unit_assignments.update_all(status: Plc::EnrollmentUnitAssignment::IN_PROGRESS)
 end
 
@@ -928,6 +937,7 @@ And(/^I create a teacher named "([^"]*)"$/) do |name|
   email, password = generate_user(name)
 
   steps %Q{
+    Given I am on "http://studio.code.org/reset_session"
     Given I am on "http://studio.code.org/users/sign_up?user%5Buser_type%5D=teacher"
     And I wait to see "#user_name"
     And I wait to see "#schooldropdown-block"
@@ -1206,4 +1216,14 @@ When /^I switch to text mode$/ do
     When I press "show-code-header"
     And I wait to see Droplet text mode
   STEPS
+end
+
+Then /^the project list contains ([\d]+) (?:entry|entries)$/ do |expected_num|
+  actual_num = @browser.execute_script("return $('table.projects td.name').length;")
+  expect(actual_num).to eq(expected_num.to_i)
+end
+
+Then /^the project at index ([\d]+) is named "([^"]+)"$/ do |index, expected_name|
+  actual_name = @browser.execute_script("return $('table.projects td.name').eq(#{index}).text().trim();")
+  expect(actual_name).to eq(expected_name)
 end

@@ -8,13 +8,18 @@
  */
 import $ from 'jquery';
 
+import { getStore } from '@cdo/apps/code-studio/redux';
+import { setRtlFromDOM } from '@cdo/apps/code-studio/isRtlRedux';
+const store = getStore();
+store.dispatch(setRtlFromDOM());
+
 // Shim window.console to be safe in IE
 require('@cdo/apps/code-studio/consoleShim')(window);
 
 var Sounds = require('@cdo/apps/Sounds');
 var activateReferenceAreaOnLoad = require('@cdo/apps/code-studio/reference_area');
 import {checkForUnsupportedBrowsersOnLoad} from '@cdo/apps/util/unsupportedBrowserWarning';
-import {isUnsupportedBrowser} from '@cdo/apps/util/browser-detector';
+import {initHamburger} from '@cdo/apps/hamburger/hamburger.js';
 
 window.React = require('react');
 window.ReactDOM = require('react-dom');
@@ -79,14 +84,6 @@ window.onerror = function (msg, url, ln) {
   }
 };
 
-// Prevent filtered errors from being passed to New Relic.
-if (window.newrelic) {
-  window.newrelic.setErrorHandler(function (err) {
-    // Remove errors from unsupportenewrelicnd IE versions
-    return !!isUnsupportedBrowser();
-  });
-}
-
 // Prevent escape from canceling page loads.
 var KEY_ESCAPE = 27;
 $(document).keydown(function (e) {
@@ -107,3 +104,4 @@ activateReferenceAreaOnLoad();
 window.CDOSounds = Sounds.getSingleton();
 
 checkForUnsupportedBrowsersOnLoad();
+initHamburger();
