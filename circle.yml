@@ -29,13 +29,6 @@ checkout:
         parallel: true
 dependencies:
   pre:
-    - |
-        FILE=$CIRCLE_ARTIFACTS/memory-usage-actual.txt;
-        while true; do
-          ps -u ubuntu eo pid,%cpu,%mem,args,uname --sort=-%mem >> $FILE;
-          echo "----------" >> $FILE;
-          sleep 10;
-        done &
     - ./bin/circle/install-circle-predependencies.sh
     - google-chrome --version
     - yarn --version
@@ -111,6 +104,8 @@ database:
     - 'echo "Skipping database phase (already ran)."'
 test:
   override:
+    - ./bin/circle/log-memory.sh:
+      background: true
     - case $CIRCLE_NODE_INDEX in 0) bundle exec rake lint:javascript circle:run_tests ;; *) bundle exec rake circle:run_ui_tests ;; esac:
         parallel: true
         timeout:
