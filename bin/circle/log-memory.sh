@@ -1,5 +1,5 @@
 #!/bin/bash
-FILE="${CIRCLE_ARTIFACTS:-.}/memory-usage-actual.txt"
+FILE="${CIRCLE_ARTIFACTS:-.}/memory-usage-${CIRCLE_NODE_INDEX:-0}.txt"
 echo "Logging to $FILE..."
 TIMEFMT='[%Y-%m-%d %H:%M:%S]'
 free | ts "$TIMEFMT" | head -n 2 > $FILE;
