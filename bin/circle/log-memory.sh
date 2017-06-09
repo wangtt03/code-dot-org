@@ -1,4 +1,5 @@
 #!/bin/bash
+echo $CIRCLE_NODE_INDEX
 FILE="${CIRCLE_ARTIFACTS:-.}/memory-usage-${CIRCLE_NODE_INDEX:-42}.txt"
 echo "Logging to $FILE..."
 TIMEFMT='[%Y-%m-%d %H:%M:%S]'
