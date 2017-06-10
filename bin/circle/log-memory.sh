@@ -1,10 +1,7 @@
 #!/bin/bash
-echo $CIRCLE_NODE_INDEX
-FILE="${CIRCLE_ARTIFACTS:-.}/memory-usage-${CIRCLE_NODE_INDEX:-42}.txt"
-echo "Logging to $FILE..."
 TIMEFMT='[%Y-%m-%d %H:%M:%S]'
-free | ts "$TIMEFMT" | head -n 2 > $FILE;
+free | ts "$TIMEFMT" | head -n 2;
 while true; do
   sleep 10;
-  free | ts "$TIMEFMT" | sed -n 2p >> $FILE;
-done &
+  free | ts "$TIMEFMT" | sed -n 2p;
+done
