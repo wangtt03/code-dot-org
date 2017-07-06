@@ -5,7 +5,7 @@ ka:
         course1:
           title: კურსი 1
           description: კურსი 1 ადრეული მკითხველებისთვისაა. მოსწავლეები შექმნიან კომპიუტერულ პროგრამებს, რომლებიც მათ ჯგუფურ მუშაობას შეაჩვევთ, განუვითარებთ ამოცანების ამოხსნისა და რთულ დავალებებზე მუშაობის უნარებს. კურსის ბოლოს მოსწავლეები შექმნიან თავიანთ თამაშსა ან ისტორიას, რომლის ხვებისთვის გაზიარება შეეძლებათ. რეკოენდებულია K-1 კლასებისთვის.
-          description_short: კურსი 1 შექმნილია მცირეწლოვანი მკითხველებისთვის.
+          description_short: Introduction to computer science for early readers.
           description_audience: ასაკი 4-დან 6-მდე
           stages:
             'Artist: Loops':
@@ -47,7 +47,7 @@ ka:
         course2:
           title: კურსი 2
           description: კურსი 2 შექმნილია მოსწავლეებისთვის, რომელთაც შეუძლიათ კითხვა და არ აქვთ გამოცდილება პროგრამირებაში. ამ კურსში მოსწავლეები შექმნიან ამოცანების ამომხსნელ პროგრამებს და განავითარებენ ინტერაქტიულ თამაშებს ან ისტორიებს, რომელთა გაზიარება შეეძლებათ. რეკომენდებულია 2-5 კლასებისთვის.
-          description_short: კურსი 2 შექმნილია მოსწავლეებისთვის, რომელთაც უკვე შეუძლიათ კითხვა.
+          description_short: შესავალი კომპიუტერულ მეცნიერებებში მოსწავლეებისთვის, რომელთაც უკვე შეუძლიათ კითხვა.
           description_audience: 'ასაკი: 6+ (უნდა შეეძლოს კითხვა)'
           stages:
             'Artist: Debugging':
@@ -91,7 +91,7 @@ ka:
         course3:
           title: კურსი 3
           description: კურსი 3 შექმნილია მოსწავლეებისთვის, რომელთაც გაიარეს კურსი 2. მოსწავლეები უფრო ღრმად გაერკვევიან წინა კურსებში წამოჭრილ პროგრამირების საკითხებში და მოძებნიან მოქნილ ამოხსნებს უფრო რთული ამოცანებისთვის. კურსის ბოლოს მოსწავლეები ქმნიან ინტერაქტიულ ისტორიებს და თამაშებს, რომელთა გაზიარება ნებისმიერთან შეუძლიათ. რეკომენდებულია 4-5 კლასებისთვის.
-          description_short: კურსი 3 არის კურსი 2-ის გაგრძელება.
+          description_short: Delve even deeper into programming while building games and interactive stories. This is a follow-up to Course 2.
           description_audience: 'ასაკი: 8-18'
           stages:
             Artist:
@@ -167,7 +167,7 @@ ka:
         course4:
           title: კურსი 4
           description: კურსი 4 შექმნილია იმათთვის, ვინც უკვე გაიარა კურსები 2 და 3. მოსწავლეები გაიგებენ, როგორ გაუმკლავდნენ უფრო რთულ თავსატეხებს და ისწავლიან ამოცანის ამოსახსნელად რამდენიმე სხვადასხვა ცნების გამოყენებას. ამ კურსის დასასრულს მოსწავლეები შექმნიან პროგრამებს, რომლებიც მათ სხვადასხვა უნარებს გამოაჩენენ, მათ შორის ციკლებისა და პარამეტრებიანი ფუნქციების შექმნას. რეკომენდირებულია მეოთხე-მერვე კლასებისთვის.
-          description_short: კურსი 4-ის მოსწავლეებს გავლილი უნდა ჰქონდეთ კურსები 2 და 3.
+          description_short: Build more complex programs with concepts such as for loops and functions with parameters. This is a follow-up to Course 3.
           description_audience: 'ასაკი: 10-18'
           stages:
             Artist:
@@ -473,15 +473,15 @@ ka:
         flappy:
           title: Flappy კოდი
           description: გინდათ, თქვენი საკუთარი თამაში დაწეროთ 10 წუთში? ნახეთ ჩვენი ტუტორიალი "Flappy კოდი"!
-          description_short: დაწერეთ თქვენი Flappy თამაში 10 წუთზე ნაკლებში!
+          description_short: დაწერე შენი Flappy თამაში!
           description_audience: ''
           stages:
             Flappy Code:
               name: Flappy კოდი
         jigsaw:
           title: ფაზლი
-          description: სცადეთ ჩვენი პაზლის ტუტორიალი
-          description_short: სცადეთ ჩვენი პაზლის ტუტორიალი
+          description: სცადე ჩვენი პაზლის ტუტორიალი.
+          description_short: სცადე ჩვენი პაზლის ტუტორიალი.
           description_audience: ''
           stages:
             Jigsaw:
@@ -2186,6 +2186,8 @@ ka:
               name: Participate in a longitudinal study!
             CSP Student Post-Course Survey:
               name: CSP Student Post-Course Survey
+            Practice PT - Encode an Experience:
+              name: Practice PT - Encode an Experience
         csp3:
           title: CSP Unit 3 - Intro to Programming
           description: This unit introduces the foundational concepts of computer programming, which unlocks the ability to make rich, interactive apps. This course uses JavaScript as the programming language, and App Lab as the programming environment to build apps, but the concepts learned in these lessons span all programming languages and tools.
@@ -3251,7 +3253,7 @@ ka:
         csd3:
           title: CSD Unit 3 - Animations and Games
           description: " In Unit 3, you’ll build on your coding experience as you program animations, interactive art, and games in Game Lab. The unit starts off with simple shapes and builds up to more sophisticated sprite-based games, using the same programming concepts and the design process computer scientists use daily. In the final project, you’ll develop a personalized, interactive program."
-          description_short: "პროგრამირება"
+          description_short: " Learn to program animations, interactive art, and games in Game Lab."
           description_audience: ''
           stages:
             Booleans and Conditionals:
@@ -4089,6 +4091,10 @@ ka:
               name: ჩასმული ციკლები
             Introduction:
               name: შესავალი
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
         coursee-draft:
           title: 'CS Fundamentals: Course E'
           description_audience: ''
@@ -5088,6 +5094,8 @@ ka:
               name: CSP Student Post-Course Survey
             Participate in a longitudinal study!:
               name: Participate in a longitudinal study!
+            CSP Post-Course Survey:
+              name: CSP Post-Course Survey
           title: CSP Student Post-Course Survey
           description_audience: CSP Students
           description_short: CSP Student Post Course Survey
@@ -5158,6 +5166,10 @@ ka:
               name: F7 add Conditionals
             F5 Minecraft:
               name: F5 Minecraft
+            Programming with BB-8:
+              name: Programming with BB-8
+            Loops with BB-8:
+              name: Loops with BB-8
           title: ''
           description_audience: ''
           description_short: ''
@@ -5218,6 +5230,8 @@ ka:
               name: 'Events: The Big Event'
             Events in Play Lab:
               name: Events in Play Lab
+            More Programming in Maze:
+              name: More Programming in Maze
           title: 'CS Fundamentals: Course B'
           description_audience: ''
           description_short: An introduction to computer science for early readers.
@@ -5252,6 +5266,8 @@ ka:
               name: Screen Out the Mean
             Binary Bracelets:
               name: ორობითი სამაჯურები
+            Loops in Artist:
+              name: Loops in Artist
           title: 'CS Fundamentals: Course C'
           description_audience: ''
           description_short: Learn the basics of computer science and create your own art, stories, and games.
@@ -5290,6 +5306,10 @@ ka:
               name: 'გაკვეთილი კომპიუტერის გარეშე: ორობითი სისტემა'
             Artist Binary:
               name: 'მხატვარი: ორობითი'
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
           title: 'CS Fundamentals: Course D'
           description_audience: ''
           description_short: Learn the basics of computer science and create your own art, stories, and games.
@@ -5406,6 +5426,8 @@ ka:
               name: Presentation Your Project
             Present Your Project:
               name: Present Your Project
+            Conditionals in Minecraft:
+              name: Conditionals in Minecraft
           title: 'CS Fundamentals: Course F'
           description_audience: ''
           description_short: Learn the basics of computer science and create your own art, stories, and games.
@@ -5498,3 +5520,21 @@ ka:
           description_audience: CSP Novice Facilitators
           description_short: Reflection questions for novice facilitators at TeacherCon.
           description: 'A place to keep track of your reflection from TeacherCon as a novice facilitator. '
+        novice-view:
+          stages:
+            CSP Tuesday:
+              name: CSP Tuesday
+            CSP Wednesday:
+              name: CSP Wednesday
+            CSP Thursday:
+              name: CSP Thursday
+            CSD Tuesday:
+              name: CSD Tuesday
+            CSD Wednesday:
+              name: CSD Wednesday
+            CSD Thursday:
+              name: CSD Thursday
+          title: view novice responses
+          description_audience: brook, dani, mal
+          description_short: NA
+          description: NA

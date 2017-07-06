@@ -54,8 +54,8 @@
             და არ აქვთ გამოცდილება პროგრამირებაში. ამ კურსში მოსწავლეები შექმნიან
             ამოცანების ამომხსნელ პროგრამებს და განავითარებენ ინტერაქტიულ თამაშებს
             ან ისტორიებს, რომელთა გაზიარება შეეძლებათ. რეკომენდებულია 2-5 კლასებისთვის."
-          description_short: "კურსი 2 შექმნილია მოსწავლეებისთვის, რომელთაც უკვე შეუძლიათ
-            კითხვა."
+          description_short: "შესავალი კომპიუტერულ მეცნიერებებში მოსწავლეებისთვის,
+            რომელთაც უკვე შეუძლიათ კითხვა."
           description_audience: "ასაკი: 6+ (უნდა შეეძლოს კითხვა)"
           stages:
             'Artist: Debugging':
@@ -509,15 +509,15 @@
           title: Flappy კოდი
           description: გინდათ, თქვენი საკუთარი თამაში დაწეროთ 10 წუთში? ნახეთ ჩვენი
             ტუტორიალი "Flappy კოდი"!
-          description_short: "დაწერეთ თქვენი Flappy თამაში 10 წუთზე ნაკლებში!"
+          description_short: "დაწერე შენი Flappy თამაში!"
           description_audience: ''
           stages:
             Flappy Code:
               name: Flappy კოდი
         jigsaw:
           title: "ფაზლი"
-          description: "სცადეთ ჩვენი პაზლის ტუტორიალი"
-          description_short: "სცადეთ ჩვენი პაზლის ტუტორიალი"
+          description: "სცადე ჩვენი პაზლის ტუტორიალი."
+          description_short: "სცადე ჩვენი პაზლის ტუტორიალი."
           description_audience: ''
           stages:
             Jigsaw:
@@ -2299,6 +2299,8 @@
               name: Participate in a longitudinal study!
             CSP Student Post-Course Survey:
               name: CSP Student Post-Course Survey
+            Practice PT - Encode an Experience:
+              name: Practice PT - Encode an Experience
         csp3:
           title: CSP Unit 3 - Programming
           description: This unit introduces the foundational concepts of computer
@@ -4965,6 +4967,10 @@
               name: "ჩასმული ციკლები"
             Introduction:
               name: "შესავალი"
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
         coursee-draft:
           title: 'CS Fundamentals: Course E'
           description_audience: ''
@@ -6337,6 +6343,8 @@
               name: CSP Student Post-Course Survey
             Participate in a longitudinal study!:
               name: Participate in a longitudinal study!
+            CSP Post-Course Survey:
+              name: CSP Post-Course Survey
           title: CSP Student Post-Course Survey
           description_audience: CSP Students
           description_short: CSP Student Post Course Survey
@@ -6409,6 +6417,10 @@
               name: F7 add Conditionals
             F5 Minecraft:
               name: F5 Minecraft
+            Programming with BB-8:
+              name: Programming with BB-8
+            Loops with BB-8:
+              name: Loops with BB-8
           title: ''
           description_audience: ''
           description_short: ''
@@ -6473,6 +6485,8 @@
               name: 'Events: The Big Event'
             Events in Play Lab:
               name: Events in Play Lab
+            More Programming in Maze:
+              name: More Programming in Maze
           title: 'CS Fundamentals: Course B'
           description_audience: ''
           description_short: An introduction to computer science for early readers.
@@ -6511,6 +6525,8 @@
               name: Screen Out the Mean
             Binary Bracelets:
               name: "ორობითი სამაჯურები"
+            Loops in Artist:
+              name: Loops in Artist
           title: 'CS Fundamentals: Course C'
           description_audience: ''
           description_short: Learn the basics of computer science and create your
@@ -6551,6 +6567,10 @@
               name: "გაკვეთილი კომპიუტერის გარეშე: ორობითი სისტემა"
             Artist Binary:
               name: "მხატვარი: ორობითი"
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
           title: 'CS Fundamentals: Course D'
           description_audience: ''
           description_short: Learn the basics of computer science and create your
@@ -6672,6 +6692,8 @@
               name: Presentation Your Project
             Present Your Project:
               name: Present Your Project
+            Conditionals in Minecraft:
+              name: Conditionals in Minecraft
           title: 'CS Fundamentals: Course F'
           description_audience: ''
           description_short: Learn the basics of computer science and create your
@@ -6776,3 +6798,21 @@
           description_short: Reflection questions for novice facilitators at TeacherCon.
           description: 'A place to keep track of your reflection from TeacherCon as
             a novice facilitator. '
+        novice-view:
+          stages:
+            CSP Tuesday:
+              name: CSP Tuesday
+            CSP Wednesday:
+              name: CSP Wednesday
+            CSP Thursday:
+              name: CSP Thursday
+            CSD Tuesday:
+              name: CSD Tuesday
+            CSD Wednesday:
+              name: CSD Wednesday
+            CSD Thursday:
+              name: CSD Thursday
+          title: view novice responses
+          description_audience: brook, dani, mal
+          description_short: NA
+          description: NA

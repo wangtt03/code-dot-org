@@ -2186,6 +2186,8 @@ pt-BR:
               name: Participate in a longitudinal study!
             CSP Student Post-Course Survey:
               name: CSP Student Post-Course Survey
+            Practice PT - Encode an Experience:
+              name: Practice PT - Encode an Experience
         csp3:
           title: CSP Unidade 3 - Programação
           description: Esta unidade introduz os conceitos fundamentais de programação de computadores, que ajudam na habilidade de criar ricos aplicativos interativos. Esse curso usa JavaScript como linguagem de programação, e o Laboratório de Aplicativo App Lab é o ambiente de programação para construir aplicativos, mas os conceitos aprendidos nessas lições envolvem todas as ferramentas e linguagens de programação.
@@ -3656,10 +3658,10 @@ pt-BR:
             AP Preparation and Support:
               name: AP Preparation and Support
         basketball:
-          title: Fazer um jogo de basquete
+          title: Escolha seu time e faça um jogo de basquete
           description_audience: ''
-          description_short: Fazer um jogo de basquete
-          description: Fazer um jogo de basquete
+          description_short: Escolha seu time e faça um jogo de basquete
+          description: Escolha seu time e faça um jogo de basquete
           stages:
             Bounce:
               name: Pingue-pongue
@@ -4089,6 +4091,10 @@ pt-BR:
               name: Laços aninhados
             Introduction:
               name: Introdução
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
         coursee-draft:
           title: 'CS Fundamentals: Course E'
           description_audience: ''
@@ -5088,6 +5094,8 @@ pt-BR:
               name: CSP Student Post-Course Survey
             Participate in a longitudinal study!:
               name: Participate in a longitudinal study!
+            CSP Post-Course Survey:
+              name: CSP Post-Course Survey
           title: CSP Student Post-Course Survey
           description_audience: CSP Students
           description_short: CSP Student Post Course Survey
@@ -5158,6 +5166,10 @@ pt-BR:
               name: F7 add Conditionals
             F5 Minecraft:
               name: F5 Minecraft
+            Programming with BB-8:
+              name: Programming with BB-8
+            Loops with BB-8:
+              name: Loops with BB-8
           title: ''
           description_audience: ''
           description_short: ''
@@ -5218,6 +5230,8 @@ pt-BR:
               name: 'Events: The Big Event'
             Events in Play Lab:
               name: Events in Play Lab
+            More Programming in Maze:
+              name: More Programming in Maze
           title: 'CS Fundamentals: Course B'
           description_audience: ''
           description_short: An introduction to computer science for early readers.
@@ -5252,6 +5266,8 @@ pt-BR:
               name: Screen Out the Mean
             Binary Bracelets:
               name: Pulseiras binárias
+            Loops in Artist:
+              name: Loops in Artist
           title: 'CS Fundamentals: Course C'
           description_audience: ''
           description_short: Learn the basics of computer science and create your own art, stories, and games.
@@ -5290,6 +5306,10 @@ pt-BR:
               name: 'Offline: binário'
             Artist Binary:
               name: 'Artista: binário'
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
           title: 'CS Fundamentals: Course D'
           description_audience: ''
           description_short: Learn the basics of computer science and create your own art, stories, and games.
@@ -5406,6 +5426,8 @@ pt-BR:
               name: Presentation Your Project
             Present Your Project:
               name: Present Your Project
+            Conditionals in Minecraft:
+              name: Conditionals in Minecraft
           title: 'CS Fundamentals: Course F'
           description_audience: ''
           description_short: Learn the basics of computer science and create your own art, stories, and games.
@@ -5498,3 +5520,21 @@ pt-BR:
           description_audience: CSP Novice Facilitators
           description_short: Reflection questions for novice facilitators at TeacherCon.
           description: 'A place to keep track of your reflection from TeacherCon as a novice facilitator. '
+        novice-view:
+          stages:
+            CSP Tuesday:
+              name: CSP Tuesday
+            CSP Wednesday:
+              name: CSP Wednesday
+            CSP Thursday:
+              name: CSP Thursday
+            CSD Tuesday:
+              name: CSD Tuesday
+            CSD Wednesday:
+              name: CSD Wednesday
+            CSD Thursday:
+              name: CSD Thursday
+          title: view novice responses
+          description_audience: brook, dani, mal
+          description_short: NA
+          description: NA

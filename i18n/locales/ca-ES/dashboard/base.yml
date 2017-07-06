@@ -365,7 +365,7 @@ ca:
     heading_hoc2014: "<h2>L'Hora de Codi per a</h2><h1>Totes les edats</h1>"
     heading_elementary: "<h2>Cursos de 20 hores per a</h2><h1>Principiants (totes les edats)</h1>"
     heading_apps: "<h2>Diversió per a</h2><h1>Tothom</h1>"
-    heading_tools: "<h2>Ready for the next step?</h2><h1>JavaScript Tools for High School</h1>"
+    heading_tools: "<h2>Ready for the next step?</h2><h1>Tools for Middle and High School</h1>"
     heading_legacy: "<h2>El nostre curs general per a</h2><h1>Totes les edats</h1>"
     your_gallery: Galeria
     no_primary_course: "Intenta un curs a Code Studio"

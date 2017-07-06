@@ -221,7 +221,7 @@ tr:
         artist: 'Bir şeyler çizin'
         calculate: 'Bir şey hesaplamak'
         applab: 'Uygulama oluşturun'
-        gamelab: 'Make a Game Lab project'
+        gamelab: 'Bir labaratuvar oyunu projesi yap'
       home: "Ana Sayfa"
       courses: "kurslar"
       project_gallery: "Proje Galerisi"
@@ -493,7 +493,7 @@ tr:
       unused: "Kullanılmamış Seviyeler"
   upsell:
     applab:
-      title: 'Uygulama Laboratuvarı'
+      title: 'App Laboratuvarı'
       body: "App Lab basit uygulamalar yapabileceğiniz bir uygulama geliştirme ortamıdır. Kod blokları yada JavaScript ile bir uygulama yapın ve paylaşın."
       body_short: " Kod blokları yada JavaScript ile bir uygulama yapın ve paylaşın."
       audience: '13 + Yaş grubu'
@@ -516,7 +516,7 @@ tr:
       body: "Uygulamanın galerisine veya kullanıcılarımız tarafından oluşturulmuş sanatçı görsellerine göz atın"
     gamelab:
       title: "Oyun Laboratuvarı (beta)"
-      body: "Game Lab is a programming environment where you can make simple animations and games with objects and characters that interact with each other."
+      body: "Oyun labı basit animasyonları ve oyunları nesnelerle ve etkilesimli karakterlerle beraber programlayabileceğin bir uygulama geliştirme ortamıdır."
       audience: "13 + Yaş grubu"
       cta: "Nasıl olduğunu öğren"
     frozen:
@@ -541,9 +541,9 @@ tr:
       title: "Koşullar"
       body: "\"Bir deste kart kullanarak algoritmaları ve bu koşullu deyimleri öğrenin."
     widgets:
-      title: "Widgets"
+      title: "Araçlar"
       body: "Students can explore concepts from our Computer Science Principles course hands-on using these digital tools. Use the widgets on their own, or create a single-concept lesson for your class."
-      audience: "Ages 14+"
+      audience: "14 yaş üzeri"
       cta: "Nasıl olduğunu öğren"
   gallery:
     students_drew_these_with_code: "Öğrenciler kod ile bunu çizdiler!"
@@ -621,7 +621,7 @@ tr:
     correct_body: "İşte bu doğru cevap."
   dialog:
     ok: "TAMAM"
-    startover_title: "Baştan başlamak istediğinizden emin misiniz?"
+    startover_title: "Baştan başlamak istediğinize emin misiniz?"
     startover_body: "Bu, bulmacayı başlangıç durumuna getirecek ve eklediğiniz ya da değiştirdiğiniz tüm verileri sıfırlayacaktır."
     startover_ok: "Baştan Başla"
     startover_cancel: "İptal"
@@ -796,8 +796,8 @@ tr:
     csd6_1: 'Bölüm 1: Donanım çıktısı'
     csd6_2: 'Bölüm 1: Donanım girdisi'
     csp1_1: 'Chapter 1: Representing and Transmitting Information'
-    csp1_2: 'Chapter 2: Inventing the Internet'
-    csp2_1: 'Chapter 1: Encoding and Compressing Complex Information'
+    csp1_2: Interneti icat etme
+    csp2_1: Karmaşık bilgileri kodlama ve sıkıştırma
     csp2_2: 'Chapter 2: Manipulating and Visualing Data'
     csp3_1: 'Chapter 1: Programming Languages and Algorithms'
     csp4_1: 'Chapter 1: The World of Big Data and Encryption'

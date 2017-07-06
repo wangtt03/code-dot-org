@@ -58,7 +58,7 @@
   stage_number: "Áfangi %{number}"
   puzzle: "Þraut"
   trophies: bikarar
-  courses: námskeið
+  courses: Námskeið
   unplugged_activity: Verkefni án tölvu
   of: af
   more: MEIRA
@@ -261,7 +261,7 @@
         applab: Búa til forrit í App Lab
         gamelab: Búa til Leikjasmiðjuverkefni
       home: Forsíða
-      courses: námskeið
+      courses: Námskeið
       project_gallery: Verkefnagallerí
       sections: Hópar
       help_support: Aðstoð og þjónusta
@@ -415,8 +415,8 @@
     heading_elementary: "<h2>20 stunda námskeið í</h2><h1>Undirstöðuatriðum tölvunarfræði
       (fyrir alla aldurshópa)</h1>"
     heading_apps: "<h2>Skemmtun fyrir</h2><h1>alla</h1>"
-    heading_tools: "<h2>Viltu fara í næsta áfanga?</h2><h1>JavaScript Tools for High
-      School</h1>"
+    heading_tools: "<h2>Viltu fara í næsta áfanga?</h2><h1>Verkfæri fyrir mið- og
+      framhaldsskóla</h1>"
     heading_legacy: "<h2>Hraðnámskeiðið okkar fyrir</h2><h1>alla aldurshópa</h1>"
     your_gallery: Safn
     no_primary_course: Prófaðu námskeið í Kóðastúdíóinu
@@ -700,7 +700,7 @@
     gamelab:
       title: Leikjasmiðja (beta)
       body: Leikjasmiðja er forritunarumhverfi þar sem þú getur búið til einfaldar
-        hreyfimyndir og leiki sem nota hluti og leikverur sem verka hver á aðra.
+        hreyfimyndir og leiki með hlutum og gagnvirkum leikverum.
       audience: Aldur 13+
       cta: Læra hvernig
     frozen:
@@ -731,8 +731,8 @@
     widgets:
       title: Græjur
       body: Nemendur geta kannað hugtök úr námskeiðinu okkar Grunnhugtök tölvunarfræði
-        verklega með þessum stafrænu verkfærum. Notaðu græjurnar einar eða búðu til
-        kennslustundir um stök hugtök fyrir hópinn.
+        verklega með þessum stafrænu tækjum. Notaðu græjurnar einar eða búðu til kennslustundir
+        um einstök hugtök fyrir hópinn.
       audience: Aldur 14+
       cta: Læra hvernig
   gallery:
@@ -1043,11 +1043,11 @@
     csp1_1: 'Kafli 1: Framsetning og flutningur upplýsinga'
     csp1_2: 'Kafli 2: Að finna upp internetið'
     csp2_1: 'Kafli 1: Að umkóða og þjappa margbrotnar upplýsingar'
-    csp2_2: 'Kafli 2: Mótun og sjóngerð gagna'
+    csp2_2: 'Kafli 2: Mótun og sjóngerving gagna'
     csp3_1: 'Kafli 1: Forritunarmál og algrím'
     csp4_1: 'Kafli 1: Heimur ofurgagna og dulkóðun'
     csp5_1: 'Kafli 1: Atburðaknúin forritun'
-    csp5_2: 'Kafli 2: Forritað með formgerðum gögnum'
+    csp5_2: 'Kafli 2: Forritað með formgerðum gagna'
     cspSurvey: Könnun
     cspAssessment: Kaflamat
     csp_ap_1: 'Kafli 1: AP - Tækniumhverfið'

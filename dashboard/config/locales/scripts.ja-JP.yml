@@ -2262,6 +2262,8 @@
               name: Participate in a longitudinal study!
             CSP Student Post-Course Survey:
               name: CSP Student Post-Course Survey
+            Practice PT - Encode an Experience:
+              name: Practice PT - Encode an Experience
         csp3:
           title: CSP Unit 3 - Programming
           description: This unit introduces the foundational concepts of computer
@@ -3039,7 +3041,7 @@
             'Jigsaw: Learn to drag and drop':
               name: "ジグソーパズル：ドラッグ＆ドロップを学びましょう"
             Loops:
-              name: "ループ〔くりかえし〕"
+              name: "ループ"
             Loops Intro:
               name: Loops Intro
             Loops Unplugged:
@@ -3107,7 +3109,7 @@
             'Jigsaw: Learn to drag and drop':
               name: "ジグソーパズル：ドラッグ＆ドロップを学びましょう"
             Loops:
-              name: "ループ〔くりかえし〕"
+              name: "ループ"
             Loops Intro:
               name: Loops Intro
             Loops Unplugged:
@@ -3804,7 +3806,7 @@
             Functions with Parameters:
               name: "パラメーター付き関数"
             Loops:
-              name: "ループ〔くりかえし〕"
+              name: "ループ"
             Nested Loops:
               name: "入れ子のループ"
             Variables:
@@ -4927,6 +4929,10 @@
               name: "入れ子のループ"
             Introduction:
               name: "はじめに"
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
         coursee-draft:
           title: 'CS Fundamentals: Course E'
           description_audience: ''
@@ -6297,6 +6303,8 @@
               name: CSP Student Post-Course Survey
             Participate in a longitudinal study!:
               name: Participate in a longitudinal study!
+            CSP Post-Course Survey:
+              name: CSP Post-Course Survey
           title: CSP Student Post-Course Survey
           description_audience: CSP Students
           description_short: CSP Student Post Course Survey
@@ -6369,6 +6377,10 @@
               name: F7 add Conditionals
             F5 Minecraft:
               name: F5 Minecraft
+            Programming with BB-8:
+              name: Programming with BB-8
+            Loops with BB-8:
+              name: Loops with BB-8
           title: ''
           description_audience: ''
           description_short: ''
@@ -6433,6 +6445,8 @@
               name: 'Events: The Big Event'
             Events in Play Lab:
               name: Events in Play Lab
+            More Programming in Maze:
+              name: More Programming in Maze
           title: 'CS Fundamentals: Course B'
           description_audience: ''
           description_short: An introduction to computer science for early readers.
@@ -6471,6 +6485,8 @@
               name: Screen Out the Mean
             Binary Bracelets:
               name: "バイナリブレスレット"
+            Loops in Artist:
+              name: Loops in Artist
           title: 'CS Fundamentals: Course C'
           description_audience: ''
           description_short: Learn the basics of computer science and create your
@@ -6511,6 +6527,10 @@
               name: 'Unplugged: Binary'
             Artist Binary:
               name: "芸術家　２進法"
+            Nested Loops Project in Artist:
+              name: Nested Loops Project in Artist
+            Debugging in Collector:
+              name: Debugging in Collector
           title: 'CS Fundamentals: Course D'
           description_audience: ''
           description_short: Learn the basics of computer science and create your
@@ -6632,6 +6652,8 @@
               name: Presentation Your Project
             Present Your Project:
               name: Present Your Project
+            Conditionals in Minecraft:
+              name: Conditionals in Minecraft
           title: 'CS Fundamentals: Course F'
           description_audience: ''
           description_short: Learn the basics of computer science and create your
@@ -6736,3 +6758,21 @@
           description_short: Reflection questions for novice facilitators at TeacherCon.
           description: 'A place to keep track of your reflection from TeacherCon as
             a novice facilitator. '
+        novice-view:
+          stages:
+            CSP Tuesday:
+              name: CSP Tuesday
+            CSP Wednesday:
+              name: CSP Wednesday
+            CSP Thursday:
+              name: CSP Thursday
+            CSD Tuesday:
+              name: CSD Tuesday
+            CSD Wednesday:
+              name: CSD Wednesday
+            CSD Thursday:
+              name: CSD Thursday
+          title: view novice responses
+          description_audience: brook, dani, mal
+          description_short: NA
+          description: NA
