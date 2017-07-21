@@ -4,7 +4,6 @@ import _ from 'lodash';
 import i18n from '@cdo/locale';
 import ProgressButton from '@cdo/apps/templates/progress/ProgressButton';
 import { sectionShape, assignmentShape } from './shapes';
-import AssignmentSelector from './AssignmentSelector';
 import PrintCertificates from './PrintCertificates';
 import {
   assignmentNames,
@@ -123,9 +122,7 @@ class SectionRow extends Component {
     validLoginTypes: PropTypes.arrayOf(
       PropTypes.oneOf(_.values(SectionLoginType))
     ).isRequired,
-    validGrades: PropTypes.arrayOf(PropTypes.string).isRequired,
     validAssignments: PropTypes.objectOf(assignmentShape).isRequired,
-    primaryAssignmentIds: PropTypes.arrayOf(PropTypes.string).isRequired,
     sections: PropTypes.objectOf(sectionShape).isRequired,
     updateSection: PropTypes.func.isRequired,
     removeSection: PropTypes.func.isRequired,
@@ -134,12 +131,7 @@ class SectionRow extends Component {
   constructor(props) {
     super(props);
 
-    const section = props.sections[props.sectionId];
-
     this.state = {
-      // Start in editing mode if we don't have a section code (implying this is
-      // a new section that has not been persisted to the server)
-      editing: !section.code,
       deleting: false
     };
   }
@@ -214,11 +206,6 @@ class SectionRow extends Component {
       data: JSON.stringify(data),
     }).done(result => {
       updateSection(sectionId, result);
-      // we don't want to set state for non-persisted sections, as the updateSection
-      // call results in the SectionRow unmounting
-      if (persistedSection) {
-        this.setState({ editing: false });
-      }
     }).fail((jqXhr, status) => {
       // We may want to handle this more cleanly in the future, but for now this
       // matches the experience we got in angular
@@ -234,7 +221,6 @@ class SectionRow extends Component {
     if (!persistedSection) {
       removeSection(section.id);
     }
-    this.setState({editing: false});
   }
 
   render() {
@@ -242,11 +228,9 @@ class SectionRow extends Component {
       lightRow,
       sections,
       sectionId,
-      validGrades,
       validAssignments,
-      primaryAssignmentIds
     } = this.props;
-    const { editing, deleting } = this.state;
+    const { deleting } = this.state;
 
     const section = sections[sectionId];
     if (!section) {
@@ -265,52 +249,23 @@ class SectionRow extends Component {
         }}
       >
         <td style={styles.col}>
-          {!editing && (
-            <a href={`#/sections/${section.id}/`} style={styles.link}>
-              {section.name}
-            </a>
-          )}
-          {editing && (
-            <input
-              ref={element => this.name = element}
-              placeholder={i18n.sectionName()}
-              defaultValue={section.name}
-            />
-          )}
+          <a href={`#/sections/${section.id}/`} style={styles.link}>
+            {section.name}
+          </a>
         </td>
         <td style={styles.col}>
-          {!editing && section.loginType}
-          {editing && (
-            <select
-              defaultValue={section.loginType}
-              ref={element => this.loginType = element}
-            >
-              {['word', 'picture', 'email'].map((type, index) => (
-                <option key={index} value={type}>{type}</option>
-              ))}
-            </select>
-          )}
+          {section.loginType}
         </td>
         <td style={styles.col}>
-          {!editing && section.grade}
-          {editing && (
-            <select
-              defaultValue={section.grade}
-              ref={element => this.grade = element}
-            >
-              {[""].concat(validGrades).map((grade, index) => (
-                <option key={index} value={grade}>{grade}</option>
-              ))}
-            </select>
-          )}
+          {section.grade}
         </td>
         <td style={{...styles.col, ...styles.courseCol}}>
-          {!editing && assignNames[0] &&
+          {assignNames[0] &&
             <a href={assignPaths[0]} style={styles.link}>
               {assignNames[0]}
             </a>
           }
-          {!editing && assignNames[1] &&
+          {assignNames[1] &&
             <div style={styles.currentUnit}>
               {i18n.currentUnit()}
               <div>
@@ -320,34 +275,12 @@ class SectionRow extends Component {
               </div>
             </div>
           }
-          {editing && (
-            <AssignmentSelector
-              ref={element => this.assignment = element}
-              section={section}
-              primaryAssignmentIds={primaryAssignmentIds}
-              assignments={validAssignments}
-            />
-          )}
         </td>
         <td style={styles.col}>
-          {!editing && (section.stageExtras ? i18n.yes() : i18n.no())}
-          {editing && (
-            <input
-              ref={element => this.stageExtras = element}
-              type="checkbox"
-              defaultChecked={section.stageExtras}
-            />
-          )}
+          {(section.stageExtras ? i18n.yes() : i18n.no())}
         </td>
         <td style={styles.col}>
-          {!editing && (section.pairingAllowed ? i18n.yes() : i18n.no())}
-          {editing && (
-            <input
-              ref={element => this.pairingAllowed = element}
-              type="checkbox"
-              defaultChecked={section.pairingAllowed}
-            />
-          )}
+          {(section.pairingAllowed ? i18n.yes() : i18n.no())}
         </td>
         <td style={styles.col}>
           {persistedSection &&
@@ -360,17 +293,11 @@ class SectionRow extends Component {
           {section.code}
         </td>
         <td style={styles.col}>
-          {!editing && !deleting && (
+          {!deleting && (
             <EditOrDelete
               canDelete={section.studentCount === 0}
               onEdit={this.onClickEdit}
               onDelete={this.onClickDelete}
-            />
-          )}
-          {editing && (
-            <ConfirmSave
-              onClickSave={this.onClickEditSave}
-              onCancel={this.onClickEditCancel}
             />
           )}
           {deleting && (
@@ -393,8 +320,6 @@ export const UnconnectedSectionRow = SectionRow;
 
 export default connect(state => ({
   validLoginTypes: state.teacherSections.validLoginTypes,
-  validGrades: state.teacherSections.validGrades,
   validAssignments: state.teacherSections.validAssignments,
-  primaryAssignmentIds: state.teacherSections.primaryAssignmentIds,
   sections: state.teacherSections.sections,
 }), { updateSection, removeSection })(SectionRow);
