@@ -179,6 +179,7 @@ function shareProject() {
           i18n={i18n}
           icon={appOptions.skin.staticAvatar}
           shareUrl={shareUrl}
+          thumbnailUrl={dashboard.project.getThumbnailUrl()}
           isAbusive={dashboard.project.exceedsAbuseThreshold()}
           isSignedIn={appOptions.isSignedIn}
           isPublished={dashboard.project.isPublished()}
