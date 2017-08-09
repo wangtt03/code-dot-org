@@ -93,10 +93,6 @@ def update_form(kind, secret, data)
   form[:updated_ip] = request.ip
   form[:processed_at] = nil
   form[:indexed_at] = nil
-  form[:review] = nil
-  form[:reviewed_at] = nil
-  form[:reviewed_by] = nil
-  form[:reviewed_ip] = nil
   form[:hashed_email] = Digest::MD5.hexdigest(normalized_email) if data.key?(:email_s)
   DB[:forms].where(id: form[:id]).update(form)
 
